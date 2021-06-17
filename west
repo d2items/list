@@ -1,64 +1,87 @@
 [B]Rings[/B]
 2x Nagelring Ring LLD lvlreq7 68ar 3mdr 30mf westt1/westt-bh westt1/westt-bj
+Ring 103ar 10ll 4str 12life 61mana 10mf westt1/westt-bl
 Ring 105ar 8ll 37life 8liferep 10lr westt1/westt-bh
 Ring 10fcr 55ar 20str 6lr 2damred westt1/westt-bi
+Ring 112ar 7ll 18life 19cr 24fr 9mf westt1/westt-bp
 Ring 40mf westt1/westt-bi
 Ring 4mindmg 1maxdmg 77ar 7liferep 27lr 19fr westt1/westt-bd
 Ring LLD lvlreq18 1maxdmg 37ar 6life 5liferep 34mana westt1/westt-bj
+Ring LLD lvlreq29 10 Chance to cast level 3 Nova when struck 113ar 1str 70mana 25lr westt1/westt-bm
+Ring LLD lvlreq29 10fcr 5mindmg 134ar 63mana 10pr 3lightradius westt1/westt-br
 
 [B]Runes[/B]
-Ber
+3x Ber
 Lem
-2x Lum
-22x Shael
-6x Amn
-13x Thul
-28x Ort
-29x Ral
-22x Tal
-22x Nef
-15x Tir
+3x Lum
+11x Hel
+33x Shael
+12x Amn
+18x Thul
+50x Ort
+54x Ral
+30x Tal
+33x Nef
+28x Tir
 
 [B]Amulets[/B]
+Amu 3coldskills 33mf westt1/westt-bo
 Amu 3masteries(barb) 10fcr westt1/westt-bg
 Amu 3pnbskills 10fcr westt1/westt-bi
+Amu LLD lvlreq30 2shadowdisciplines 15liferep westt1/westt-bo
 maras Amu 22@ westt1/westt-bi
 
 [B]Jewels[/B]
+Jewel 12life 19mana westt1/westt-bq
+Jewel 13maxdmg 9str westt1/westt-br
 Jewel 14maxdmg 24eg westt1/westt-bd
 Jewel 15ias 15maxdmg westt1/westt-bh
 Jewel 15ias 20fr westt1/westt-bj
 Jewel 15ias 22pr westt1/westt-bg
+Jewel 15ias 23ar westt1/westt-bk
 Jewel 15ias 25pr westt1/westt-ba
 Jewel 15ias 27lr westt1/westt-bb
+Jewel 15ias 63 def westt1/westt-bn
+Jewel 36ed req-15 westt1/westt-br
 Jewel 5ed 10mindmg 49damagetoundead 47ar against Undead 9dex westt1/westt-bg
+Jewel 7-15dmg westt1/westt-bn
+Jewel 7fhr 3liferep 10@ westt1/westt-bo
 Jewel 7mindmg 61 def westt1/westt-bc
+Jewel 9energy 15@ westt1/westt-bp
 Jewel 9energy 16mana westt1/westt-bg
 Jewel LLD lvlreq14 5energy 29lr westt1/westt-bf
 Jewel LLD lvlreq18 15maxdmg 30fr westt1/westt-bh
 Jewel LLD lvlreq18 15maxdmg 7mf westt1/westt-bd
 Jewel LLD lvlreq21 18mana req-15 westt1/westt-be
+Jewel LLD lvlreq26 15@ westt1/westt-bn
 Jewel LLD lvlreq30 5-15dmg westt1/westt-bf
 Jewel LLD lvlreq30 5mindmg 5str 5energy req-15 westt1/westt-ba
+Jewel LLD lvlreq6 5energy 7mana westt1/westt-bq
 Jewel LLD lvlreq8 4-9dmg westt1/westt-ba
+Jewel LLD lvlreq9 20ed 4mindmg westt1/westt-br
 
 [B]Runewords[/B]
 Insight dmg106-228 LLD lvlreq27 lvl16 Meditation 35fcr 226ed 9mindmg 214ar 6criticalstrike4sox westt1/westt-bd
+Insight dmg109-234 LLD lvlreq27 lvl15 Meditation 35fcr 235ed 9mindmg 183ar 3criticalstrike4sox westt1/westt-bo
 Insight dmg116-249 LLD lvlreq27 lvl14 Meditation 35fcr 257ed 9mindmg 190ar 2criticalstrike13dura 4sox westt1/westt-bc
+Insight Poleaxe dmg73-140 LLD lvlreq27 lvl14 Meditation 35fcr 259ed 9mindmg 189ar 2ar 1criticalstrike4sox westt1/westt-bl
 Insight Scythe dmg35-65 LLD lvlreq27 lvl14 Meditation 35fcr 228ed 9mindmg 239ar 6criticalstrike4sox westt1/westt-bi
 Insight Voulge dmg31-77 LLD lvlreq27 lvl12 Meditation 35fcr 267ed 9mindmg 234ar 3criticalstrike4sox westt1/westt-bc
 Insight War Scythe dmg56-113 LLD lvlreq27 lvl14 Meditation 35fcr 216ed 9mindmg 217ar 5criticalstrike4sox westt1/westt-bf
 Spirit Broad Sword dmg7-14 LLD lvlreq25 2allskills 25fcr 2ar 22vita 97mana 3magicabs 14dura 4sox westt1/westt-be
 Spirit Broad Sword dmg7-14 LLD lvlreq25 2allskills 26fcr 22vita 104mana 4magicabs 4sox westt1/westt-be
 Spirit Crystal Sword dmg5-15 LLD lvlreq25 2allskills 27fcr 22vita 101mana 3magicabs 4sox westt1/westt-bg
+Spirit sacredtarge 154def 60chancetoblock Smite Damage: 22 to 70 2allskills 29fcr 55fhr 65ed 120ar 22vita 91mana 8magicabs 4sox westt1/westt-bk
 
 [B]Charms[/B]
 Gc 1eleskills 25life westt1/westt-bh
 Gc 1fireskills 27life westt1/westt-bj
 Gc 1fireskills westt1/westt-bj
 Gc 1javaskills 40life westt1/westt-bh
+Gc 1masteries(barb) 30life westt1/westt-bk
 Gc 1palacombatskill westt1/westt-bj
 Gc 1pnbskills 19life westt1/westt-bd
+Gc 1pnbskills 3str westt1/westt-bk
 Gc 1pnbskills westt1/westt-bf
 Gc 1traps 6str westt1/westt-ba
 Gc 1warcries 2maxdmg westt1/westt-bh
@@ -66,103 +89,184 @@ Gc 1warcries 4-9 colddmg westt1/westt-bh
 Gc 31life 15@ westt1/westt-bh
 Gc 34life 52mana westt1/westt-bg
 Gc 37life 15@ westt1/westt-bf
+Gc LLD lvlreq16 12fhr 6maxdmg 32ar westt1/westt-bo
 Gc LLD lvlreq16 6maxdmg 24ar 6dex westt1/westt-bg
 Gc LLD lvlreq16 7frw 6maxdmg 21ar westt1/westt-bd
 Gc LLD lvlreq21 7frw 10maxdmg 68ar westt1/westt-bj
+Gc LLD lvlreq29 6str 44mana westt1/westt-bn
 Gheed Gc 134eg 40mf vendorprices 11 westt1/westt-bj
+Gheed Gc 138eg 40mf vendorprices 13 westt1/westt-bk
 Lc 26mana 22eg westt1/westt-bh
 Lc LLD lvlreq18 6life 16mana westt1/westt-bg
 Lc LLD lvlreq21 5frw 6maxdmg 27ar westt1/westt-bj
+Lc LLD lvlreq27 20life 15lr westt1/westt-bn
+Sc 10ar 20life westt1/westt-bl
+Sc 10fr 5eg westt1/westt-bl
+Sc 10lr 7mf westt1/westt-bq
 Sc 11ar 20life westt1/westt-bf
+3x Sc 11pr westt1/westt-bm westt1/westt-bq westt1/westt-br
+Sc 16life 11cr westt1/westt-bp
 Sc 16life 9lr westt1/westt-bb
+Sc 177psndmg(over 8s) westt1/westt-bp
 Sc 17life 8mana westt1/westt-be
 Sc 18life 11pr westt1/westt-bg
+Sc 18life 16mana westt1/westt-br
 Sc 18life 9pr westt1/westt-bg
+Sc 19life 10lr westt1/westt-bm
 Sc 19life 9lr westt1/westt-bj
+Sc 2-3 colddmg 11pr westt1/westt-bp
 Sc 20life 13mana westt1/westt-bh
 Sc 20life 6pr westt1/westt-bb
 Sc 20life 8pr westt1/westt-bj
 Sc 20life 9lr westt1/westt-bd
-4x Sc 20life westt1/westt-ba westt1/westt-bd westt1/westt-bh westt1/westt-bi
+5x Sc 20life westt1/westt-ba westt1/westt-bd westt1/westt-bh westt1/westt-bi westt1/westt-bq
+Sc 2dex 11fr westt1/westt-bk
 Sc 33ar 10eg westt1/westt-bd
 2x Sc 3frw 11fr westt1/westt-bd westt1/westt-bg
+Sc 3frw 11lr westt1/westt-bl
+Sc 3maxdmg 17ar 18life westt1/westt-bq
+Sc 5fhr 11fr westt1/westt-bp
+Sc 5fhr 17mana westt1/westt-br
 Sc LLD lvlreq12 1dex 7mana westt1/westt-be
 Sc LLD lvlreq15 4 def 10life westt1/westt-be
+Sc LLD lvlreq17 12ar 14life westt1/westt-bo
 Sc LLD lvlreq17 8 def 14life westt1/westt-bi
+Sc LLD lvlreq17 8 def 15life westt1/westt-bl
+Sc LLD lvlreq21 3maxdmg 14ar 2dex westt1/westt-bp
+Sc LLD lvlreq21 3maxdmg 15ar 2str westt1/westt-bq
+Sc LLD lvlreq24 2dex 12mana westt1/westt-bl
 Sc LLD lvlreq25 5@ westt1/westt-bj
+Sc LLD lvlreq27 3frw 10mana westt1/westt-bo
+2x Sc LLD lvlreq27 3frw 9fr westt1/westt-bk westt1/westt-bl
 2x Sc LLD lvlreq28 18 def 15life westt1/westt-bb westt1/westt-bi
+Sc LLD lvlreq29 5fhr 9fr westt1/westt-bk
 Sc LLD lvlreq29 5fhr 9lr westt1/westt-bj
 
 [B]Boots[/B]
+Chain Boots 8def 40frw 34mana westt1/westt-br
 Chain Boots 9def 30frw 31mana westt1/westt-bf
+Light Plated Boots 15def 30frw 36mana ETH westt1/westt-br
 Mesh Boots 41def 40frw 37mana westt1/westt-bd
+wt Battle Boots 128def 168ed(def) 50mf westt1/westt-bl
 
 [B]Helms & Pelts[/B]
+Alpha Helm 56def LLD lvlreq30 3fury 3 to Rabies westt1/westt-bq
 Andariel's Visage Demonhead 328def 20ias 8ll 112ed(def) 25str 10maxpr fr-30 70pr lvl3 Venom (15/20 Charges) westt1/westt-be
 Artisan's Antlers 20def LLD lvlreq25 3 to Carrion Vine 3sox westt1/westt-bf
 Carnage Helm 112def 3bo 1 to Increased Speed westt1/westt-bg
+Carnage Helm 115def 3bo 1 to Increased Speed westt1/westt-bk
 Horned Helm 27def LLD lvlreq30 2warcries 3 to War Cry westt1/westt-bi
+Horned Helm 41def LLD lvlreq30 5 Chance to cast level 3 Frost Nova when struck 2warcries 3 to War Cry 1grimward 33ed(def) 1energy 2lightradius westt1/westt-bo
+Jawbone Visor 59def LLD lvlreq30 1naturalresistance 3bo 2 to Increased Speed westt1/westt-bp
+Jawbone Visor 67def LLD lvlreq25 3bo 1 to Increased Speed 1 to Skin westt1/westt-bl
+Lion Helm 66def LLD lvlreq29 3bo 2 to Increased Speed westt1/westt-bp
+Shako 117def unid westt1/westt-br
+Superior Avenger Guard 35def LLD lvlreq24 3bo 1 to Increased Speed 1battlecry 15dura westt1/westt-bl
 Superior Crown 52def 15ed(def) 3sox westt1/westt-bg
 Superior Falcon Mask 31def LLD lvlreq18 3fireclaws 1heartofwolverine 8ed(def) 3sox westt1/westt-ba
+Superior Great Helm 41def 15ed(def) westt1/westt-bm
 Superior Hawk Helm 17def LLD lvlreq12 3 to Carrion Vine 10ed(def) 13dura 2sox westt1/westt-bd
 Superior Hawk Helm 17def LLD lvlreq18 2heartofwolverine 3 to Carrion Vine 11ed(def) 14dura westt1/westt-bh
 Vampire Gaze Grim Helm 252def 6-22 colddmg 6ml 6ll 100ed(def) 15slowerstaminadrain 17damred 10mdr westt1/westt-bd
 Vampire Gaze Grim Helm 252def 6-22 colddmg 7ml 7ll 100ed(def) 15slowerstaminadrain 18damred 15mdr westt1/westt-bd
+Vampire Gaze Grim Helm 252def 6-22 colddmg 7ml 8ll 100ed(def) 15slowerstaminadrain 17damred 12mdr westt1/westt-bl
+Wolf Head of Bolt 9def 14 Chance to cast level 5 Charged Bolt when struck 3eleskills 1 to Summon Grizzly 3nado westt1/westt-bl
 
 [B]Circlets[/B]
 Circlet 22def 3traps 30frw westt1/westt-bh
+Coronet 30def 3eleskills 30frw westt1/westt-bo
 Coronet 31def 3lightningskill 30frw westt1/westt-ba
+Coronet 40def 30frw 5ml 36cr 5damred 2sox westt1/westt-bk
 
 [B]Armors[/B]
+Ancient Armor 349def ETH westt1/westt-bk
 Balrog Skin 1012def ETH 3sox westt1/westt-bi
+Balrog Skin 1045def ETH 3sox westt1/westt-bk
 Balrog Skin 1054def ETH 4sox westt1/westt-be
 Balrog Skin 1135def ETH 3sox westt1/westt-bi
+Boneweave 1039def ETH 3sox westt1/westt-bn
+Boneweave 1102def ETH 3sox westt1/westt-bl
+Dusk Shroud 1008def ETH 4sox westt1/westt-bp
+Dusk Shroud 1030def ETH 4sox westt1/westt-bq
 Great Hauberk 1099def ETH 4sox westt1/westt-bj
+Great Hauberk 501def 3sox westt1/westt-bp
 Hard Leather Armor 33def dura: 0 of 15 0 LLD lvlreq26 4dex 15lr 13fr 15pr ETH westt1/westt-bg
 Hellforge Plate 1014def ETH 4sox westt1/westt-bj
+Hellforge Plate 1017def ETH 3sox westt1/westt-bl
+Hellforge Plate 1120def ETH 4sox westt1/westt-br
+Hellforge Plate 1138def ETH 3sox westt1/westt-bl
+Loricated Mail 1027def ETH 3sox westt1/westt-bp
+Loricated Mail 1104def ETH 4sox westt1/westt-bn
 Mage Plate 227def LLD lvlreq25 2sox westt1/westt-bj
 Mage Plate 233def LLD lvlreq25 2sox westt1/westt-ba
 Mage Plate 259def LLD lvlreq25 2sox westt1/westt-bc
 Mage Plate 261def LLD lvlreq25 3sox westt1/westt-bi
+Mail 1021def ETH 4sox westt1/westt-bq
+Mail 1066def ETH 3sox westt1/westt-bm
 Scarab Husk 1008def ETH 4sox westt1/westt-bc
 Scarab Husk 1014def ETH 3sox westt1/westt-bh
+Scarab Husk 1036def ETH 4sox westt1/westt-bp
+Scarab Husk 1054def ETH 3sox westt1/westt-bq
 Superior Breast Plate 68def 15dura 3sox westt1/westt-bg
+Superior Breast Plate 73def 6ed(def) 15dura 3sox westt1/westt-bm
+Superior Breast Plate 76def 11ed(def) 15dura 3sox westt1/westt-bl
 Superior Breast Plate 77def 13ed(def) 14dura 3sox westt1/westt-bi
+Superior Dusk Shroud 538def 15ed(def) 12dura 3sox westt1/westt-bk
 Superior Ghost Armor 191def LLD lvlreq22 8ed(def) 12dura ETH 2sox westt1/westt-ba
+Superior Gothic Plate 156def 15ed(def) 4sox westt1/westt-bn
 Superior Mage Plate 288def LLD lvlreq25 10ed(def) 3sox westt1/westt-ba
+Superior Mage Plate 293def LLD lvlreq25 12ed(def) 10dura 3sox westt1/westt-br
+Superior Mage Plate 301def LLD lvlreq25 15ed(def) 10dura westt1/westt-bk
 Superior Mage Plate 301def LLD lvlreq25 15ed(def) 13dura westt1/westt-be
+Superior Ring Mail 47def 10dura 3sox westt1/westt-bp
 Superior Ring Mail 51def 6ed(def) 2sox westt1/westt-bh
 Superior Ring Mail 52def 7ed(def) 15dura 3sox westt1/westt-bh
 Superior Ring Mail 52def 7ed(def) 3sox westt1/westt-bc
+Superior Ring Mail 53def 9ed(def) 3sox westt1/westt-bo
 Superior Studded Leather 37def 5ed(def) 2sox westt1/westt-bd
-Superior Wire Fleece 549def 14ed(def) 3sox westt1/westt-be
+2x Superior Wire Fleece 549def 14ed(def) 3sox westt1/westt-be westt1/westt-bq
 Superior Wyrmhide 541def 15ed(def) 3sox westt1/westt-bf
+Wyrmhide 470def 3sox westt1/westt-br
 
 [B]Gloves[/B]
 Frostburn Gauntlets 57def dura: 0 of 13 LLD lvlreq29 5ed 1-6 colddmg 16ed(def) 30 def maxmana 40 ETH westt1/westt-bb
 Frostburn Gauntlets 58def dura: 0 of 13 LLD lvlreq29 5ed 1-6 colddmg 18ed(def) 30 def maxmana 40 ETH westt1/westt-ba
 Heavy Bracers 49def 20ias 15ar 10ed(def) 4str 15dex 28cr westt1/westt-be
+2x Trang-Oul's Claws Heavy Bracers 74def 2curseskills 20fcr 25psnskilldmg 30 def 30cr westt1/westt-bm westt1/westt-bq
 War Gauntlets 50def 2passivandmagicskills 20ias 1dex 29fr westt1/westt-bd
 
 [B]Belts[/B]
+Belt 7def LLD lvlreq18 17fhr 24ed(def) 32life 3liferep 15cr 17lr westt1/westt-bn
+Belt 7def LLD lvlreq18 24fhr 31ed(def) 5str 36life 5mana 9pr westt1/westt-bm
 Heavy Belt 6def LLD lvlreq22 17fhr 0 def (based on clvl) 6str 51life 7lr westt1/westt-bb
+Heavy Belt 9def LLD lvlreq22 17fhr 40ed(def) 6str 45life 7mana 28cr westt1/westt-br
+Sharkskin Belt 54def dura: 0 of 8 0 LLD lvlreq25 29life 6lr ETH westt1/westt-br
 
 [B]Shields[/B]
+Ancients' Pledge Kite Shield 24def 38chancetoblock Smite Damage: 2 to 5 dura: 0 of 30 LLD lvlreq21 50ed(def) 43cr 48lr 48fr 48pr 10dmggoestomana 3sox westt1/westt-br
 Ancients' Pledge Kite Shield 24def 38chancetoblock Smite Damage: 2 to 5 LLD lvlreq21 50ed(def) 43cr 48lr 48fr 48pr 10dmggoestomana 3sox westt1/westt-ba
-2x Ancients' Pledge Kite Shield 25def 38chancetoblock Smite Damage: 2 to 5 LLD lvlreq21 50ed(def) 43cr 48lr 48fr 48pr 10dmggoestomana 3sox westt1/westt-bh westt1/westt-bj
+4x Ancients' Pledge Kite Shield 25def 38chancetoblock Smite Damage: 2 to 5 LLD lvlreq21 50ed(def) 43cr 48lr 48fr 48pr 10dmggoestomana 3sox westt1/westt-bh westt1/westt-bj westt1/westt-bp westt1/westt-bq
 Ancients' Pledge Kite Shield 27def 38chancetoblock Smite Damage: 2 to 5 LLD lvlreq21 50ed(def) 43cr 48lr 48fr 48pr 10dmggoestomana 3sox westt1/westt-bb
 Ancients' Pledge Large Shield 18def 42chancetoblock Smite Damage: 2 to 4 LLD lvlreq21 50ed(def) 43cr 48lr 48fr 48pr 10dmggoestomana 3sox westt1/westt-bg
 3x Ancients' Pledge Large Shield 21def 42chancetoblock Smite Damage: 2 to 4 LLD lvlreq21 50ed(def) 43cr 48lr 48fr 48pr 10dmggoestomana 3sox westt1/westt-bb westt1/westt-be westt1/westt-bf
 Jeweler's Kite Shield 17def 58chancetoblock Smite Damage: 2 to 5 30fbr 20incchanceofblocking 3sox westt1/westt-bh
+Superior Dragon Shield 117def 48chancetoblock Smite Damage: 15 to 24 LLD lvlreq25 15ed(def) ETH 2sox westt1/westt-bq
+2x Superior Monarch 171def 52chancetoblock Smite Damage: 12 to 34 15ed(def) westt1/westt-bl westt1/westt-bm
+Tower Shield 22def 74chancetoblock Smite Damage: 1 to 5 LLD lvlreq13 30fbr 20incchanceofblocking 17mana 23fr hfd 2sox westt1/westt-bm
 
 [B]Pala Shields[/B]
 Crown Shield 40def 55chancetoblock Smite Damage: 4 to 12 LLD lvlreq18 45@ westt1/westt-bg
+Kurast Shield 361def 55chancetoblock Smite Damage: 10 to 82 62ed 115ar ETH 4sox westt1/westt-bm
 Royal Shield 366def 55chancetoblock Smite Damage: 24 to 32 45@ ETH 4sox westt1/westt-bb
 sacredrondache 325def 58chancetoblock Smite Damage: 35 to 58 32@ ETH 4sox westt1/westt-bd
+sacredrondache 342def 58chancetoblock Smite Damage: 35 to 58 41@ ETH 4sox westt1/westt-br
 sacredtarge 139def 60chancetoblock Smite Damage: 22 to 70 44@ 4sox westt1/westt-bh
+sacredtarge 186def 75chancetoblock Smite Damage: 22 to 70 30fbr 20incchanceofblocking 17ed(def) 29cr 29lr 29fr 47pr hfd 2sox westt1/westt-bk
 sacredtarge 297def 60chancetoblock Smite Damage: 22 to 70 44@ ETH 4sox westt1/westt-bj
 sacredtarge 310def 60chancetoblock Smite Damage: 22 to 70 35@ ETH 4sox westt1/westt-bi
 sacredtarge 348def 60chancetoblock Smite Damage: 22 to 70 40@ ETH 4sox westt1/westt-bj
+Spirit sacredtarge 154def 60chancetoblock Smite Damage: 22 to 70 2allskills 29fcr 55fhr 65ed 120ar 22vita 91mana 8magicabs 4sox westt1/westt-bk
+Superior Crown Shield 45def 55chancetoblock Smite Damage: 4 to 12 LLD lvlreq18 10ed(def) 45@ westt1/westt-bq
 Superior sacredrondache 181def 58chancetoblock Smite Damage: 35 to 58 10ed(def) 45@ 14dura westt1/westt-bj
 
 [B]Maces[/B]
@@ -173,26 +277,49 @@ Superior Knout dmg14-40 LLD lvlreq25 15ed 3ar 50damagetoundead westt1/westt-bf
 Matriarchal Bow dmg20-47 3bowskills 4sox westt1/westt-bj
 Superior Stag Bow dmg8-13 LLD lvlreq14 3bowskills 15ed 3ar westt1/westt-bb
 
+[B]Bows[/B]
+Rune Bow dmg34-90 LLD lvlreq30 20ias 149ed 3maxdmg 97ar HitCausesMonsterFlee18 lvl5 Exploding Arrow (26/48 Charges) westt1/westt-bk
+Superior Great Bow dmg13-59 15ed 3ar westt1/westt-bq
+
 [B]Assassin Katars[/B]
+FeralClaws dmg22-53 3venom 3ls 1 to Dragon Tail 3sox westt1/westt-bn
+Hand Scythe dmg16-37 LLD lvlreq30 2deathsentry 3ls 1 to Warrior westt1/westt-bk
 Hand Scythe dmg16-37 LLD lvlreq30 2dragonflight 3ls 2sox westt1/westt-bb
 Hand Scythe dmg16-37 LLD lvlreq30 2dragonflight 3ls westt1/westt-bh
 Hand Scythe dmg21-48 LLD lvlreq30 1assaskills 32ed 58ar 119damagetoundead 77ar against Undead 1deathsentry 2 to Dragon Tail 3 to Wake westt1/westt-bd
+War Fist dmg66-79 3ls ETH westt1/westt-bm
 
 [B]Sorceress Orbs[/B]
 Crystalline Globe dmg10-26 2sorcskills 20fcr 35-77firedmg 1enchant 3 to Lightning 12life lvl3 Meteor (23/41 Charges) westt1/westt-bf
+Crystalline Globe dmg10-26 LLD lvlreq30 2fireskills 20fcr 1chillingarmor 3 to Fire Wall 1 to Blaze 16life westt1/westt-br
 Eschuta's Temper Eldritch Orb dmg18-50 3sorcskills 40fcr 14lightskilldmg 20fireskilldmg 23energy westt1/westt-ba
+Jareds Stone dmg8-18 LLD lvlreq30 1sorcskills 1 to Lightning Mastery 3chillingarmor 2energy Shield 3mana 2mdr westt1/westt-bp
 
 [B]Polearms[/B]
-Bill dmg14-53 LLD lvlreq25 4sox westt1/westt-bb
+Battle Scythe dmg18-45 LLD lvlreq25 4sox westt1/westt-bp
+2x Bill dmg14-53 LLD lvlreq25 4sox westt1/westt-bb westt1/westt-bp
 2x Colossus Voulge dmg25-247 ETH 4sox westt1/westt-bf westt1/westt-bg
-2x Cryptic Axe dmg49-225 ETH 4sox westt1/westt-bb westt1/westt-bc
+Colossus Voulge dmg96-950 5AmpOnStriking 285ed 0maxdmg (based on clvl) 54ar 16ar (based on clvl) 7ml 13str ETH westt1/westt-bn
+4x Cryptic Axe dmg49-225 ETH 4sox westt1/westt-bb westt1/westt-bc westt1/westt-bn westt1/westt-bo
 Halberd dmg12-45 4sox westt1/westt-ba
+Superior Cryptic Axe dmg53-245 9ed 14dura ETH 4sox westt1/westt-bo
+Superior Partizan dmg38-84 LLD lvlreq23 12ed 4sox westt1/westt-br
 Superior Scythe dmg8-22 11ed 1ar 4sox westt1/westt-bi
-Thresher dmg18-211 ETH 4sox westt1/westt-bf
+Superior War Scythe dmg16-39 11ed 4sox westt1/westt-br
+2x Thresher dmg18-211 ETH 4sox westt1/westt-bf westt1/westt-bn
 Voulge dmg6-21 4sox westt1/westt-be
-2x War Scythe dmg15-36 4sox westt1/westt-bd westt1/westt-bj
+4x War Scythe dmg15-36 4sox westt1/westt-bd westt1/westt-bj westt1/westt-bm westt1/westt-bn
 
 [B]Scepters[/B]
 War Scepter dmg10-17 LLD lvlreq30 3 to Fanaticism 50damagetoundead westt1/westt-bc
+
+[B]Amazon Javelins[/B]
+Maiden Javelin throwdmg15-57 dmg21-36 quantity:80 LLD lvlreq17 1javaskills 20ias 75ed 46ar 5ll ReplenishesQuantity ETH westt1/westt-bo
+
+
+
+
+
+
 
 
