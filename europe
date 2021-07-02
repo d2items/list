@@ -35,6 +35,7 @@ Ring 103ar 3ll 20str 14dex 20life 9mana eurr7/eurr-hh
 Ring 103ar 7ll 3str 54life 15mf eurr14/eurr-bej
 Ring 104ar 2ll 25str 3energy 14life 8liferep eurr14/eurr-bel
 Ring 104ar 3ll 5str 45life 8liferep 5mf eurr13/eurr-bdi
+Ring 105ar 1ll 4str 6dex 10life 3mana 10mf eurr15/eurr-bfk
 Ring 107ar 3ll 8str 10energy 10life 17cr eurr12/eurr-bcf
 Ring 10fcr 1-11light dmg 1ll 5str 51life 27fr eurr14/eurr-beq
 Ring 10fcr 101ar 1ll 2str 40life psnlengthreducedby25 eurr3/eurr-dp
@@ -42,6 +43,7 @@ Ring 10fcr 101ar 2ll 3str 8dex 48life eurr3/eurr-dd
 Ring 10fcr 101ar 40life 12mana 30lr eurr8/eurr-im
 Ring 10fcr 102ar 10ll 2str 13life 29fr eurr6/eurr-gh
 Ring 10fcr 102ar 15str 7life 12lr 8mf eurr14/eurr-beb
+Ring 10fcr 104ar 40life 57mana 26fr eurr15/eurr-bfj
 Ring 10fcr 106ar 8dex 10maxstamina 30cr 1mdr eurr12/eurr-bcj
 Ring 10fcr 108ar 10dex 17lr 20fr 2mdr eurr13/eurr-bdo
 Ring 10fcr 108ar 1ll 5str 13life 9liferep 2damred eurr2/eurr-co
@@ -97,12 +99,15 @@ Ring 10fcr 2ll 3str 42life 6mf lvl3 Dim Vision (14/27 Charges) eurr9/eurr-jl
 Ring 10fcr 2mindmg 103ar 82mana 9@ eurr13/eurr-bdk
 Ring 10fcr 31ar 17str 15dex 10cr 19pr eurr8/eurr-il
 Ring 10fcr 33life 7@ 10mf eurr2/eurr-cg
+Ring 10fcr 34life 30cr 11lr 11fr 11pr 1damred eurr16/eurr-bgc
 Ring 10fcr 35life 4mana 7maxstamina 28pr 1mdr eurr2/eurr-cm
 Ring 10fcr 37life 26cr eurr14/eurr-bep
 Ring 10fcr 38ar 14str 33life 86mana 5pr eurr15/eurr-bfa
 Ring 10fcr 39life 31mana 23fr 13pr eurr14/eurr-bec
 Ring 10fcr 3dex 58mana 3cr 3lr 22fr 3pr eurr14/eurr-bei
+Ring 10fcr 3ll 10str 35life 14fr eurr16/eurr-bga
 Ring 10fcr 3ll 2str 48life 8fr hfd eurr5/eurr-fc
+Ring 10fcr 3ll 3str 45life 13maxstamina 30pr eurr16/eurr-bgb
 Ring 10fcr 3ll 4str 18life 89mana 25cr 15fr eurr14/eurr-beo
 Ring 10fcr 3maxdmg 45ar 63mana 30fr eurr11/eurr-bbd
 Ring 10fcr 3maxdmg 7life 30cr 22lr 25fr eurr15/eurr-bfi
@@ -132,6 +137,7 @@ Ring 10fcr 74ar 8liferep 53mana 10@ 1damred eurr2/eurr-ca
 Ring 10fcr 77mana 3cr 3lr 29fr 3pr eurr8/eurr-ij
 Ring 10fcr 78ar 5energy 11cr 28lr 11fr 11pr 15mf eurr2/eurr-ck
 Ring 10fcr 7ll 23str 14life 14lr eurr9/eurr-je
+Ring 10fcr 7mindmg 83ar 9dex 7mana 21cr eurr15/eurr-bfn
 Ring 10fcr 81ar 14dex 21cr 26pr eurr13/eurr-bdc
 Ring 10fcr 81ar 1str 14dex 22mana 16cr eurr3/eurr-dj
 Ring 10fcr 87ar 1ll 1str 10energy 47life eurr5/eurr-fk
@@ -166,11 +172,13 @@ Ring 116ar 2ll 22str 32life 7maxstamina eurr1/eurr-bo
 Ring 116ar 2ll 4str 45life 19cr 16fr eurr6/eurr-gl
 Ring 117ar 2ll 5str 48life 15mana 28fr eurr10/eurr-bam
 Ring 117ar 3ll 20str 11life 22lr 6fr eurr11/eurr-bba
+Ring 118ar 2ml 8ll 25pr eurr15/eurr-bfk
 Ring 118ar 3ll 18str 7dex 55life eurr13/eurr-bdi
 Ring 118ar 3ll 20str 52life 1damred eurr7/eurr-hg
 Ring 118ar 3ll 4str 54life 24lr psnlengthreducedby25 eurr4/eurr-eh
 Ring 118ar 7ll 20str 2dex 1manaaftereachkill eurr9/eurr-ja
 Ring 119ar 1ll 2str 34life 9liferep 25fr eurr1/eurr-br
+Ring 119ar 2ll 5str 57life 6cr 6lr 6fr 16pr eurr15/eurr-bfq
 Ring 12 Chance to cast level 4 Bolt when struck 20str 5life 7cr 7lr 36fr 24pr eurr9/eurr-jg
 Ring 12 Chance to cast level 4 Nova when struck 104ar 8ll 4mana 10@ eurr7/eurr-hr
 Ring 12 Chance to cast level 4 Nova when struck 1maxdmg 3ll 5str 11life 9lr 32eg eurr9/eurr-jf
@@ -212,6 +220,7 @@ Ring 2ll 24str 12dex 46life 32mana eurr3/eurr-dr
 Ring 2ll 25str 15dex 15life hfd 2lightradius eurr9/eurr-jn
 Ring 2ll 25str 17life 24cr 14fr 28eg eurr8/eurr-ie
 Ring 2ll 3str 14life 9liferep 7cr 28lr 25fr 7pr eurr3/eurr-dd
+Ring 2ll 4str 18life 9liferep 77mana 18maxstamina 23pr eurr15/eurr-bfo
 Ring 2ll 7str 11life 32mana 1damred 1manaaftereachkill eurr6/eurr-gq
 Ring 36ar 3ll 24str 13dex 11life lvl1 Attract (6/22 Charges) eurr2/eurr-ck
 Ring 39mf eurr5/eurr-fk
@@ -270,6 +279,7 @@ Ring 75ar 1ll 4str 18life 10fr 9pr eurr2/eurr-cl
 Ring 78ar 3ll 4str 48life 5liferep 40eg eurr6/eurr-gl
 Ring 79ar 15dex 34life 26cr 12pr eurr14/eurr-beg
 Ring 8 Chance to cast level 5 Chain Lightning on attack 26ar 1ll 25str 15life 16pr eurr12/eurr-bch
+Ring 8 Chance to cast level 5 Chain Lightning on attack 36ar 2ll 18str 14life 26pr eurr15/eurr-bfk
 Ring 80ar 11dex 39life 61mana 9cr 2damred eurr11/eurr-bbd
 Ring 81ar 12dex 7liferep 23lr 9fr 11mf eurr4/eurr-ej
 Ring 84ar 1-14light dmg 2ll 25str 11life 18maxstamina eurr5/eurr-fh
@@ -294,10 +304,12 @@ Ring 9energy 9liferep 37cr 11lr 11fr 11pr 1manaaftereachkill 29eg eurr13/eurr-bd
 Ring 9ll 22str 3dex 17life 86mana eurr8/eurr-in
 Ring 9mindmg 117ar 3ll 1str 15energy 15life 18fr eurr12/eurr-bcr
 Ring 9mindmg 14ar 20str 11@ 1mdr eurr6/eurr-gl
+Ring 9mindmg 1maxdmg 95ar 33life 9maxstamina 20lr eurr15/eurr-bfm
 Ring 9mindmg 51ar 12str 8energy 72mana 29cr eurr2/eurr-cl
 Ring 9mindmg 95ar 3ll 3str 20life 9cr 9lr 29fr 9pr eurr7/eurr-hn
 Ring 9mindmg 97ar 11str 1life 68mana 27lr eurr10/eurr-bac
 Ring LLD lvlreq13 10fcr 2str 27cr 25lr 21pr 31eg eurr3/eurr-dm
+Ring LLD lvlreq13 10fcr 96ar 9cr 26lr 36eg 15mf eurr15/eurr-bfr
 Ring LLD lvlreq18 109ar 4dex 5energy 36mana 19lr 8mf eurr8/eurr-il
 Ring LLD lvlreq18 10fcr 5ar 71ar 3str 39mana 8fr 5lightradius eurr10/eurr-bal
 Ring LLD lvlreq18 1dex 4liferep 37mana 8lr 2damred eurr8/eurr-ir
@@ -323,6 +335,7 @@ Ring LLD lvlreq29 5 Chance to cast level 3 Chain Lightning on attack 71ar 4dex 8
 Ring LLD lvlreq29 50ar 3ll 4str 19life 3liferep 16maxstamina 2lightradius eurr10/eurr-bao
 Ring LLD lvlreq29 70ar 2str 84mana 15fr eurr5/eurr-fl
 Ring LLD lvlreq29 75ar 5liferep 75mana 20fr eurr4/eurr-en
+Ring LLD lvlreq29 99ar 2str 1energy 83mana 21cr 1damred eurr16/eurr-bga
 Ring LLD lvlreq30 10fcr 1-3firedmg 8life 77mana 10lr eurr15/eurr-bfe
 Ring LLD lvlreq30 64ar 9str 15life 81mana 9mf eurr12/eurr-bcq
 Ring LLD lvlreq9 1maxdmg 78ar 2dex 3mana 6lr eurr1/eurr-bn
@@ -336,29 +349,30 @@ Wisp Projector Ring 16lightabsorb 20mf lvl5 Heart of Wolverine (6/13 Charges) lv
 Wisp Projector Ring 17lightabsorb 10mf lvl5 Heart of Wolverine (5/13 Charges) lvl2 Oak Sage (9/15 Charges) eurr6/eurr-ge
 
 [B]Runes[/B]
-32x Ber
+38x Ber
 4x Lem
 4x Lum
 62x Hel
-62x Shael
+61x Shael
 15x Amn
 35x Thul
 89x Ort
 82x Ral
 41x Tal
 4x Eth
-63x Nef
+64x Nef
 59x Tir
 
 [B]Amulets[/B]
 Amu 18@ 23damred eurr12/eurr-bca
 Amu 1barbskills 100life eurr11/eurr-bba
 Amu 1barbskills 14dex 42life 61mana eurr10/eurr-baa
-3x Amu 1barbskills 15damred eurr13/eurr-bdi eurr14/eurr-ber eurr9/eurr-jh
+4x Amu 1barbskills 15damred eurr13/eurr-bdi eurr14/eurr-ber eurr15/eurr-bfn eurr9/eurr-jh
 Amu 1barbskills 15str 71mana 4@ eurr1/eurr-bn
 Amu 1barbskills 16damred eurr9/eurr-jp
 2x Amu 1barbskills 17damred eurr11/eurr-bbc eurr6/eurr-gp
 Amu 1barbskills 18damred eurr14/eurr-bek
+Amu 1barbskills 24damred eurr16/eurr-bgc
 Amu 1barbskills 25damred eurr11/eurr-bbq
 Amu 1barbskills 50psndmg(over 3s) 5dex 59life 47mana eurr2/eurr-cl
 Amu 21@ 24damred eurr2/eurr-cj
@@ -384,8 +398,8 @@ Amu 3coldskills 85life eurr8/eurr-ic
 Amu 3coldskills 87life eurr1/eurr-bt
 Amu 3coldskills 95life eurr7/eurr-hp
 Amu 3curseskills 95life eurr4/eurr-el
-Amu 3dudusummoningskills 97life eurr3/eurr-do
 Amu 3eleskills 35mf eurr14/eurr-bed
+Amu 3eleskills 95life eurr15/eurr-bfr
 3x Amu 3fireskills 10fcr eurr12/eurr-bcr eurr14/eurr-bei eurr9/eurr-jk
 Amu 3fireskills 30mf eurr5/eurr-fn
 Amu 3fireskills 32mf eurr8/eurr-ig
@@ -403,9 +417,11 @@ Amu 3traps 95life eurr6/eurr-gi
 Amu 3warcries 10damred eurr6/eurr-go
 Amu 3warcries 22str eurr4/eurr-eg
 2x Amu 3warcries 25str eurr10/eurr-baq eurr14/eurr-bei
+Amu 3warcries 51eg eurr15/eurr-bfo
 Amu 3warcries 51life eurr7/eurr-ho
 Amu 3warcries 60eg eurr5/eurr-fa
 Amu 3warcries 70life eurr1/eurr-bn
+Amu 3warcries 92life eurr15/eurr-bfq
 Amu 3warcries 95life eurr4/eurr-eo
 Amu 3warcries 99life eurr7/eurr-hp
 Amu 85life 106mana eurr11/eurr-bbq
@@ -430,6 +446,7 @@ Amu LLD lvlreq27 1sorcskills 10fcr 3life 9liferep 8cr 8lr 23fr 8pr eurr1/eurr-bn
 Amu LLD lvlreq27 8 Chance to cast level 3 Chain Lightning on attack 1palaskills 2energy 56life 40mana eurr14/eurr-bee
 Amu LLD lvlreq29 1amaskills 1maxdmg 2energy 73mana 4damred 7dmggoestomana eurr5/eurr-fr
 Amu LLD lvlreq29 1amaskills 34life 87mana 8fr eurr5/eurr-fj
+Amu LLD lvlreq29 1amaskills 7dex 87mana 2damred 17mf eurr15/eurr-bfp
 Amu LLD lvlreq29 1amaskills 9energy 16life 75mana 29eg eurr13/eurr-bdo
 Amu LLD lvlreq29 1assaskills 2str 9liferep 89mana eurr14/eurr-bef
 Amu LLD lvlreq29 1barbskills 2mindmg 4liferep 72mana 10cr eurr3/eurr-de
@@ -441,12 +458,14 @@ Amu LLD lvlreq29 1palaskills 87mana 5lr 1mdr psnlengthreducedby50 11mf eurr5/eur
 Amu LLD lvlreq29 1sorcskills 5liferep 61mana 22lr 2damred eurr6/eurr-gd
 Amu LLD lvlreq30 14liferep 83mana eurr13/eurr-bde
 3x Amu LLD lvlreq30 1amaskills 15liferep eurr11/eurr-bbm eurr4/eurr-en eurr4/eurr-er
+Amu LLD lvlreq30 1amaskills 80life eurr15/eurr-bfk
 3x Amu LLD lvlreq30 1assaskills 80life eurr10/eurr-baq eurr13/eurr-bdh eurr7/eurr-hp
 Amu LLD lvlreq30 1barbskills 80life eurr5/eurr-fp
 Amu LLD lvlreq30 2 tomartialarts 15ar 36life 10liferep 47mana 5@ 1lightradius eurr10/eurr-bae
 Amu LLD lvlreq30 2coldskills 10fcr 38life 20fr psnlengthreducedby75 eurr9/eurr-jf
 2x Amu LLD lvlreq30 2curseskills 15liferep eurr8/eurr-in eurr9/eurr-jr
 Amu LLD lvlreq30 2curseskills 3mindmg 34life 7liferep 53mana 11cr eurr5/eurr-fh
+Amu LLD lvlreq30 2lightningskill 10fcr 31life 30cr psnlengthreducedby25 5mf eurr15/eurr-bfo
 Amu LLD lvlreq30 2lightningskill 10fcr 5str 34life 13maxstamina 9@ eurr6/eurr-go
 Amu LLD lvlreq30 2lightningskill 6liferep 70mana 6maxstamina eurr5/eurr-ff
 Amu LLD lvlreq30 2masteries(barb) 80life eurr5/eurr-fi
@@ -457,10 +476,10 @@ Amu LLD lvlreq30 2offauras 3liferep 53mana 27pr eurr9/eurr-jn
 Amu LLD lvlreq30 2offauras 80life eurr12/eurr-bco
 Amu LLD lvlreq30 2palacombatskill 15liferep eurr5/eurr-fi
 Amu LLD lvlreq30 2palacombatskill 2str 12energy 83mana 1damred eurr13/eurr-bdb
-Amu LLD lvlreq30 2pnbskills 15liferep eurr14/eurr-bed
+2x Amu LLD lvlreq30 2pnbskills 15liferep eurr14/eurr-bed eurr15/eurr-bfo
 Amu LLD lvlreq30 2shadowdisciplines 15liferep eurr15/eurr-bfa
 Amu LLD lvlreq30 2shadowdisciplines 80life eurr14/eurr-beg
-Amu LLD lvlreq30 2shapeshiftsk 15liferep eurr11/eurr-bbj
+2x Amu LLD lvlreq30 2shapeshiftsk 15liferep eurr11/eurr-bbj eurr15/eurr-bfk
 Amu LLD lvlreq30 2traps 10fcr 1maxdmg 39mana 6lr 3mdr eurr12/eurr-bck
 Amu LLD lvlreq30 2traps 15liferep eurr11/eurr-bbe
 Amu LLD lvlreq30 2warcries 12pr 80eg 2lightradius eurr5/eurr-fp
@@ -501,6 +520,7 @@ Jewel 10mindmg 16mana eurr5/eurr-fq
 Jewel 10mindmg 18mana eurr7/eurr-hn
 Jewel 10mindmg 20psndmg(over 2s) req-15 eurr3/eurr-dm
 Jewel 10mindmg 23-32firedmg 23maxstamina req-15 eurr10/eurr-bae
+Jewel 11life 19mana eurr15/eurr-bfo
 Jewel 12life 19mana eurr5/eurr-fr
 Jewel 12mindmg 3str req-15 eurr2/eurr-cg
 Jewel 13life 17mana eurr11/eurr-bbg
@@ -527,15 +547,16 @@ Jewel 15ias 11ed eurr4/eurr-eg
 2x Jewel 15ias 12ed eurr12/eurr-bcc eurr2/eurr-cg
 3x Jewel 15ias 12maxdmg eurr10/eurr-bap eurr13/eurr-bdo eurr6/eurr-gb
 Jewel 15ias 13@ eurr13/eurr-bda
+Jewel 15ias 13ed eurr15/eurr-bfr
 3x Jewel 15ias 13maxdmg eurr10/eurr-bag eurr12/eurr-bcn eurr2/eurr-cl
 Jewel 15ias 14ed eurr15/eurr-bfb
 5x Jewel 15ias 14maxdmg eurr2/eurr-cj eurr4/eurr-ec eurr5/eurr-fj eurr9/eurr-jk eurr9/eurr-jq
 Jewel 15ias 15fr eurr6/eurr-gg
-Jewel 15ias 15mana eurr1/eurr-br
+2x Jewel 15ias 15mana eurr1/eurr-br eurr15/eurr-bfn
 2x Jewel 15ias 15maxdmg eurr11/eurr-bbf eurr5/eurr-fg
 4x Jewel 15ias 16ed eurr11/eurr-bbk eurr14/eurr-bea eurr8/eurr-il eurr8/eurr-im
 4x Jewel 15ias 17mana eurr13/eurr-bdf eurr14/eurr-bel eurr7/eurr-hf eurr7/eurr-hm
-2x Jewel 15ias 18mana eurr6/eurr-gp eurr9/eurr-jg
+3x Jewel 15ias 18mana eurr15/eurr-bfp eurr6/eurr-gp eurr9/eurr-jg
 Jewel 15ias 19fr eurr14/eurr-ben
 Jewel 15ias 19mana eurr13/eurr-bdk
 3x Jewel 15ias 20ed eurr10/eurr-bac eurr15/eurr-bfh eurr2/eurr-cq
@@ -586,21 +607,21 @@ Jewel 15ias 43ar eurr9/eurr-jd
 2x Jewel 15ias 45ar eurr6/eurr-gf eurr9/eurr-jf
 Jewel 15ias 46ar eurr10/eurr-baf
 2x Jewel 15ias 47ar eurr2/eurr-cf eurr6/eurr-gn
-Jewel 15ias 48ar eurr13/eurr-bdl
+2x Jewel 15ias 48ar eurr13/eurr-bdl eurr15/eurr-bfq
 Jewel 15ias 49ar eurr9/eurr-jh
 Jewel 15ias 50ar eurr12/eurr-bcq
-2x Jewel 15ias 51ar eurr13/eurr-bdr eurr14/eurr-beb
+3x Jewel 15ias 51ar eurr13/eurr-bdr eurr14/eurr-beb eurr15/eurr-bfn
 Jewel 15ias 54ar eurr3/eurr-dn
 2x Jewel 15ias 55ar eurr11/eurr-bbc eurr11/eurr-bbl
-3x Jewel 15ias 57ar eurr14/eurr-bej eurr4/eurr-eg eurr7/eurr-ha
-2x Jewel 15ias 59ar eurr14/eurr-bea eurr7/eurr-hk
+4x Jewel 15ias 57ar eurr14/eurr-bej eurr16/eurr-bgb eurr4/eurr-eg eurr7/eurr-ha
+3x Jewel 15ias 59ar eurr14/eurr-bea eurr15/eurr-bfj eurr7/eurr-hk
 Jewel 15ias 60 def eurr14/eurr-bee
 Jewel 15ias 60ar eurr11/eurr-bbl
 Jewel 15ias 61 def eurr5/eurr-fo
-Jewel 15ias 62 def eurr14/eurr-ben
+2x Jewel 15ias 62 def eurr14/eurr-ben eurr15/eurr-bfr
 Jewel 15ias 63ar eurr7/eurr-hl
 Jewel 15ias 64 def eurr8/eurr-ik
-2x Jewel 15ias 64ar eurr13/eurr-bdc eurr4/eurr-eh
+3x Jewel 15ias 64ar eurr13/eurr-bdc eurr15/eurr-bfj eurr4/eurr-eh
 Jewel 15ias 65ar eurr12/eurr-bck
 Jewel 15ias 6@ eurr7/eurr-hn
 4x Jewel 15ias 6mindmg eurr14/eurr-ben eurr5/eurr-fl eurr6/eurr-gn eurr7/eurr-hl
@@ -626,7 +647,7 @@ Jewel 15life 30cr eurr7/eurr-ha
 Jewel 15life 30lr eurr4/eurr-eo
 Jewel 15maxdmg 21eg eurr2/eurr-cn
 Jewel 15maxdmg 62 def eurr5/eurr-fe
-Jewel 15maxdmg 6dex eurr7/eurr-hq
+2x Jewel 15maxdmg 6dex eurr15/eurr-bfl eurr7/eurr-hq
 3x Jewel 15maxdmg 6str eurr11/eurr-bbh eurr14/eurr-bep eurr4/eurr-eb
 Jewel 15maxdmg 7dex eurr13/eurr-bdf
 2x Jewel 15maxdmg 7str eurr11/eurr-bbd eurr5/eurr-fq
@@ -638,6 +659,7 @@ Jewel 15maxdmg req-15 eurr11/eurr-bbc
 Jewel 16life 13@ eurr13/eurr-bde
 Jewel 16life 17mana eurr11/eurr-bbf
 Jewel 16life 18mana eurr1/eurr-bj
+Jewel 16life 20mana eurr15/eurr-bfn
 Jewel 17life 14mana eurr4/eurr-ek
 Jewel 17life 17mana eurr3/eurr-da
 Jewel 17mindmg 4mf req-15 eurr11/eurr-bbg
@@ -645,6 +667,7 @@ Jewel 18life 10@ eurr1/eurr-br
 Jewel 18life 15mana eurr14/eurr-bei
 Jewel 19life 11mana eurr4/eurr-em
 Jewel 19life 12@ eurr6/eurr-gn
+Jewel 1mindmg 8energy 21lr eurr15/eurr-bfr
 Jewel 20life 10mana eurr7/eurr-hl
 Jewel 20life 14@ eurr1/eurr-bl
 Jewel 20life 17mana eurr2/eurr-cb
@@ -680,7 +703,7 @@ Jewel 37ed 20life eurr13/eurr-bdl
 Jewel 37ed 21eg eurr10/eurr-bam
 Jewel 37ed 28eg eurr1/eurr-bk
 Jewel 37ed 9dex eurr7/eurr-he
-2x Jewel 37ed req-15 eurr15/eurr-bfb eurr7/eurr-hq
+3x Jewel 37ed req-15 eurr15/eurr-bfb eurr15/eurr-bfm eurr7/eurr-hq
 Jewel 38ed 10mf eurr15/eurr-bfd
 Jewel 38ed 9dex eurr3/eurr-dh
 Jewel 39ed 15maxdmg eurr15/eurr-bfb
@@ -702,7 +725,7 @@ Jewel 40ed 8dex eurr10/eurr-baf
 Jewel 40ed 8energy eurr14/eurr-bej
 Jewel 40ed 8mindmg eurr10/eurr-bal
 Jewel 40ed 9energy eurr8/eurr-il
-Jewel 40ed 9str eurr7/eurr-hh
+2x Jewel 40ed 9str eurr15/eurr-bfk eurr7/eurr-hh
 3x Jewel 5-13dmg eurr11/eurr-bbk eurr12/eurr-bcq eurr2/eurr-ca
 Jewel 5mindmg 30cr eurr4/eurr-el
 Jewel 5mindmg 30lr eurr14/eurr-beq
@@ -711,6 +734,7 @@ Jewel 6-14dmg eurr4/eurr-ed
 Jewel 6-15dmg eurr8/eurr-il
 Jewel 60 def req-15 eurr3/eurr-dr
 2x Jewel 61 def req-15 eurr13/eurr-bdj eurr7/eurr-hl
+Jewel 62 def req-15 eurr15/eurr-bfr
 Jewel 64 def 25eg eurr12/eurr-bcg
 Jewel 64 def 29eg eurr9/eurr-je
 Jewel 64 def 6dex eurr8/eurr-in
@@ -723,6 +747,7 @@ Jewel 6mindmg 6str 9cr 9lr 9fr 34pr eurr5/eurr-fm
 Jewel 7-13dmg eurr13/eurr-bdp
 Jewel 7-14dmg eurr7/eurr-hg
 Jewel 7-15dmg eurr14/eurr-beg
+Jewel 7energy 1liferep Heal Stamina Plus 11 22lr eurr15/eurr-bfq
 Jewel 7energy 20mana eurr3/eurr-di
 Jewel 7energy 22lr eurr4/eurr-ed
 Jewel 7energy 25lr eurr9/eurr-ji
@@ -763,6 +788,8 @@ Jewel 7fhr 63 def eurr13/eurr-bdn
 Jewel 7fhr 64 def eurr8/eurr-ih
 Jewel 7fhr 6energy 10maxstamina 30lr eurr11/eurr-bbn
 Jewel 7fhr 6energy 30lr eurr13/eurr-bdk
+Jewel 7fhr 8mindmg 18maxstamina 15eg eurr15/eurr-bfl
+Jewel 7fhr 8mindmg 19 def eurr15/eurr-bfo
 Jewel 7fhr 8mindmg 31ar 4energy eurr4/eurr-en
 Jewel 7fhr 8mindmg 5maxdmg 9str eurr6/eurr-gd
 Jewel 7fhr 9-17firedmg Heal Stamina Plus 10 29cr eurr6/eurr-ga
@@ -840,6 +867,7 @@ Jewel LLD lvlreq14 5dex 10mana eurr15/eurr-bfh
 Jewel LLD lvlreq14 5dex 20lr eurr8/eurr-ie
 Jewel LLD lvlreq14 5dex 22fr eurr10/eurr-bam
 Jewel LLD lvlreq14 5dex 25cr eurr3/eurr-dp
+Jewel LLD lvlreq14 5dex 27cr eurr15/eurr-bfk
 2x Jewel LLD lvlreq14 5dex 28lr eurr4/eurr-ea eurr8/eurr-ii
 Jewel LLD lvlreq14 5dex 29cr eurr2/eurr-cd
 Jewel LLD lvlreq14 5dex 29lr eurr3/eurr-dj
@@ -867,6 +895,7 @@ Jewel LLD lvlreq14 6dex 30pr eurr14/eurr-ben
 2x Jewel LLD lvlreq14 6dex 7@ eurr12/eurr-bcj eurr4/eurr-ej
 Jewel LLD lvlreq14 6dex 9@ eurr14/eurr-ben
 Jewel LLD lvlreq14 8life 30lr eurr3/eurr-dc
+Jewel LLD lvlreq18 11maxdmg 30fr eurr16/eurr-bgb
 Jewel LLD lvlreq18 11maxdmg 30pr eurr13/eurr-bdh
 Jewel LLD lvlreq18 12maxdmg 30pr eurr12/eurr-bcd
 Jewel LLD lvlreq18 13maxdmg 30pr eurr7/eurr-hp
@@ -874,7 +903,7 @@ Jewel LLD lvlreq18 13maxdmg 50ar eurr14/eurr-beg
 Jewel LLD lvlreq18 13maxdmg 54ar eurr5/eurr-fq
 Jewel LLD lvlreq18 14maxdmg 30cr eurr9/eurr-jq
 Jewel LLD lvlreq18 14maxdmg 60ar eurr2/eurr-ck
-2x Jewel LLD lvlreq18 15ed 15maxdmg eurr6/eurr-ge eurr6/eurr-gg
+3x Jewel LLD lvlreq18 15ed 15maxdmg eurr15/eurr-bfn eurr6/eurr-ge eurr6/eurr-gg
 Jewel LLD lvlreq18 15maxdmg 11dmggoestomana eurr10/eurr-bap
 Jewel LLD lvlreq18 15maxdmg 15mana eurr10/eurr-bab
 Jewel LLD lvlreq18 15maxdmg 18 def eurr12/eurr-bcc
@@ -904,6 +933,7 @@ Jewel LLD lvlreq19 30cr 8mf eurr3/eurr-di
 Jewel LLD lvlreq2 10mana req-15 eurr4/eurr-el
 2x Jewel LLD lvlreq21 17mana req-15 eurr3/eurr-dh eurr9/eurr-jr
 4x Jewel LLD lvlreq21 18mana req-15 eurr5/eurr-fl eurr5/eurr-fr eurr7/eurr-hg eurr7/eurr-hn
+Jewel LLD lvlreq21 19mana req-15 eurr15/eurr-bfm
 Jewel LLD lvlreq21 20mana 30eg eurr10/eurr-bai
 Jewel LLD lvlreq21 7life 18mana eurr1/eurr-bp
 Jewel LLD lvlreq24 14maxdmg 33 def eurr3/eurr-de
@@ -916,13 +946,15 @@ Jewel LLD lvlreq25 5str 5life req-15 eurr15/eurr-bfd
 2x Jewel LLD lvlreq25 6str 30fr eurr3/eurr-db eurr9/eurr-jp
 Jewel LLD lvlreq25 6str 6dex 7cr eurr13/eurr-bdm
 Jewel LLD lvlreq25 7maxdmg 5str req-15 eurr11/eurr-bbg
+Jewel LLD lvlreq25 8ed 5 def 6str req-15 eurr15/eurr-bfk
 Jewel LLD lvlreq26 11@ req-15 eurr10/eurr-bal
 2x Jewel LLD lvlreq26 13@ 30eg eurr15/eurr-bfe eurr6/eurr-gd
 Jewel LLD lvlreq26 13@ req-15 eurr6/eurr-gn
 Jewel LLD lvlreq26 14@ 10mf eurr5/eurr-fo
 Jewel LLD lvlreq26 14@ req-15 eurr4/eurr-eb
-24x Jewel LLD lvlreq26 15@
+25x Jewel LLD lvlreq26 15@
 Jewel LLD lvlreq26 15@ req-15 eurr8/eurr-im
+Jewel LLD lvlreq26 1dex 15@ eurr15/eurr-bfp
 Jewel LLD lvlreq26 1mindmg 15@ eurr4/eurr-em
 Jewel LLD lvlreq26 2-6firedmg 15@ eurr2/eurr-cb
 2x Jewel LLD lvlreq26 20psndmg(over 2s) 15@ eurr2/eurr-cd eurr7/eurr-hj
@@ -936,12 +968,13 @@ Jewel LLD lvlreq26 6dex 15@ eurr8/eurr-iq
 Jewel LLD lvlreq26 6energy 15@ eurr2/eurr-cl
 Jewel LLD lvlreq26 9maxdmg 15@ eurr13/eurr-bdl
 Jewel LLD lvlreq27 2-9dmg 20psndmg(over 2s) 8life eurr7/eurr-hm
-3x Jewel LLD lvlreq27 20maxdmg eurr1/eurr-bp eurr10/eurr-bae eurr9/eurr-jr
+4x Jewel LLD lvlreq27 20maxdmg eurr1/eurr-bp eurr10/eurr-bae eurr15/eurr-bfj eurr9/eurr-jr
 4x Jewel LLD lvlreq27 21maxdmg eurr10/eurr-baa eurr11/eurr-bbe eurr11/eurr-bbn eurr4/eurr-em
 3x Jewel LLD lvlreq27 22maxdmg eurr10/eurr-ban eurr15/eurr-bfe eurr3/eurr-do
 3x Jewel LLD lvlreq27 23maxdmg eurr12/eurr-bck eurr12/eurr-bcp eurr13/eurr-bdk
 Jewel LLD lvlreq27 3-9dmg 6str 21cr eurr2/eurr-ck
 Jewel LLD lvlreq27 6maxdmg 5str 13mana req-15 eurr10/eurr-bam
+Jewel LLD lvlreq28 10-25firedmg 15@ eurr16/eurr-bga
 Jewel LLD lvlreq28 17ed 9dex eurr13/eurr-bdl
 Jewel LLD lvlreq28 19ed 8dex eurr7/eurr-hn
 Jewel LLD lvlreq28 4str 9dex req-15 eurr10/eurr-bak
@@ -955,8 +988,9 @@ Jewel LLD lvlreq28 9dex 12@ eurr1/eurr-br
 Jewel LLD lvlreq28 9dex 14@ eurr9/eurr-jg
 Jewel LLD lvlreq28 9dex 17mana eurr3/eurr-dm
 Jewel LLD lvlreq28 9dex 28pr eurr15/eurr-bff
-Jewel LLD lvlreq28 9dex 30fr eurr4/eurr-el
+2x Jewel LLD lvlreq28 9dex 30fr eurr16/eurr-bgb eurr4/eurr-el
 Jewel LLD lvlreq28 9dex 5energy req-15 eurr11/eurr-bbm
+Jewel LLD lvlreq28 9dex 7mf req-15 eurr16/eurr-bgb
 Jewel LLD lvlreq28 9maxdmg 9dex 17lr 5mf eurr15/eurr-bfc
 Jewel LLD lvlreq29 2-9 colddmg 15@ eurr11/eurr-bbo
 Jewel LLD lvlreq29 30 def 20fr req-15 eurr13/eurr-bdl
@@ -988,8 +1022,8 @@ Jewel LLD lvlreq6 4energy 8mana eurr14/eurr-bec
 Jewel LLD lvlreq6 4energy 9mana eurr5/eurr-fh
 Jewel LLD lvlreq6 4mindmg 29ar 3energy req-15 eurr10/eurr-bao
 Jewel LLD lvlreq6 5energy 6mana 7fr eurr1/eurr-bl
-Jewel LLD lvlreq6 8mindmg eurr9/eurr-jm
-2x Jewel LLD lvlreq8 2-9dmg eurr10/eurr-bap eurr8/eurr-io
+2x Jewel LLD lvlreq6 8mindmg eurr15/eurr-bfq eurr9/eurr-jm
+3x Jewel LLD lvlreq8 2-9dmg eurr10/eurr-bap eurr16/eurr-bgb eurr8/eurr-io
 Jewel LLD lvlreq8 3-9dmg 12cr eurr11/eurr-bbp
 Jewel LLD lvlreq8 4-9dmg eurr12/eurr-bca
 Jewel LLD lvlreq8 7maxdmg 6 def req-15 eurr13/eurr-bdk
@@ -1032,8 +1066,10 @@ Spirit Monarch 148def 52chancetoblock Smite Damage: 12 to 34 35fcr 101mana 8magi
 Spirit Monarch 148def 52chancetoblock Smite Damage: 12 to 34 35fcr 102mana 5magicabs 4sox eurr14/eurr-ben
 Spirit Monarch 148def 52chancetoblock Smite Damage: 12 to 34 35fcr 104mana 3magicabs 4sox eurr3/eurr-dr
 Spirit Monarch 148def 52chancetoblock Smite Damage: 12 to 34 35fcr 106mana 7magicabs 4sox eurr11/eurr-bba
+Spirit Monarch 148def 52chancetoblock Smite Damage: 12 to 34 35fcr 111mana 5magicabs 4sox eurr15/eurr-bfj
 Spirit Monarch 148def 52chancetoblock Smite Damage: 12 to 34 35fcr 112mana 6magicabs 4sox eurr9/eurr-jq
 Spirit Monarch 171def 52chancetoblock Smite Damage: 12 to 34 2allskills 35fcr 55fhr 15ed(def) 22vita 109mana 6magicabs 4sox eurr12/eurr-bco
+Spirit Monarch 171def 52chancetoblock Smite Damage: 12 to 34 2allskills 35fcr 55fhr 15ed(def) 22vita 112mana 5magicabs 15dura 4sox eurr15/eurr-bfm
 Spirit Monarch 330def 52chancetoblock Smite Damage: 12 to 34 32fcr 91mana 6magicabs ETH 4sox eurr8/eurr-if
 Spirit Monarch 330def 52chancetoblock Smite Damage: 12 to 34 35fcr 102mana 4magicabs ETH 4sox eurr10/eurr-bai
 Spirit Monarch 330def 52chancetoblock Smite Damage: 12 to 34 35fcr 103mana 8magicabs ETH 4sox eurr5/eurr-fg
@@ -1092,7 +1128,9 @@ Gc 124ar 30life eurr12/eurr-bcl
 Gc 125ar 36life eurr9/eurr-jr
 2x Gc 127ar 40life eurr11/eurr-bba eurr14/eurr-bel
 Gc 128ar 29life eurr5/eurr-fg
+Gc 128ar 30life eurr15/eurr-bfl
 2x Gc 129ar 33life eurr14/eurr-bem eurr2/eurr-cq
+Gc 12fhr 132ar eurr15/eurr-bfp
 Gc 130ar 34life eurr7/eurr-hh
 Gc 132ar 29life eurr6/eurr-gk
 Gc 132ar 30life eurr8/eurr-ih
@@ -1104,6 +1142,7 @@ Gc 14maxdmg 60ar eurr2/eurr-ch
 Gc 14maxdmg 73ar eurr7/eurr-hk
 Gc 14maxdmg 75ar eurr5/eurr-fi
 Gc 1barbcombatskill 38life eurr11/eurr-bbl
+Gc 1barbcombatskill 40eg eurr16/eurr-bga
 Gc 1bowskills 40life eurr7/eurr-hh
 Gc 1coldskills 12fhr eurr3/eurr-dd
 Gc 1coldskills 21life eurr5/eurr-fa
@@ -1112,6 +1151,7 @@ Gc 1coldskills 23life eurr13/eurr-bdb
 Gc 1coldskills 25life eurr5/eurr-fp
 Gc 1coldskills 26life eurr8/eurr-ib
 Gc 1coldskills 29life eurr9/eurr-jj
+Gc 1coldskills 32life eurr15/eurr-bfo
 Gc 1coldskills 38life eurr7/eurr-hf
 2x Gc 1coldskills 39life eurr3/eurr-dd eurr9/eurr-jj
 Gc 1coldskills 40eg eurr8/eurr-ia
@@ -1129,6 +1169,7 @@ Gc 1eleskills 31life eurr12/eurr-bck
 3x Gc 1eleskills 33life eurr11/eurr-bbn eurr3/eurr-db eurr9/eurr-jg
 Gc 1eleskills 34life eurr4/eurr-ee
 2x Gc 1eleskills 37life eurr8/eurr-if eurr9/eurr-ja
+Gc 1eleskills 38life eurr15/eurr-bfn
 2x Gc 1eleskills 39life eurr11/eurr-bbp eurr6/eurr-ga
 2x Gc 1eleskills 6str eurr10/eurr-bak eurr10/eurr-bam
 2x Gc 1eleskills 7frw eurr12/eurr-bcg eurr7/eurr-hd
@@ -1148,7 +1189,7 @@ Gc 1fireskills 38eg eurr6/eurr-gb
 Gc 1fireskills 40eg eurr5/eurr-fq
 Gc 1fireskills 40life eurr2/eurr-cl
 4x Gc 1fireskills 4str eurr14/eurr-bee eurr5/eurr-fg eurr6/eurr-gq eurr6/eurr-gq
-3x Gc 1fireskills 7frw eurr1/eurr-bt eurr10/eurr-bac eurr14/eurr-bef
+4x Gc 1fireskills 7frw eurr1/eurr-bt eurr10/eurr-bac eurr14/eurr-bef eurr16/eurr-bgc
 5x Gc 1fireskills eurr1/eurr-bn eurr1/eurr-bq eurr1/eurr-bq eurr2/eurr-cc eurr2/eurr-cc
 3x Gc 1javaskills 12fhr eurr11/eurr-bbd eurr11/eurr-bbh eurr3/eurr-dg
 Gc 1javaskills 22life eurr9/eurr-jm
@@ -1158,6 +1199,7 @@ Gc 1javaskills 31life eurr4/eurr-eg
 2x Gc 1javaskills 32life eurr11/eurr-bbd eurr3/eurr-do
 Gc 1javaskills 33life eurr7/eurr-hf
 Gc 1javaskills 36life eurr15/eurr-bfc
+Gc 1javaskills 39life eurr15/eurr-bfn
 Gc 1javaskills 6str eurr2/eurr-cl
 6x Gc 1javaskills 7frw eurr13/eurr-bdo eurr2/eurr-ce eurr6/eurr-gj eurr6/eurr-gn eurr7/eurr-hq eurr8/eurr-in
 2x Gc 1lightningskill 12fhr eurr10/eurr-bad eurr4/eurr-eh
@@ -1168,7 +1210,7 @@ Gc 1lightningskill 15life eurr8/eurr-io
 Gc 1lightningskill 18eg eurr12/eurr-bcq
 Gc 1lightningskill 19life eurr13/eurr-bdg
 Gc 1lightningskill 21life eurr5/eurr-fh
-Gc 1lightningskill 24eg eurr11/eurr-bbk
+2x Gc 1lightningskill 24eg eurr11/eurr-bbk eurr15/eurr-bfj
 2x Gc 1lightningskill 25life eurr12/eurr-bcr eurr4/eurr-ee
 Gc 1lightningskill 25psndmg(over 5s) eurr2/eurr-cc
 Gc 1lightningskill 26eg eurr3/eurr-dr
@@ -1176,6 +1218,7 @@ Gc 1lightningskill 26eg eurr3/eurr-dr
 Gc 1lightningskill 31life eurr2/eurr-cl
 Gc 1lightningskill 32eg eurr8/eurr-ip
 Gc 1lightningskill 33eg eurr5/eurr-ff
+Gc 1lightningskill 35eg eurr15/eurr-bfr
 Gc 1lightningskill 36life eurr8/eurr-id
 Gc 1lightningskill 38life eurr12/eurr-bci
 Gc 1lightningskill 39eg eurr3/eurr-dn
@@ -1222,12 +1265,14 @@ Gc 1palacombatskill 38eg eurr2/eurr-ca
 Gc 1palacombatskill 38life eurr8/eurr-ib
 Gc 1palacombatskill 3dex eurr13/eurr-bdh
 Gc 1palacombatskill 4str eurr11/eurr-bbc
+Gc 1palacombatskill 5dex eurr15/eurr-bfl
 3x Gc 1palacombatskill 5str eurr12/eurr-bcr eurr3/eurr-dl eurr4/eurr-ef
 2x Gc 1palacombatskill 6dex eurr10/eurr-bab eurr12/eurr-bck
 Gc 1palacombatskill 6life eurr12/eurr-bch
 3x Gc 1palacombatskill 6str eurr12/eurr-bcq eurr5/eurr-fb eurr7/eurr-hb
 6x Gc 1palacombatskill 7frw eurr11/eurr-bbh eurr3/eurr-dl eurr4/eurr-ea eurr4/eurr-eq eurr4/eurr-er eurr7/eurr-hj
 Gc 1palacombatskill eurr1/eurr-bj
+Gc 1passivandmagicskills 29life eurr15/eurr-bfk
 2x Gc 1passivandmagicskills 32life eurr11/eurr-bbf eurr7/eurr-hk
 Gc 1passivandmagicskills 39life eurr12/eurr-bcl
 Gc 1pnbskills 1-3light dmg eurr1/eurr-bo
@@ -1255,13 +1300,13 @@ Gc 1pnbskills 38life eurr6/eurr-gn
 Gc 1pnbskills 39life eurr13/eurr-bdb
 2x Gc 1pnbskills 3str eurr15/eurr-bfi eurr5/eurr-fl
 Gc 1pnbskills 40eg eurr15/eurr-bfd
-Gc 1pnbskills 4str eurr4/eurr-em
+2x Gc 1pnbskills 4str eurr15/eurr-bfr eurr4/eurr-em
 Gc 1pnbskills 50psndmg(over 6s) eurr1/eurr-br
 2x Gc 1pnbskills 5str eurr11/eurr-bbo eurr12/eurr-bcg
 3x Gc 1pnbskills 6str eurr7/eurr-hj eurr7/eurr-hk eurr9/eurr-ja
-3x Gc 1pnbskills 7frw eurr3/eurr-dm eurr7/eurr-hl eurr8/eurr-if
+4x Gc 1pnbskills 7frw eurr15/eurr-bfp eurr3/eurr-dm eurr7/eurr-hl eurr8/eurr-if
 4x Gc 1pnbskills eurr1/eurr-bp eurr2/eurr-cb eurr2/eurr-ch eurr3/eurr-dg
-3x Gc 1shadowdisciplines 12fhr eurr12/eurr-bcc eurr13/eurr-bdp eurr4/eurr-eq
+4x Gc 1shadowdisciplines 12fhr eurr12/eurr-bcc eurr13/eurr-bdp eurr15/eurr-bfo eurr4/eurr-eq
 Gc 1shadowdisciplines 31life eurr11/eurr-bba
 2x Gc 1shadowdisciplines 34life eurr7/eurr-hd eurr9/eurr-jf
 Gc 1shadowdisciplines 36life eurr2/eurr-ck
@@ -1285,7 +1330,7 @@ Gc 1traps 22life eurr7/eurr-hr
 Gc 1traps 24life eurr11/eurr-bbi
 Gc 1traps 30life eurr8/eurr-id
 Gc 1traps 36life eurr13/eurr-bdo
-Gc 1traps 38life eurr14/eurr-bef
+2x Gc 1traps 38life eurr14/eurr-bef eurr15/eurr-bfm
 Gc 1traps 39life eurr5/eurr-fq
 Gc 1traps 6str eurr8/eurr-ie
 3x Gc 1traps 7frw eurr1/eurr-bq eurr4/eurr-ee eurr8/eurr-ig
@@ -1304,8 +1349,9 @@ Gc 1warcries 28eg eurr9/eurr-je
 Gc 1warcries 28life eurr10/eurr-bai
 6x Gc 1warcries 2maxdmg eurr12/eurr-bcb eurr14/eurr-bed eurr14/eurr-beg eurr2/eurr-cl eurr5/eurr-fj eurr5/eurr-fl
 3x Gc 1warcries 33life eurr12/eurr-bcl eurr12/eurr-bcl eurr8/eurr-iq
-Gc 1warcries 35eg eurr15/eurr-bff
+2x Gc 1warcries 35eg eurr15/eurr-bff eurr15/eurr-bfl
 Gc 1warcries 36life eurr7/eurr-hh
+Gc 1warcries 37eg eurr16/eurr-bgb
 Gc 1warcries 37life eurr12/eurr-bcr
 2x Gc 1warcries 3dex eurr7/eurr-hl eurr8/eurr-il
 3x Gc 1warcries 3str eurr12/eurr-bce eurr12/eurr-bcr eurr15/eurr-bff
@@ -1317,6 +1363,7 @@ Gc 1warcries 8life eurr9/eurr-jf
 4x Gc 1warcries eurr1/eurr-bi eurr1/eurr-bi eurr1/eurr-bp eurr2/eurr-ce
 Gc 25life 47mana eurr3/eurr-dh
 Gc 25life 49mana eurr13/eurr-bdm
+Gc 25life 50mana eurr16/eurr-bgc
 Gc 25life 52mana eurr8/eurr-ip
 Gc 25life 53mana eurr12/eurr-bci
 Gc 25life 56mana eurr3/eurr-da
@@ -1329,10 +1376,12 @@ Gc 30life 14@ eurr2/eurr-cc
 2x Gc 30life 28lr eurr12/eurr-bcr eurr4/eurr-en
 Gc 30life 56mana eurr12/eurr-bck
 Gc 30life 59mana eurr12/eurr-bcr
+Gc 31life 14@ eurr15/eurr-bfj
 Gc 32life 53mana eurr5/eurr-fm
 Gc 32life 59mana eurr4/eurr-er
 Gc 33life 28fr eurr2/eurr-ce
 Gc 33life 54mana eurr4/eurr-eq
+Gc 34life 28fr eurr16/eurr-bgc
 Gc 34life 54mana eurr14/eurr-ben
 Gc 34life 57mana eurr1/eurr-bl
 Gc 35life 15@ eurr12/eurr-bci
@@ -1343,6 +1392,7 @@ Gc 35life 52mana eurr13/eurr-bdr
 Gc 36life 25fr eurr7/eurr-ha
 Gc 36life 28lr eurr8/eurr-ir
 Gc 36life 49mana eurr3/eurr-dr
+Gc 36life 50mana eurr15/eurr-bfk
 Gc 37life 25lr eurr15/eurr-bfa
 Gc 37life 48mana eurr15/eurr-bfa
 Gc 37life 51mana eurr3/eurr-dq
@@ -1373,7 +1423,7 @@ Gc 7frw 47mana eurr9/eurr-jk
 4x Gc 7frw 49mana eurr11/eurr-bbq eurr14/eurr-bem eurr15/eurr-bfa eurr7/eurr-hd
 Gc 7frw 50mana eurr11/eurr-bbj
 5x Gc 7frw 51mana eurr14/eurr-bel eurr5/eurr-fp eurr6/eurr-gn eurr7/eurr-hq eurr9/eurr-jh
-Gc 7frw 52mana eurr2/eurr-cl
+2x Gc 7frw 52mana eurr16/eurr-bgb eurr2/eurr-cl
 3x Gc 7frw 53mana eurr11/eurr-bbr eurr2/eurr-cg eurr2/eurr-cj
 2x Gc 7frw 55mana eurr11/eurr-bbg eurr4/eurr-ek
 4x Gc 7frw 56mana eurr14/eurr-bei eurr2/eurr-ci eurr6/eurr-gn eurr8/eurr-iq
@@ -1381,14 +1431,16 @@ Gc 7frw 57mana eurr13/eurr-bdc
 3x Gc 7frw 59mana eurr10/eurr-baq eurr6/eurr-gg eurr9/eurr-jm
 2x Gc LLD lvlreq10 6dex 12mf eurr10/eurr-bad eurr8/eurr-ib
 2x Gc LLD lvlreq10 6str 12mf eurr15/eurr-bff eurr3/eurr-db
-Gc LLD lvlreq15 7frw 25lr eurr2/eurr-cn
+3x Gc LLD lvlreq15 7frw 25lr eurr15/eurr-bfl eurr16/eurr-bgc eurr2/eurr-cn
 Gc LLD lvlreq16 12fhr 6maxdmg 25ar eurr11/eurr-bbo
 Gc LLD lvlreq16 12fhr 6maxdmg 31ar eurr14/eurr-bed
 Gc LLD lvlreq16 12fhr 6maxdmg 33ar eurr3/eurr-db
+Gc LLD lvlreq16 12fhr 6maxdmg 42ar eurr15/eurr-bfq
 Gc LLD lvlreq16 6maxdmg 21ar 17life eurr3/eurr-de
 Gc LLD lvlreq16 6maxdmg 27ar 6dex eurr15/eurr-bfh
 Gc LLD lvlreq16 6maxdmg 29ar 6dex eurr6/eurr-gn
 Gc LLD lvlreq16 6maxdmg 31ar 19life eurr5/eurr-fp
+Gc LLD lvlreq16 6maxdmg 42ar 20life eurr16/eurr-bgb
 Gc LLD lvlreq16 7frw 6maxdmg 22ar eurr1/eurr-bs
 Gc LLD lvlreq16 7frw 6maxdmg 27ar eurr12/eurr-bcr
 Gc LLD lvlreq16 7frw 6maxdmg 28ar eurr12/eurr-bcr
@@ -1416,6 +1468,7 @@ Gc LLD lvlreq21 10maxdmg 76ar 14eg eurr10/eurr-bap
 Gc LLD lvlreq21 10maxdmg 76ar 50psndmg(over 6s) eurr10/eurr-bac
 Gc LLD lvlreq21 12fhr 10maxdmg 55ar eurr6/eurr-gi
 Gc LLD lvlreq21 12fhr 10maxdmg 63ar eurr4/eurr-en
+Gc LLD lvlreq21 7frw 10maxdmg 70ar eurr16/eurr-bga
 Gc LLD lvlreq21 7frw 10maxdmg 74ar eurr13/eurr-bda
 Gc LLD lvlreq22 12fhr 30fr eurr15/eurr-bfb
 Gc LLD lvlreq22 12fhr 30lr eurr13/eurr-bdh
@@ -1449,11 +1502,13 @@ Gc LLD lvlreq29 23life 40mana eurr9/eurr-jc
 Gc LLD lvlreq29 24life 40mana eurr1/eurr-bg
 Gc LLD lvlreq29 24life 41mana eurr11/eurr-bbj
 Gc LLD lvlreq29 24life 42mana eurr2/eurr-cg
+Gc LLD lvlreq29 25life 43mana eurr15/eurr-bfr
 Gc LLD lvlreq29 6str 40mana eurr14/eurr-bep
 2x Gc LLD lvlreq29 6str 43mana eurr10/eurr-bag eurr13/eurr-bdh
 Gc LLD lvlreq29 6str 44mana eurr7/eurr-hj
 Gc LLD lvlreq29 6str 45mana eurr9/eurr-jh
 Gc LLD lvlreq29 6str 46mana eurr12/eurr-bcl
+Gc LLD lvlreq29 7frw 44mana eurr15/eurr-bfr
 Gc LLD lvlreq29 7frw 45mana eurr2/eurr-co
 Gheed Gc 103eg 40mf vendorprices 12 eurr7/eurr-hj
 Gheed Gc 112eg 40mf vendorprices 15 eurr1/eurr-br
@@ -1467,6 +1522,7 @@ Lc 24mana 22eg eurr9/eurr-jb
 Lc 25life 8@ eurr11/eurr-bba
 Lc 25mana 20eg eurr6/eurr-gl
 Lc 25mana 21eg eurr5/eurr-fr
+Lc 25mana 22eg eurr15/eurr-bfk
 Lc 26life 8@ eurr9/eurr-jk
 Lc 27life 8@ eurr2/eurr-cq
 Lc 27mana 20eg eurr12/eurr-bcp
@@ -1474,6 +1530,8 @@ Lc 28mana 21eg eurr3/eurr-de
 Lc 29life 8@ eurr6/eurr-gm
 3x Lc 2maxdmg 34mana eurr2/eurr-co eurr3/eurr-df eurr4/eurr-eb
 2x Lc 2maxdmg 8@ eurr4/eurr-el eurr5/eurr-fj
+Lc 30mana 21eg eurr16/eurr-bga
+Lc 31life 34mana eurr15/eurr-bfr
 2x Lc 33life 33mana eurr14/eurr-bef eurr6/eurr-go
 Lc 33mana 19eg eurr12/eurr-bce
 2x Lc 34mana 21eg eurr2/eurr-ce eurr7/eurr-ho
@@ -1512,6 +1570,7 @@ Lc LLD lvlreq12 24ar 14life eurr2/eurr-ce
 Lc LLD lvlreq12 25ar 14life eurr6/eurr-gq
 2x Lc LLD lvlreq14 1maxdmg 12ar 15life eurr14/eurr-ben eurr8/eurr-ih
 Lc LLD lvlreq14 3maxdmg 20ar 5str eurr12/eurr-bcr
+Lc LLD lvlreq18 10life 14mana eurr15/eurr-bfj
 Lc LLD lvlreq18 10life 16mana eurr10/eurr-bal
 2x Lc LLD lvlreq18 10life 17mana eurr14/eurr-bei eurr6/eurr-gj
 Lc LLD lvlreq18 11life 13mana eurr11/eurr-bbj
@@ -1530,7 +1589,7 @@ Lc LLD lvlreq18 14life 16mana eurr6/eurr-go
 Lc LLD lvlreq18 5dex 16mana eurr7/eurr-hf
 Lc LLD lvlreq18 5dex 18mana eurr7/eurr-ha
 5x Lc LLD lvlreq18 5frw 15mana eurr13/eurr-bdq eurr14/eurr-beo eurr3/eurr-dm eurr5/eurr-fn eurr6/eurr-gj
-Lc LLD lvlreq18 5frw 17mana eurr3/eurr-da
+2x Lc LLD lvlreq18 5frw 17mana eurr16/eurr-bgc eurr3/eurr-da
 4x Lc LLD lvlreq18 5frw 18mana eurr10/eurr-bam eurr12/eurr-bcr eurr13/eurr-bdc eurr14/eurr-beh
 Lc LLD lvlreq18 5str 15mana eurr6/eurr-gf
 Lc LLD lvlreq18 5str 16mana eurr9/eurr-jo
@@ -1539,6 +1598,7 @@ Lc LLD lvlreq18 5str 18mana eurr7/eurr-hd
 Lc LLD lvlreq18 6life 18mana eurr3/eurr-dp
 Lc LLD lvlreq18 7life 15mana eurr7/eurr-hf
 Lc LLD lvlreq18 7life 16mana eurr9/eurr-jj
+Lc LLD lvlreq18 7life 17mana eurr15/eurr-bfk
 4x Lc LLD lvlreq18 8fhr 18mana eurr6/eurr-gh eurr7/eurr-hb eurr7/eurr-hi eurr9/eurr-jl
 2x Lc LLD lvlreq18 8life 15mana eurr10/eurr-baa eurr6/eurr-gk
 2x Lc LLD lvlreq18 9life 15mana eurr12/eurr-bcr eurr6/eurr-gi
@@ -1554,6 +1614,7 @@ Lc LLD lvlreq21 6maxdmg 35ar 19life eurr10/eurr-bai
 Lc LLD lvlreq21 6maxdmg 39ar 19life eurr13/eurr-bdf
 Lc LLD lvlreq21 6maxdmg 40ar 5str eurr10/eurr-bar
 Lc LLD lvlreq21 6maxdmg 44ar 5dex eurr6/eurr-gn
+Lc LLD lvlreq21 6maxdmg 48ar 18life eurr15/eurr-bfo
 Lc LLD lvlreq21 8fhr 6maxdmg 25ar eurr8/eurr-ir
 Lc LLD lvlreq21 8fhr 6maxdmg 31ar eurr9/eurr-jn
 Lc LLD lvlreq21 8fhr 6maxdmg 36ar eurr6/eurr-gb
@@ -1564,12 +1625,12 @@ Lc LLD lvlreq25 19life 22mana eurr13/eurr-bdj
 2x Lc LLD lvlreq25 20life 21mana eurr5/eurr-fb eurr9/eurr-ja
 Lc LLD lvlreq25 20life 22mana eurr7/eurr-he
 Lc LLD lvlreq25 21mana 20eg eurr7/eurr-he
-2x Lc LLD lvlreq25 21mana 21eg eurr2/eurr-cm eurr9/eurr-jg
+3x Lc LLD lvlreq25 21mana 21eg eurr16/eurr-bgb eurr2/eurr-cm eurr9/eurr-jg
 2x Lc LLD lvlreq25 21mana 22eg eurr13/eurr-bda eurr5/eurr-fc
 Lc LLD lvlreq25 22mana 20eg eurr14/eurr-beh
 Lc LLD lvlreq25 23mana 20eg eurr6/eurr-gj
 2x Lc LLD lvlreq25 5frw 20mana eurr6/eurr-gr eurr9/eurr-ja
-3x Lc LLD lvlreq25 5frw 21mana eurr3/eurr-dr eurr4/eurr-ea eurr7/eurr-hp
+4x Lc LLD lvlreq25 5frw 21mana eurr15/eurr-bfn eurr3/eurr-dr eurr4/eurr-ea eurr7/eurr-hp
 2x Lc LLD lvlreq25 5frw 22mana eurr12/eurr-bcf eurr14/eurr-beb
 Lc LLD lvlreq25 5frw 23mana eurr8/eurr-ij
 Lc LLD lvlreq25 5str 20mana eurr11/eurr-bba
@@ -1578,7 +1639,7 @@ Lc LLD lvlreq25 5str 20mana eurr11/eurr-bba
 Lc LLD lvlreq25 5str 23mana eurr12/eurr-bcc
 Lc LLD lvlreq26 5dex 8@ eurr15/eurr-bfi
 2x Lc LLD lvlreq26 5frw 8@ eurr1/eurr-bh eurr7/eurr-ho
-Lc LLD lvlreq26 8fhr 8@ eurr2/eurr-cf
+2x Lc LLD lvlreq26 8fhr 8@ eurr15/eurr-bfl eurr2/eurr-cf
 Lc LLD lvlreq27 20life 15lr eurr11/eurr-bbr
 Lc LLD lvlreq5 12ar 3dex eurr5/eurr-fr
 4x Lc LLD lvlreq5 12ar 3str eurr10/eurr-bam eurr14/eurr-bec eurr7/eurr-hk eurr8/eurr-ic
@@ -1586,13 +1647,15 @@ Lc LLD lvlreq5 12ar 3dex eurr5/eurr-fr
 4x Lc LLD lvlreq6 3str 7mana eurr11/eurr-bbb eurr14/eurr-beg eurr8/eurr-ia eurr9/eurr-ja
 Lc LLD lvlreq9 11ar 15life eurr4/eurr-eh
 Lc LLD lvlreq9 12ar 14life eurr10/eurr-bad
+Lc LLD lvlreq9 13life 7mana eurr15/eurr-bfk
 2x Lc LLD lvlreq9 14life 7mana eurr2/eurr-cl eurr7/eurr-hd
 Lc LLD lvlreq9 15life 5mana eurr14/eurr-bea
-2x Lc LLD lvlreq9 15life 6mana eurr4/eurr-ee eurr6/eurr-gp
+3x Lc LLD lvlreq9 15life 6mana eurr15/eurr-bfo eurr4/eurr-ee eurr6/eurr-gp
 Lc LLD lvlreq9 15life 7mana eurr5/eurr-fd
 Lc LLD lvlreq9 9ar 15life eurr2/eurr-ce
 Sc 1-12light dmg 20life eurr1/eurr-bi
-Sc 1-2 colddmg 11pr eurr1/eurr-br
+Sc 1-14light dmg 11pr eurr16/eurr-bgb
+2x Sc 1-2 colddmg 11pr eurr1/eurr-br eurr15/eurr-bfk
 Sc 1-21light dmg 11pr eurr2/eurr-ca
 2x Sc 1-23light dmg 11pr eurr8/eurr-ib eurr8/eurr-if
 Sc 1-25light dmg 5@ eurr13/eurr-bdj
@@ -1608,6 +1671,7 @@ Sc 10fr 5eg eurr14/eurr-bek
 Sc 10fr 6eg eurr15/eurr-bfh
 2x Sc 10fr 7mf eurr15/eurr-bfa eurr8/eurr-iq
 Sc 10fr 8eg eurr10/eurr-bai
+Sc 10fr 9eg eurr15/eurr-bfl
 2x Sc 10life 10fr eurr2/eurr-cg eurr4/eurr-em
 2x Sc 10life 10lr eurr10/eurr-ban eurr11/eurr-bbn
 3x Sc 10life 11fr eurr13/eurr-bdk eurr2/eurr-ch eurr6/eurr-gm
@@ -1617,7 +1681,8 @@ Sc 10life 15mana eurr7/eurr-hn
 3x Sc 10life 16mana eurr2/eurr-cr eurr4/eurr-ea eurr8/eurr-id
 4x Sc 10lr 5eg eurr10/eurr-bam eurr10/eurr-bar eurr3/eurr-df eurr3/eurr-dq
 Sc 10lr 7eg eurr6/eurr-gf
-2x Sc 10lr 7mf eurr11/eurr-bbm eurr9/eurr-jd
+4x Sc 10lr 7mf eurr11/eurr-bbm eurr15/eurr-bfq eurr16/eurr-bgb eurr9/eurr-jd
+Sc 10lr 9eg eurr15/eurr-bfq
 2x Sc 10pr 7mf eurr14/eurr-bek eurr6/eurr-gn
 2x Sc 11cr 10eg eurr3/eurr-dq eurr7/eurr-hn
 Sc 11cr 7mf eurr5/eurr-fq
@@ -1632,22 +1697,22 @@ Sc 11fr 8eg eurr2/eurr-ce
 2x Sc 11life 11pr eurr2/eurr-cr eurr4/eurr-eq
 2x Sc 11life 14mana eurr10/eurr-bap eurr5/eurr-fa
 3x Sc 11life 15mana eurr2/eurr-ck eurr6/eurr-gp eurr7/eurr-hi
-3x Sc 11life 16mana eurr12/eurr-bcf eurr12/eurr-bcq eurr3/eurr-dc
+4x Sc 11life 16mana eurr12/eurr-bcf eurr12/eurr-bcq eurr15/eurr-bfm eurr3/eurr-dc
 Sc 11life 17mana eurr11/eurr-bbg
 3x Sc 11lr 10eg eurr12/eurr-bce eurr2/eurr-cc eurr4/eurr-eo
 Sc 11lr 5eg eurr10/eurr-bai
 5x Sc 11lr 6eg eurr10/eurr-baq eurr13/eurr-bdd eurr13/eurr-bdl eurr4/eurr-ep eurr6/eurr-gr
 2x Sc 11lr 6mf eurr2/eurr-cl eurr8/eurr-ii
-2x Sc 11lr 7mf eurr3/eurr-de eurr6/eurr-go
+3x Sc 11lr 7mf eurr15/eurr-bfo eurr3/eurr-de eurr6/eurr-go
 Sc 11lr 8eg eurr14/eurr-ben
 Sc 11lr 9eg eurr15/eurr-bfi
-65x Sc 11pr
+68x Sc 11pr
 Sc 11pr 10eg eurr13/eurr-bdr
 2x Sc 11pr 3mf eurr12/eurr-bcm eurr2/eurr-cf
 Sc 11pr 4mf eurr14/eurr-ben
 Sc 11pr 6eg eurr14/eurr-beh
 2x Sc 11pr 7mf eurr1/eurr-bt eurr7/eurr-hf
-2x Sc 12life 10fr eurr12/eurr-bcg eurr7/eurr-hh
+3x Sc 12life 10fr eurr12/eurr-bcg eurr15/eurr-bfm eurr7/eurr-hh
 5x Sc 12life 11fr eurr10/eurr-bab eurr14/eurr-bej eurr14/eurr-beo eurr14/eurr-beq eurr8/eurr-il
 Sc 12life 11lr eurr13/eurr-bdk
 Sc 12life 11pr eurr5/eurr-ff
@@ -1655,13 +1720,16 @@ Sc 12life 11pr eurr5/eurr-ff
 2x Sc 12life 14mana eurr13/eurr-bdn eurr9/eurr-jl
 Sc 12life 17mana eurr1/eurr-bl
 2x Sc 13life 10fr eurr4/eurr-eo eurr4/eurr-eq
+Sc 13life 10lr eurr15/eurr-bfp
 2x Sc 13life 11fr eurr5/eurr-fd eurr9/eurr-jq
-Sc 13life 11lr eurr2/eurr-cr
+2x Sc 13life 11lr eurr16/eurr-bgb eurr2/eurr-cr
+Sc 13life 11pr eurr15/eurr-bfr
 Sc 13life 13mana eurr4/eurr-ei
 4x Sc 13life 14mana eurr12/eurr-bcn eurr14/eurr-bei eurr5/eurr-fj eurr7/eurr-ho
 2x Sc 13life 15mana eurr1/eurr-bl eurr14/eurr-bea
 2x Sc 13life 16mana eurr11/eurr-bbq eurr15/eurr-bfe
-2x Sc 13life 17mana eurr13/eurr-bdf eurr5/eurr-fr
+3x Sc 13life 17mana eurr13/eurr-bdf eurr15/eurr-bfn eurr5/eurr-fr
+Sc 14life 10fr eurr15/eurr-bfj
 Sc 14life 10lr eurr8/eurr-ip
 2x Sc 14life 11fr eurr13/eurr-bdf eurr5/eurr-fa
 Sc 14life 11lr eurr14/eurr-bef
@@ -1669,6 +1737,7 @@ Sc 14life 13mana eurr2/eurr-cq
 3x Sc 14life 14mana eurr13/eurr-bdh eurr15/eurr-bff eurr5/eurr-fd
 4x Sc 14life 15mana eurr10/eurr-bap eurr2/eurr-ci eurr8/eurr-ii eurr8/eurr-im
 Sc 14life 16mana eurr14/eurr-bee
+Sc 14life 17mana eurr15/eurr-bfk
 Sc 158psndmg(over 9s) eurr2/eurr-ca
 Sc 15ar 20life eurr1/eurr-bl
 2x Sc 15life 10lr eurr11/eurr-bbo eurr7/eurr-hk
@@ -1718,11 +1787,12 @@ Sc 17life 8mana eurr10/eurr-baq
 Sc 17mana 10eg eurr10/eurr-bac
 Sc 17mana 7mf eurr7/eurr-hq
 3x Sc 18life 10cr eurr10/eurr-bai eurr10/eurr-bak eurr5/eurr-fk
-4x Sc 18life 10lr eurr11/eurr-bbd eurr3/eurr-dp eurr5/eurr-fg eurr7/eurr-hd
+5x Sc 18life 10lr eurr11/eurr-bbd eurr15/eurr-bfq eurr3/eurr-dp eurr5/eurr-fg eurr7/eurr-hd
 Sc 18life 10mana eurr6/eurr-gk
 2x Sc 18life 10pr eurr2/eurr-cr eurr4/eurr-er
 3x Sc 18life 11cr eurr10/eurr-bag eurr13/eurr-bdk eurr9/eurr-jc
 2x Sc 18life 11fr eurr10/eurr-bar eurr8/eurr-ih
+Sc 18life 11lr eurr15/eurr-bfl
 Sc 18life 11pr eurr1/eurr-bs
 2x Sc 18life 13mana eurr12/eurr-bcf eurr13/eurr-bdf
 2x Sc 18life 16mana eurr13/eurr-bdm eurr13/eurr-bdn
@@ -1743,7 +1813,7 @@ Sc 19life 10pr eurr10/eurr-baq
 2x Sc 19life 12mana eurr13/eurr-bdn eurr4/eurr-ea
 2x Sc 19life 13mana eurr1/eurr-bn eurr14/eurr-beb
 4x Sc 19life 15mana eurr14/eurr-bea eurr14/eurr-bei eurr14/eurr-bel eurr15/eurr-bfa
-2x Sc 19life 16mana eurr1/eurr-bo eurr4/eurr-eo
+3x Sc 19life 16mana eurr1/eurr-bo eurr15/eurr-bfj eurr4/eurr-eo
 Sc 19life 3@ eurr14/eurr-beh
 Sc 19life 4@ eurr7/eurr-hq
 2x Sc 19life 7mana eurr14/eurr-bek eurr2/eurr-cr
@@ -1755,10 +1825,10 @@ Sc 19life 9lr eurr9/eurr-jp
 3x Sc 19life 9mana eurr5/eurr-fl eurr6/eurr-gk eurr7/eurr-he
 2x Sc 19life 9pr eurr12/eurr-bcf eurr9/eurr-jh
 4x Sc 1dex 11pr eurr1/eurr-bg eurr12/eurr-bcn eurr4/eurr-eo eurr5/eurr-fg
-4x Sc 1str 11pr eurr2/eurr-ca eurr3/eurr-da eurr6/eurr-gj eurr9/eurr-jl
+5x Sc 1str 11pr eurr15/eurr-bfr eurr2/eurr-ca eurr3/eurr-da eurr6/eurr-gj eurr9/eurr-jl
 Sc 2-3 colddmg 11pr eurr5/eurr-fc
 2x Sc 2-4firedmg 11pr eurr2/eurr-ca eurr7/eurr-hg
-3x Sc 209psndmg(over 10s) eurr1/eurr-bs eurr11/eurr-bbf eurr8/eurr-iq
+4x Sc 209psndmg(over 10s) eurr1/eurr-bs eurr11/eurr-bbf eurr15/eurr-bfo eurr8/eurr-iq
 16x Sc 20life
 Sc 20life 10cr eurr2/eurr-cj
 2x Sc 20life 10fr eurr2/eurr-cr eurr7/eurr-hc
@@ -1768,10 +1838,11 @@ Sc 20life 11cr eurr4/eurr-ef
 2x Sc 20life 11fr eurr10/eurr-bac eurr12/eurr-bcr
 2x Sc 20life 11lr eurr4/eurr-el eurr8/eurr-iq
 Sc 20life 11mana eurr2/eurr-cf
-Sc 20life 11pr eurr15/eurr-bfd
+2x Sc 20life 11pr eurr15/eurr-bfd eurr15/eurr-bfq
 Sc 20life 12mana eurr15/eurr-bfh
 2x Sc 20life 13mana eurr4/eurr-ei eurr9/eurr-jj
 2x Sc 20life 14mana eurr3/eurr-di eurr7/eurr-ho
+Sc 20life 15mana eurr15/eurr-bfj
 2x Sc 20life 16mana eurr2/eurr-cm eurr5/eurr-fc
 3x Sc 20life 17mana eurr11/eurr-bbg eurr13/eurr-bdo eurr7/eurr-hr
 Sc 20life 1mana eurr1/eurr-bi
@@ -1779,11 +1850,11 @@ Sc 20life 3cr eurr1/eurr-bo
 2x Sc 20life 5mana eurr7/eurr-hm eurr9/eurr-jq
 Sc 20life 5maxstamina eurr1/eurr-br
 Sc 20life 7lr eurr2/eurr-cb
-3x Sc 20life 7mana eurr12/eurr-bca eurr12/eurr-bcn eurr3/eurr-do
+4x Sc 20life 7mana eurr12/eurr-bca eurr12/eurr-bcn eurr15/eurr-bfl eurr3/eurr-do
 Sc 20life 7pr eurr5/eurr-fh
 4x Sc 20life 8cr eurr10/eurr-bao eurr12/eurr-bcq eurr2/eurr-cb eurr8/eurr-id
 3x Sc 20life 8fr eurr1/eurr-br eurr13/eurr-bdc eurr7/eurr-hi
-3x Sc 20life 8lr eurr10/eurr-ban eurr12/eurr-bcc eurr13/eurr-bdo
+4x Sc 20life 8lr eurr10/eurr-ban eurr12/eurr-bcc eurr13/eurr-bdo eurr15/eurr-bfl
 2x Sc 20life 8mana eurr13/eurr-bdm eurr8/eurr-iq
 3x Sc 20life 8pr eurr15/eurr-bfa eurr4/eurr-er eurr8/eurr-ir
 2x Sc 20life 9lr eurr8/eurr-ip eurr9/eurr-jh
@@ -1791,7 +1862,7 @@ Sc 20life 7pr eurr5/eurr-fh
 6x Sc 214psndmg(over 9s) eurr12/eurr-bcf eurr13/eurr-bda eurr2/eurr-ce eurr4/eurr-eq eurr8/eurr-ie eurr8/eurr-ig
 Sc 21ar 20life eurr5/eurr-fr
 Sc 24ar 20life eurr6/eurr-gh
-7x Sc 251psndmg(over 10s) eurr11/eurr-bbe eurr12/eurr-bcf eurr2/eurr-cj eurr3/eurr-de eurr3/eurr-dg eurr3/eurr-di eurr9/eurr-jo
+8x Sc 251psndmg(over 10s) eurr11/eurr-bbe eurr12/eurr-bcf eurr15/eurr-bfl eurr2/eurr-cj eurr3/eurr-de eurr3/eurr-dg eurr3/eurr-di eurr9/eurr-jo
 Sc 25psndmg(over 5s) 11pr eurr3/eurr-dh
 Sc 27ar 19life eurr4/eurr-ea
 Sc 27ar 20life eurr4/eurr-ea
@@ -1802,11 +1873,12 @@ Sc 29ar 19life eurr5/eurr-fl
 6x Sc 2dex 11pr eurr10/eurr-bam eurr11/eurr-bbj eurr4/eurr-ee eurr4/eurr-ef eurr5/eurr-fn eurr7/eurr-hp
 Sc 2dex 17mana eurr11/eurr-bbj
 Sc 2maxdmg 20ar 20life eurr6/eurr-gf
-5x Sc 2str 11fr eurr14/eurr-bec eurr14/eurr-bef eurr3/eurr-da eurr5/eurr-fg eurr5/eurr-fj
+6x Sc 2str 11fr eurr14/eurr-bec eurr14/eurr-bef eurr16/eurr-bga eurr3/eurr-da eurr5/eurr-fg eurr5/eurr-fj
 12x Sc 2str 11lr
 3x Sc 2str 11pr eurr12/eurr-bcn eurr12/eurr-bco eurr4/eurr-em
-5x Sc 2str 17mana eurr12/eurr-bco eurr4/eurr-eg eurr6/eurr-ge eurr7/eurr-hc eurr8/eurr-ig
-4x Sc 313psndmg(over 11s) eurr12/eurr-bco eurr6/eurr-gp eurr7/eurr-ho eurr8/eurr-il
+6x Sc 2str 17mana eurr12/eurr-bco eurr15/eurr-bfn eurr4/eurr-eg eurr6/eurr-ge eurr7/eurr-hc eurr8/eurr-ig
+Sc 30ar 19life eurr15/eurr-bfp
+5x Sc 313psndmg(over 11s) eurr12/eurr-bco eurr15/eurr-bfk eurr6/eurr-gp eurr7/eurr-ho eurr8/eurr-il
 Sc 32ar 19life eurr2/eurr-cn
 Sc 32ar 20life eurr2/eurr-cr
 2x Sc 33ar 10eg eurr10/eurr-bam eurr3/eurr-dl
@@ -1815,17 +1887,17 @@ Sc 33ar 19life eurr6/eurr-gk
 Sc 35ar 18life eurr15/eurr-bff
 Sc 35ar 19life eurr8/eurr-id
 Sc 36ar 10eg eurr8/eurr-ii
-2x Sc 36ar 16life eurr11/eurr-bba eurr13/eurr-bdr
+3x Sc 36ar 16life eurr11/eurr-bba eurr13/eurr-bdr eurr15/eurr-bfn
 Sc 36ar 17life eurr5/eurr-fr
 Sc 36ar 19life eurr13/eurr-bdc
 2x Sc 36ar 20life eurr10/eurr-bad eurr9/eurr-ja
 4x Sc 36ar 2dex eurr11/eurr-bbl eurr2/eurr-cc eurr3/eurr-dc eurr9/eurr-je
-Sc 36ar 2str eurr1/eurr-bn
+2x Sc 36ar 2str eurr1/eurr-bn eurr15/eurr-bfo
 Sc 3@ 7mf eurr8/eurr-ir
-19x Sc 3frw 100psndmg(over 5s)
+21x Sc 3frw 100psndmg(over 5s)
 6x Sc 3frw 11cr eurr1/eurr-bi eurr12/eurr-bcf eurr12/eurr-bco eurr13/eurr-bdh eurr14/eurr-bep eurr15/eurr-bfc
-6x Sc 3frw 11fr eurr14/eurr-bef eurr14/eurr-bel eurr14/eurr-ben eurr4/eurr-ei eurr5/eurr-fg eurr9/eurr-jj
-7x Sc 3frw 11lr eurr12/eurr-bcb eurr12/eurr-bcg eurr12/eurr-bcq eurr3/eurr-dl eurr4/eurr-eb eurr4/eurr-eh eurr6/eurr-gi
+7x Sc 3frw 11fr eurr14/eurr-bef eurr14/eurr-bel eurr14/eurr-ben eurr15/eurr-bfk eurr4/eurr-ei eurr5/eurr-fg eurr9/eurr-jj
+8x Sc 3frw 11lr eurr12/eurr-bcb eurr12/eurr-bcg eurr12/eurr-bcq eurr15/eurr-bfj eurr3/eurr-dl eurr4/eurr-eb eurr4/eurr-eh eurr6/eurr-gi
 6x Sc 3frw 11pr eurr1/eurr-bl eurr10/eurr-bap eurr12/eurr-bca eurr4/eurr-eo eurr5/eurr-fk eurr9/eurr-jj
 5x Sc 3frw 17mana eurr10/eurr-bam eurr12/eurr-bcm eurr15/eurr-bfb eurr2/eurr-cb eurr8/eurr-ii
 2x Sc 3frw 35ar eurr12/eurr-bcf eurr13/eurr-bde
@@ -1837,6 +1909,7 @@ Sc 3maxdmg 13ar 18life eurr9/eurr-jn
 Sc 3maxdmg 13ar 19life eurr11/eurr-bbf
 2x Sc 3maxdmg 13ar 20life eurr11/eurr-bbq eurr8/eurr-if
 Sc 3maxdmg 14ar 19life eurr12/eurr-bch
+Sc 3maxdmg 17ar 18life eurr15/eurr-bfq
 Sc 3maxdmg 18ar 20life eurr10/eurr-bak
 2x Sc 3maxdmg 19ar 17life eurr11/eurr-bbr eurr12/eurr-bco
 Sc 3maxdmg 20ar 7mf eurr4/eurr-el
@@ -1846,15 +1919,15 @@ Sc 4@ 7mf eurr7/eurr-hd
 Sc 5@ 6mf eurr7/eurr-hr
 11x Sc 5fhr 11cr
 5x Sc 5fhr 11fr eurr11/eurr-bbg eurr12/eurr-bco eurr2/eurr-ck eurr3/eurr-dc eurr9/eurr-je
-5x Sc 5fhr 11lr eurr12/eurr-bcl eurr15/eurr-bfg eurr2/eurr-cj eurr3/eurr-dr eurr6/eurr-gj
+6x Sc 5fhr 11lr eurr12/eurr-bcl eurr15/eurr-bfg eurr16/eurr-bgb eurr2/eurr-cj eurr3/eurr-dr eurr6/eurr-gj
 5x Sc 5fhr 11pr eurr12/eurr-bcd eurr2/eurr-ck eurr3/eurr-dp eurr4/eurr-eb eurr5/eurr-ff
 7x Sc 5fhr 13mana eurr1/eurr-bg eurr1/eurr-br eurr10/eurr-baj eurr10/eurr-bap eurr13/eurr-bdo eurr2/eurr-cm eurr3/eurr-do
 5x Sc 5fhr 14mana eurr10/eurr-bab eurr12/eurr-bce eurr5/eurr-fl eurr9/eurr-jc eurr9/eurr-je
 5x Sc 5fhr 15mana eurr1/eurr-bm eurr3/eurr-db eurr4/eurr-ea eurr5/eurr-fk eurr9/eurr-ji
-3x Sc 5fhr 16mana eurr12/eurr-bcg eurr2/eurr-cl eurr8/eurr-il
+4x Sc 5fhr 16mana eurr12/eurr-bcg eurr15/eurr-bfq eurr2/eurr-cl eurr8/eurr-il
 13x Sc 5fhr 17mana
 3x Sc 5fhr 35ar eurr1/eurr-bo eurr13/eurr-bdr eurr8/eurr-in
-2x Sc 5fhr 36ar eurr11/eurr-bbr eurr2/eurr-ca
+4x Sc 5fhr 36ar eurr11/eurr-bbr eurr15/eurr-bfn eurr16/eurr-bga eurr2/eurr-ca
 3x Sc 5life 10fr eurr1/eurr-bo eurr10/eurr-bar eurr11/eurr-bbc
 Sc 5life 10lr eurr3/eurr-de
 Sc 5life 11lr eurr12/eurr-bcl
@@ -1866,26 +1939,27 @@ Sc 6life 11pr eurr11/eurr-bbd
 4x Sc 6psndmg(over 3s) 11pr eurr1/eurr-bj eurr10/eurr-bao eurr15/eurr-bff eurr4/eurr-eb
 Sc 7-12firedmg 11pr eurr5/eurr-fl
 2x Sc 7life 10fr eurr1/eurr-br eurr2/eurr-ca
-Sc 7life 10lr eurr14/eurr-bek
+2x Sc 7life 10lr eurr14/eurr-bek eurr16/eurr-bgb
 Sc 7life 11lr eurr14/eurr-bei
 Sc 7life 11pr eurr7/eurr-hc
 2x Sc 8life 10fr eurr11/eurr-bbf eurr5/eurr-fm
 2x Sc 8life 10lr eurr14/eurr-bei eurr14/eurr-bej
 Sc 8life 11lr eurr7/eurr-hb
+Sc 8life 11pr eurr15/eurr-bfn
 4x Sc 8life 17mana eurr10/eurr-baj eurr10/eurr-bap eurr2/eurr-ck eurr3/eurr-dh
 Sc 9ar 20life eurr2/eurr-cd
-Sc 9life 11fr eurr11/eurr-bbn
+2x Sc 9life 11fr eurr11/eurr-bbn eurr15/eurr-bfm
 3x Sc 9life 11lr eurr10/eurr-bai eurr8/eurr-ik eurr8/eurr-iq
 2x Sc 9life 16mana eurr1/eurr-bl eurr10/eurr-bag
-5x Sc LLD lvlreq12 1dex 7mana eurr10/eurr-bag eurr13/eurr-bdo eurr2/eurr-co eurr3/eurr-db eurr9/eurr-jh
-3x Sc LLD lvlreq12 1str 7mana eurr12/eurr-bcb eurr15/eurr-bfh eurr6/eurr-ga
-7x Sc LLD lvlreq13 43psndmg(over 6s) eurr11/eurr-bbc eurr13/eurr-bdr eurr14/eurr-bec eurr2/eurr-ck eurr5/eurr-fq eurr6/eurr-gc eurr9/eurr-ja
+6x Sc LLD lvlreq12 1dex 7mana eurr10/eurr-bag eurr13/eurr-bdo eurr15/eurr-bfn eurr2/eurr-co eurr3/eurr-db eurr9/eurr-jh
+4x Sc LLD lvlreq12 1str 7mana eurr12/eurr-bcb eurr15/eurr-bfh eurr15/eurr-bfo eurr6/eurr-ga
+8x Sc LLD lvlreq13 43psndmg(over 6s) eurr11/eurr-bbc eurr13/eurr-bdr eurr14/eurr-bec eurr15/eurr-bfl eurr2/eurr-ck eurr5/eurr-fq eurr6/eurr-gc eurr9/eurr-ja
 2x Sc LLD lvlreq15 2-4 colddmg 15psndmg(over 3s) eurr1/eurr-br eurr3/eurr-dq
 2x Sc LLD lvlreq15 4 def 10life eurr2/eurr-ch eurr9/eurr-jb
 Sc LLD lvlreq15 6 def 10life eurr2/eurr-cj
 5x Sc LLD lvlreq15 62psndmg(over 7s) eurr1/eurr-bn eurr10/eurr-bam eurr5/eurr-fk eurr9/eurr-jb eurr9/eurr-jr
 3x Sc LLD lvlreq15 7 def 10life eurr11/eurr-bba eurr3/eurr-de eurr8/eurr-il
-Sc LLD lvlreq15 8 def 10life eurr12/eurr-bcm
+2x Sc LLD lvlreq15 8 def 10life eurr12/eurr-bcm eurr16/eurr-bga
 5x Sc LLD lvlreq16 2str 7mana eurr11/eurr-bba eurr12/eurr-bcm eurr15/eurr-bfe eurr8/eurr-id eurr8/eurr-ir
 Sc LLD lvlreq17 1-10light dmg 13life eurr13/eurr-bdf
 Sc LLD lvlreq17 1-11light dmg 13life eurr12/eurr-bcn
@@ -1900,12 +1974,12 @@ Sc LLD lvlreq17 12ar 13life eurr5/eurr-fd
 2x Sc LLD lvlreq17 12ar 15life eurr11/eurr-bbf eurr8/eurr-ij
 3x Sc LLD lvlreq17 13life 6mana eurr14/eurr-bei eurr2/eurr-cb eurr7/eurr-hl
 Sc LLD lvlreq17 13life 7mana eurr15/eurr-bff
-3x Sc LLD lvlreq17 14life 5mana eurr6/eurr-gr eurr8/eurr-ic eurr9/eurr-jj
+4x Sc LLD lvlreq17 14life 5mana eurr15/eurr-bfq eurr6/eurr-gr eurr8/eurr-ic eurr9/eurr-jj
 2x Sc LLD lvlreq17 14life 6mana eurr12/eurr-bcf eurr7/eurr-hq
-Sc LLD lvlreq17 14life 7mana eurr11/eurr-bbk
+2x Sc LLD lvlreq17 14life 7mana eurr11/eurr-bbk eurr15/eurr-bfr
 Sc LLD lvlreq17 15life 5fr eurr3/eurr-dj
 Sc LLD lvlreq17 15life 5lr eurr12/eurr-bcq
-Sc LLD lvlreq17 15life 5mana eurr14/eurr-bej
+2x Sc LLD lvlreq17 15life 5mana eurr14/eurr-bej eurr15/eurr-bfr
 Sc LLD lvlreq17 15life 6fr eurr4/eurr-ej
 2x Sc LLD lvlreq17 15life 6mana eurr12/eurr-bca eurr9/eurr-jf
 3x Sc LLD lvlreq17 15life 7cr eurr1/eurr-bu eurr6/eurr-gp eurr7/eurr-hn
@@ -1922,7 +1996,7 @@ Sc LLD lvlreq17 9ar 14life eurr12/eurr-bca
 Sc LLD lvlreq17 9ar 15life eurr4/eurr-ea
 Sc LLD lvlreq20 1-3 colddmg 15life eurr15/eurr-bfd
 2x Sc LLD lvlreq20 10life 9fr eurr3/eurr-db eurr5/eurr-fq
-2x Sc LLD lvlreq20 11life 9fr eurr10/eurr-baa eurr6/eurr-gc
+3x Sc LLD lvlreq20 11life 9fr eurr10/eurr-baa eurr16/eurr-bgb eurr6/eurr-gc
 2x Sc LLD lvlreq20 11life 9lr eurr6/eurr-gl eurr7/eurr-hc
 2x Sc LLD lvlreq20 12life 9fr eurr13/eurr-bdq eurr3/eurr-do
 2x Sc LLD lvlreq20 12life 9lr eurr11/eurr-bbm eurr5/eurr-fl
@@ -1943,6 +2017,7 @@ Sc LLD lvlreq20 9lr 7eg eurr2/eurr-ce
 2x Sc LLD lvlreq20 9lr 8eg eurr2/eurr-ch eurr7/eurr-ha
 Sc LLD lvlreq20 9lr 9eg eurr7/eurr-hn
 Sc LLD lvlreq21 1maxdmg 13ar 13life eurr10/eurr-bap
+Sc LLD lvlreq21 1maxdmg 15ar 13life eurr15/eurr-bfn
 Sc LLD lvlreq21 1maxdmg 18ar 13life eurr6/eurr-gn
 Sc LLD lvlreq21 2maxdmg 12ar 14life eurr5/eurr-fg
 Sc LLD lvlreq21 2maxdmg 12ar 15life eurr10/eurr-bak
@@ -1963,15 +2038,15 @@ Sc LLD lvlreq21 3maxdmg 14ar 12life eurr3/eurr-dq
 3x Sc LLD lvlreq21 3maxdmg 14ar 2dex eurr10/eurr-bam eurr11/eurr-bbq eurr12/eurr-bcl
 Sc LLD lvlreq21 3maxdmg 15ar 11life eurr12/eurr-bcm
 2x Sc LLD lvlreq21 3maxdmg 15ar 2dex eurr6/eurr-gh eurr9/eurr-jg
-2x Sc LLD lvlreq21 3maxdmg 15ar 2str eurr13/eurr-bdb eurr3/eurr-dh
+3x Sc LLD lvlreq21 3maxdmg 15ar 2str eurr13/eurr-bdb eurr15/eurr-bfr eurr3/eurr-dh
 Sc LLD lvlreq21 3maxdmg 16ar 15life eurr5/eurr-fe
 Sc LLD lvlreq21 3maxdmg 16ar 2dex eurr6/eurr-gl
 2x Sc LLD lvlreq21 3maxdmg 16ar 2str eurr10/eurr-bar eurr5/eurr-fg
 Sc LLD lvlreq21 3maxdmg 17ar 2dex eurr14/eurr-bem
 Sc LLD lvlreq21 3maxdmg 17ar 2str eurr11/eurr-bbp
-Sc LLD lvlreq21 3maxdmg 18ar 14life eurr9/eurr-jk
+2x Sc LLD lvlreq21 3maxdmg 18ar 14life eurr15/eurr-bfn eurr9/eurr-jk
 Sc LLD lvlreq21 3maxdmg 18ar 2dex eurr7/eurr-hq
-Sc LLD lvlreq21 3maxdmg 18ar 2str eurr1/eurr-bt
+2x Sc LLD lvlreq21 3maxdmg 18ar 2str eurr1/eurr-bt eurr16/eurr-bgc
 Sc LLD lvlreq21 3maxdmg 19ar 2dex eurr12/eurr-bcc
 Sc LLD lvlreq21 3maxdmg 20ar 10life eurr14/eurr-beo
 Sc LLD lvlreq21 3maxdmg 20ar 12life eurr13/eurr-bdo
@@ -1992,12 +2067,14 @@ Sc LLD lvlreq24 12life 9mana eurr12/eurr-bca
 3x Sc LLD lvlreq24 13life 11mana eurr11/eurr-bbb eurr11/eurr-bbc eurr6/eurr-gp
 Sc LLD lvlreq24 13life 12mana eurr2/eurr-cg
 2x Sc LLD lvlreq24 13life 8mana eurr11/eurr-bbo eurr2/eurr-cq
-Sc LLD lvlreq24 14life 11mana eurr11/eurr-bbk
+Sc LLD lvlreq24 13life 9mana eurr15/eurr-bfo
+2x Sc LLD lvlreq24 14life 11mana eurr11/eurr-bbk eurr16/eurr-bgc
 3x Sc LLD lvlreq24 14life 12mana eurr2/eurr-cf eurr3/eurr-do eurr4/eurr-eb
 2x Sc LLD lvlreq24 14life 8mana eurr14/eurr-bef eurr8/eurr-ir
 2x Sc LLD lvlreq24 14life 9mana eurr11/eurr-bbe eurr7/eurr-hb
 Sc LLD lvlreq24 15life 11mana eurr3/eurr-dl
-Sc LLD lvlreq24 15life 9mana eurr15/eurr-bfe
+Sc LLD lvlreq24 15life 12mana eurr15/eurr-bfm
+2x Sc LLD lvlreq24 15life 9mana eurr15/eurr-bfe eurr15/eurr-bfn
 Sc LLD lvlreq24 15psndmg(over 4s) 12mana eurr5/eurr-fh
 2x Sc LLD lvlreq24 25psndmg(over 5s) 12mana eurr2/eurr-ca eurr7/eurr-ho
 11x Sc LLD lvlreq24 2dex 12mana
@@ -2015,22 +2092,24 @@ Sc LLD lvlreq25 11life 5@ eurr9/eurr-je
 Sc LLD lvlreq25 13life 5@ eurr13/eurr-bdm
 Sc LLD lvlreq25 14life 5@ eurr3/eurr-dq
 Sc LLD lvlreq25 15psndmg(over 4s) 5@ eurr11/eurr-bba
-5x Sc LLD lvlreq25 1dex 5@ eurr12/eurr-bco eurr15/eurr-bff eurr3/eurr-dg eurr5/eurr-fd eurr9/eurr-jr
-6x Sc LLD lvlreq25 1str 5@ eurr1/eurr-bh eurr11/eurr-bbb eurr3/eurr-dl eurr3/eurr-do eurr5/eurr-fo eurr7/eurr-hb
+6x Sc LLD lvlreq25 1dex 5@ eurr12/eurr-bco eurr15/eurr-bff eurr16/eurr-bga eurr3/eurr-dg eurr5/eurr-fd eurr9/eurr-jr
+7x Sc LLD lvlreq25 1str 5@ eurr1/eurr-bh eurr11/eurr-bbb eurr15/eurr-bfp eurr3/eurr-dl eurr3/eurr-do eurr5/eurr-fo eurr7/eurr-hb
 2x Sc LLD lvlreq25 2-3 colddmg 5@ eurr4/eurr-eg eurr9/eurr-jm
 Sc LLD lvlreq25 2dex 5@ eurr12/eurr-bcl
 3x Sc LLD lvlreq25 2str 5@ eurr13/eurr-bdi eurr15/eurr-bfi eurr4/eurr-eb
 Sc LLD lvlreq25 3maxdmg 14ar 1-14light dmg eurr10/eurr-ban
 Sc LLD lvlreq25 3maxdmg 16ar 1-16light dmg eurr6/eurr-gc
 2x Sc LLD lvlreq25 4@ 10eg eurr5/eurr-fc eurr6/eurr-gp
-46x Sc LLD lvlreq25 5@
+47x Sc LLD lvlreq25 5@
 Sc LLD lvlreq25 5@ 10eg eurr4/eurr-ep
 Sc LLD lvlreq25 5@ 3mf eurr14/eurr-bej
+Sc LLD lvlreq25 5@ 4mf eurr16/eurr-bga
 Sc LLD lvlreq25 5@ 6eg eurr10/eurr-bac
 Sc LLD lvlreq25 5@ 7eg eurr10/eurr-bah
 Sc LLD lvlreq25 5@ 8eg eurr1/eurr-be
 4x Sc LLD lvlreq25 6psndmg(over 3s) 5@ eurr13/eurr-bdn eurr2/eurr-cl eurr6/eurr-gf eurr9/eurr-jg
-8x Sc LLD lvlreq27 3frw 10mana eurr11/eurr-bbk eurr13/eurr-bdl eurr15/eurr-bff eurr3/eurr-dj eurr5/eurr-fd eurr7/eurr-hg eurr7/eurr-hh eurr8/eurr-io
+Sc LLD lvlreq25 7life 5@ eurr15/eurr-bfk
+9x Sc LLD lvlreq27 3frw 10mana eurr11/eurr-bbk eurr13/eurr-bdl eurr15/eurr-bff eurr16/eurr-bgc eurr3/eurr-dj eurr5/eurr-fd eurr7/eurr-hg eurr7/eurr-hh eurr8/eurr-io
 4x Sc LLD lvlreq27 3frw 11mana eurr13/eurr-bdi eurr15/eurr-bfc eurr8/eurr-ig eurr8/eurr-ih
 8x Sc LLD lvlreq27 3frw 12mana eurr10/eurr-bap eurr12/eurr-bci eurr15/eurr-bfd eurr2/eurr-cl eurr3/eurr-dc eurr5/eurr-fa eurr5/eurr-fi eurr6/eurr-gn
 3x Sc LLD lvlreq27 3frw 3maxdmg 11ar eurr13/eurr-bdc eurr8/eurr-ip eurr9/eurr-jm
@@ -2038,11 +2117,12 @@ Sc LLD lvlreq27 3frw 3maxdmg 14ar eurr3/eurr-db
 2x Sc LLD lvlreq27 3frw 3maxdmg 15ar eurr11/eurr-bbg eurr12/eurr-bcb
 Sc LLD lvlreq27 3frw 3maxdmg 17ar eurr3/eurr-dk
 Sc LLD lvlreq27 3frw 3maxdmg 18ar eurr7/eurr-hq
+Sc LLD lvlreq27 3frw 3maxdmg 19ar eurr15/eurr-bfn
 Sc LLD lvlreq27 3frw 3maxdmg 20ar eurr12/eurr-bcn
 Sc LLD lvlreq27 3frw 5@ eurr7/eurr-hg
-6x Sc LLD lvlreq27 3frw 9cr eurr1/eurr-be eurr13/eurr-bde eurr13/eurr-bdk eurr13/eurr-bdl eurr14/eurr-beo eurr2/eurr-ce
+7x Sc LLD lvlreq27 3frw 9cr eurr1/eurr-be eurr13/eurr-bde eurr13/eurr-bdk eurr13/eurr-bdl eurr14/eurr-beo eurr15/eurr-bfk eurr2/eurr-ce
 10x Sc LLD lvlreq27 3frw 9fr eurr1/eurr-bf eurr11/eurr-bba eurr11/eurr-bbi eurr14/eurr-bei eurr2/eurr-ce eurr5/eurr-ff eurr6/eurr-gn eurr6/eurr-gq eurr7/eurr-hj eurr8/eurr-iq
-10x Sc LLD lvlreq27 3frw 9lr eurr15/eurr-bfe eurr15/eurr-bfh eurr2/eurr-cg eurr4/eurr-ef eurr5/eurr-fi eurr5/eurr-fl eurr6/eurr-ge eurr6/eurr-gj eurr7/eurr-hn eurr9/eurr-jl
+11x Sc LLD lvlreq27 3frw 9lr
 Sc LLD lvlreq28 15 def 15life eurr7/eurr-hg
 Sc LLD lvlreq28 16 def 15life eurr5/eurr-fp
 Sc LLD lvlreq28 17 def 15life eurr14/eurr-bel
@@ -2054,18 +2134,18 @@ Sc LLD lvlreq28 19 def 14life eurr15/eurr-bfd
 2x Sc LLD lvlreq28 20 def 13life eurr3/eurr-dr eurr4/eurr-ek
 3x Sc LLD lvlreq28 20 def 15life eurr3/eurr-dj eurr6/eurr-gq eurr7/eurr-hq
 6x Sc LLD lvlreq29 5fhr 10mana eurr10/eurr-bae eurr4/eurr-ea eurr5/eurr-fa eurr5/eurr-fk eurr7/eurr-hp eurr8/eurr-ij
-5x Sc LLD lvlreq29 5fhr 11mana eurr13/eurr-bdq eurr14/eurr-bem eurr5/eurr-fl eurr6/eurr-gf eurr7/eurr-hj
+6x Sc LLD lvlreq29 5fhr 11mana eurr13/eurr-bdq eurr14/eurr-bem eurr15/eurr-bfl eurr5/eurr-fl eurr6/eurr-gf eurr7/eurr-hj
 4x Sc LLD lvlreq29 5fhr 12mana eurr1/eurr-bh eurr3/eurr-do eurr7/eurr-hm eurr9/eurr-jm
 Sc LLD lvlreq29 5fhr 3maxdmg 12ar eurr5/eurr-fn
 2x Sc LLD lvlreq29 5fhr 3maxdmg 13ar eurr10/eurr-bad eurr9/eurr-jn
 Sc LLD lvlreq29 5fhr 3maxdmg 14ar eurr4/eurr-el
-Sc LLD lvlreq29 5fhr 3maxdmg 16ar eurr10/eurr-bae
+2x Sc LLD lvlreq29 5fhr 3maxdmg 16ar eurr10/eurr-bae eurr15/eurr-bfn
 2x Sc LLD lvlreq29 5fhr 3maxdmg 17ar eurr3/eurr-da eurr7/eurr-hf
 2x Sc LLD lvlreq29 5fhr 3maxdmg 18ar eurr12/eurr-bch eurr8/eurr-ip
 Sc LLD lvlreq29 5fhr 3maxdmg 19ar eurr3/eurr-dp
 2x Sc LLD lvlreq29 5fhr 4@ eurr2/eurr-cr eurr8/eurr-ij
 5x Sc LLD lvlreq29 5fhr 5@ eurr11/eurr-bbe eurr12/eurr-bcn eurr14/eurr-bel eurr6/eurr-gk eurr7/eurr-ha
-5x Sc LLD lvlreq29 5fhr 9cr eurr10/eurr-bak eurr11/eurr-bbm eurr13/eurr-bdn eurr14/eurr-bed eurr2/eurr-cf
+6x Sc LLD lvlreq29 5fhr 9cr eurr10/eurr-bak eurr11/eurr-bbm eurr13/eurr-bdn eurr14/eurr-bed eurr15/eurr-bfk eurr2/eurr-cf
 12x Sc LLD lvlreq29 5fhr 9fr
 6x Sc LLD lvlreq29 5fhr 9lr eurr13/eurr-bdc eurr13/eurr-bdq eurr15/eurr-bfb eurr6/eurr-gq eurr7/eurr-hd eurr9/eurr-jh
 
@@ -2177,12 +2257,14 @@ wt Battle Boots 123def 157ed(def) 47mf eurr13/eurr-bdl
 wt Battle Boots 126def 164ed(def) 50mf eurr8/eurr-il
 wt Battle Boots 135def 182ed(def) 46mf eurr6/eurr-gh
 Wyrmhide Boots 57def 20frw 7dex 38lr 29fr 25mf eurr10/eurr-bam
+Wyrmhide Boots 57def 30frw 37cr 36lr 65eg eurr16/eurr-bgc
 Wyrmhide Boots 57def 40frw 20mana eurr6/eurr-gc
 Wyrmhide Boots 61def 30frw 37mana eurr11/eurr-bbh
 Wyrmhide Boots 62def 30frw 28cr 34lr 13pr eurr10/eurr-bab
 Wyrmhide Boots 74def 30frw 18ed(def) 26cr 37lr 56eg selfrep eurr4/eurr-eg
 
 [B]Helms & Pelts[/B]
+Alpha Helm 52def LLD lvlreq30 2hurricane 3nado 1 to Hunger eurr15/eurr-bfq
 Alpha Helm 53def LLD lvlreq26 2 to Maul 3 to Rage 2energy eurr10/eurr-bam
 Alpha Helm 54def LLD lvlreq26 1nado 2 to Volcano 3 to Carrion Vine 3sox eurr12/eurr-bcr
 Alpha Helm 56def 2druidskills 3nado 9life eurr4/eurr-em
@@ -2193,11 +2275,11 @@ Antlers 18def LLD lvlreq24 1shockwave 3heartofwolverine 3 to Rage psnlengthreduc
 Antlers 18def LLD lvlreq30 2hurricane 3nado 1shockwave eurr13/eurr-bdm
 Antlers 19def LLD lvlreq12 3 to Carrion Vine 1sox eurr5/eurr-fq
 Antlers 19def LLD lvlreq12 3 to Carrion Vine eurr2/eurr-cr
-Antlers 20def 2druidskills 3 to Summon Grizzly 1nado eurr4/eurr-ea
 Antlers 20def LLD lvlreq18 1shapeshiftsk 1 to Summon Dire Wolf 3heartofwolverine 2 to Rage eurr2/eurr-cj
 Antlers 20def LLD lvlreq18 2heartofwolverine 3 to Maul 19cr eurr4/eurr-ej
 Antlers 23def 2druidskills 3 to Summon Grizzly 1fireclaws eurr15/eurr-bfh
 Antlers 24def 2druidskills 1fury 3nado 1 to Hunger 11life eurr9/eurr-jh
+Antlers 24def LLD lvlreq18 2fireclaws 3heartofwolverine 2 to Rage 3energy eurr15/eurr-bfo
 Antlers 33def 2druidskills 3nado 1solarcreeper ETH eurr9/eurr-je
 Antlers 33def LLD lvlreq30 3fury 2 to Rabies ETH eurr12/eurr-bck
 Antlers 34def LLD lvlreq30 14 Chance to cast level 5 Bolt when struck 1druidskills 15ar 3fury 3shockwave 3 to Rabies 36ed(def) 5life 13lr 1lightradius eurr2/eurr-ck
@@ -2244,6 +2326,7 @@ Crown 104def LLD lvlreq18 52ed(def) selfrep ETH eurr4/eurr-ek
 Crown 105def LLD lvlreq18 53ed(def) 8fr 10pr selfrep ETH eurr8/eurr-ik
 Crown 106def LLD lvlreq18 55ed(def) 4mana 13lr selfrep ETH eurr8/eurr-im
 Crown 109def LLD lvlreq18 59ed(def) 5mana 8fr selfrep ETH eurr3/eurr-da
+Crown 111def LLD lvlreq18 62ed(def) selfrep ETH eurr15/eurr-bfl
 Crown 113def LLD lvlreq18 30ar 65ed(def) 5energy 27cr 3lightradius selfrep ETH eurr9/eurr-ji
 Crown 26def eurr9/eurr-jc
 Crown 82def LLD lvlreq5 20ed(def) psnlengthreducedby25 selfrep ETH eurr15/eurr-bfd
@@ -2350,6 +2433,7 @@ Lion Helm 75def LLD lvlreq29 1grimward 3bo 2 to Increased Speed eurr3/eurr-dk
 Mask of the Sun 22def LLD lvlreq18 5ar 1 Bonusar (based on clvl) 5lightradius eurr5/eurr-fb
 Nightwing's Veil Spired Helm 315def 2allskills 15coldskilldmg 97ed(def) 15dex 5 coldabsorbhfd req-50 eurr7/eurr-hh
 Nightwing's Veil Spired Helm 321def 2allskills 15coldskilldmg 101ed(def) 16dex 7 coldabsorbhfd req-50 eurr2/eurr-ck
+Peasant Crown War Hat 162def dura: 0 of 7 0 LLD lvlreq28 1allskills 15frw 100ed(def) 20vita 20energy 10liferep ETH eurr15/eurr-bfn
 Peasant Crown War Hat 162def dura: 0 of 7 0 LLD lvlreq28 1allskills 15frw 100ed(def) 20vita 20energy 6liferep ETH eurr4/eurr-ei
 Rage Mask 101def 10 Chance to cast level 3 Nova when struck 2barbskills 3bo 1 to Find Item 11ed(def) 36life 27lr eurr8/eurr-ie
 Rage Mask 108def 2barbskills 10fhr 3bo 19ed(def) 33life 17pr eurr2/eurr-cr
@@ -2362,12 +2446,14 @@ Rage Mask 89def LLD lvlreq30 2warcries 10fhr 3 to War Cry eurr8/eurr-ir
 Rockstopper Sallet 198def 30fhr 215ed(def) 15vita 33cr 20lr 43fr 10damred eurr9/eurr-jj
 Shako 100def unid eurr10/eurr-bab
 Shako 102def unid eurr12/eurr-bcm
+Shako 103def unid eurr15/eurr-bfl
 Shako 104def 2allskills 2allattr 1life (based on clvl) 1mana (based on clvl) 10damred 50mf eurr1/eurr-bn
 Shako 104def unid eurr10/eurr-bar
 Shako 105def unid eurr14/eurr-bee
+Shako 106def unid eurr15/eurr-bfl
 Shako 107def unid eurr13/eurr-bdg
 Shako 111def unid eurr11/eurr-bbe
-2x Shako 112def unid eurr14/eurr-bej eurr15/eurr-bfd
+3x Shako 112def unid eurr14/eurr-bej eurr15/eurr-bfd eurr15/eurr-bfq
 2x Shako 113def unid eurr7/eurr-hg eurr9/eurr-jl
 3x Shako 114def unid eurr2/eurr-cp eurr4/eurr-em eurr8/eurr-ij
 2x Shako 116def unid eurr11/eurr-bbh eurr12/eurr-bcr
@@ -2380,13 +2466,13 @@ Shako 121def unid eurr15/eurr-bfi
 Shako 124def unid eurr6/eurr-gq
 2x Shako 125def unid eurr8/eurr-ii eurr9/eurr-jf
 Shako 126def unid eurr10/eurr-bak
-Shako 128def unid eurr7/eurr-hb
+2x Shako 128def unid eurr15/eurr-bfn eurr7/eurr-hb
 Shako 129def unid eurr9/eurr-jd
 Shako 130def unid eurr4/eurr-ea
 3x Shako 131def unid eurr14/eurr-bel eurr6/eurr-gm eurr6/eurr-gp
 3x Shako 132def unid eurr14/eurr-beg eurr14/eurr-beg eurr5/eurr-fm
 Shako 133def unid eurr10/eurr-bae
-2x Shako 135def unid eurr11/eurr-bbn eurr3/eurr-dq
+3x Shako 135def unid eurr11/eurr-bbn eurr15/eurr-bfn eurr3/eurr-dq
 3x Shako 138def unid eurr10/eurr-bap eurr13/eurr-bde eurr7/eurr-hh
 Shako 139def unid eurr2/eurr-ce
 Shako 140def unid eurr8/eurr-in
@@ -2413,8 +2499,10 @@ Superior Antlers 26def LLD lvlreq12 3 to Carrion Vine 5ed(def) eurr10/eurr-bam
 Superior Antlers 26def LLD lvlreq12 3 to Carrion Vine 7ed(def) eurr6/eurr-gb
 Superior Antlers 27def LLD lvlreq12 3 to Carrion Vine 9ed(def) 14dura eurr3/eurr-dl
 Superior Antlers 27def LLD lvlreq18 1heartofwolverine 3 to Rage 11ed(def) eurr8/eurr-ia
+Superior Antlers 27def LLD lvlreq30 3fury 1 to Hunger 2heartofwolverine 11ed(def) 11dura eurr16/eurr-bga
 Superior Antlers 28def LLD lvlreq12 3 to Carrion Vine 12ed(def) eurr1/eurr-bp
 Superior Antlers 28def LLD lvlreq18 2 to Rabies 1heartofwolverine 3 to Maul 12ed(def) 13dura eurr8/eurr-ig
+Superior Antlers 28def LLD lvlreq30 3fury 2 to Rabies 13ed(def) 10dura eurr15/eurr-bfq
 Superior Assault Helmet 30def LLD lvlreq24 3bo 1 to Increased Speed 2battlecry 10dura eurr2/eurr-ck
 Superior Assault Helmet 32def LLD lvlreq30 2whirlwind 1 to Skin 13dura eurr11/eurr-bbc
 Superior Assault Helmet 33def LLD lvlreq30 2naturalresistance 3whirlwind 12dura eurr12/eurr-bcp
@@ -2422,7 +2510,7 @@ Superior Assault Helmet 35def LLD lvlreq24 3bo 1 to Increased Speed 1battlecry 1
 Superior Assault Helmet 39def LLD lvlreq24 3bo 1 to Increased Speed 1battlecry 10ed(def) 12dura eurr3/eurr-di
 Superior Blood Spirit 163def 2hurricane 3nado 1solarcreeper 12ed(def) 3sox eurr12/eurr-bcm
 Superior Crown 52def 15ed(def) 15dura 3sox eurr13/eurr-bdn
-6x Superior Crown 52def 15ed(def) 3sox eurr11/eurr-bbi eurr12/eurr-bca eurr14/eurr-ben eurr5/eurr-fk eurr8/eurr-ij eurr9/eurr-jm
+7x Superior Crown 52def 15ed(def) 3sox eurr11/eurr-bbi eurr12/eurr-bca eurr14/eurr-ben eurr15/eurr-bfl eurr5/eurr-fk eurr8/eurr-ij eurr9/eurr-jm
 Superior Falcon Mask 31def LLD lvlreq15 1 to Fissure 3 to Carrion Vine 7ed(def) eurr4/eurr-ej
 Superior Falcon Mask 31def LLD lvlreq15 2 to Rage 3 to Carrion Vine 9ed(def) eurr2/eurr-cd
 Superior Falcon Mask 31def LLD lvlreq15 3 to Carrion Vine 9ed(def) eurr15/eurr-bff
@@ -2446,16 +2534,19 @@ Superior Fanged Helm 23def LLD lvlreq30 1naturalresistance 2whirlwind 3battlecry
 Superior Fanged Helm 23def LLD lvlreq6 3 to Shout 1 to Spear Mastery 13ed(def) 12dura eurr10/eurr-bak
 Superior Fanged Helm 23def LLD lvlreq6 3 to Shout 10ed(def) eurr2/eurr-cj
 Superior Fanged Helm 23def LLD lvlreq6 3 to Shout 11ed(def) 10dura 3sox eurr12/eurr-bco
+Superior Fanged Helm 23def LLD lvlreq6 3 to Shout 11ed(def) 10dura eurr15/eurr-bfj
 Superior Fanged Helm 23def LLD lvlreq6 3 to Shout 13ed(def) 13dura eurr3/eurr-db
 Superior Fanged Helm 23def LLD lvlreq6 3 to Shout 14ed(def) eurr13/eurr-bdp
 Superior Fanged Helm 24def LLD lvlreq6 3 to Shout 15ed(def) eurr13/eurr-bdi
-33x Superior Great Helm 41def 15ed(def)
+34x Superior Great Helm 41def 15ed(def)
 4x Superior Great Helm 41def 15ed(def) 15dura eurr13/eurr-bdl eurr3/eurr-dd eurr5/eurr-fc eurr6/eurr-ga
 3x Superior Great Helm 41def 15ed(def) 3sox eurr3/eurr-dd eurr7/eurr-ho eurr9/eurr-jk
 Superior Hawk Helm 10def 0 LLD lvlreq30 1fury 1 to Rage 3 to Carrion Vine 13dura ETH 3sox eurr8/eurr-ih
+Superior Hawk Helm 13def LLD lvlreq30 2fury 2heartofwolverine 3 to Rage 13dura eurr15/eurr-bfo
 Superior Hawk Helm 14def LLD lvlreq12 3 to Carrion Vine 12dura eurr13/eurr-bdf
 Superior Hawk Helm 16def LLD lvlreq30 3fury 3 to Volcano 1heartofwolverine 5ed(def) 15dura eurr9/eurr-jm
-Superior Hawk Helm 17def LLD lvlreq12 3 to Carrion Vine 11ed(def) eurr8/eurr-ic
+Superior Hawk Helm 17def LLD lvlreq12 1 to Maul 3 to Carrion Vine 8ed(def) 13dura 1sox eurr15/eurr-bfo
+2x Superior Hawk Helm 17def LLD lvlreq12 3 to Carrion Vine 11ed(def) eurr15/eurr-bfr eurr8/eurr-ic
 Superior Hawk Helm 17def LLD lvlreq12 3 to Carrion Vine 12ed(def) 12dura eurr12/eurr-bco
 Superior Hawk Helm 17def LLD lvlreq12 3 to Carrion Vine 9ed(def) 13dura eurr5/eurr-fb
 Superior Hawk Helm 17def LLD lvlreq12 3 to Carrion Vine 9ed(def) eurr6/eurr-gq
@@ -2465,6 +2556,7 @@ Superior Hawk Helm 17def LLD lvlreq18 2heartofwolverine 3 to Maul 12ed(def) eurr
 Superior Hawk Helm 18def LLD lvlreq12 3 to Carrion Vine 13ed(def) 11dura 2sox eurr2/eurr-ce
 Superior Hawk Helm 18def LLD lvlreq12 3 to Carrion Vine 14ed(def) 3sox eurr1/eurr-bl
 Superior Hawk Helm 18def LLD lvlreq30 2hurricane 3nado 1 to Maul 13ed(def) eurr12/eurr-bcr
+Superior Hawk Helm 6def LLD lvlreq12 3 to Carrion Vine 10dura eurr15/eurr-bfn
 Superior Hawk Helm 7def LLD lvlreq18 1heartofwolverine 3 to Carrion Vine 12dura eurr9/eurr-jk
 Superior Horned Helm 32def LLD lvlreq18 3 to Skin 2 to Shout 5ed(def) 10dura eurr12/eurr-bch
 Superior Horned Helm 35def LLD lvlreq24 1grimward 3bo 1 to Increased Speed 14ed(def) eurr4/eurr-ei
@@ -2478,6 +2570,7 @@ Superior Jawbone Cap 17def LLD lvlreq6 3 to Shout 10ed(def) eurr9/eurr-jn
 Superior Jawbone Cap 17def LLD lvlreq6 3 to Shout 11ed(def) eurr2/eurr-cf
 Superior Jawbone Cap 17def LLD lvlreq6 3 to Shout 7ed(def) eurr7/eurr-ha
 Superior Jawbone Cap 17def LLD lvlreq6 3 to Shout 8ed(def) eurr6/eurr-gi
+Superior Jawbone Cap 18def LLD lvlreq30 1battlecommand 1naturalresistance 2whirlwind 14ed(def) eurr15/eurr-bfq
 Superior Jawbone Cap 18def LLD lvlreq6 3 to Shout 15ed(def) 15dura eurr12/eurr-bck
 Superior Jawbone Visor 66def LLD lvlreq25 1grimward 3bo 1 to Increased Speed 10dura 3sox eurr3/eurr-dc
 Superior Jawbone Visor 72def LLD lvlreq30 1battlecommand 3whirlwind 1bo 5ed(def) 3sox eurr2/eurr-co
@@ -2517,6 +2610,7 @@ Vampire Gaze Grim Helm 252def 6-22 colddmg 6ml 7ll 100ed(def) 15slowerstaminadra
 2x Vampire Gaze Grim Helm 252def 6-22 colddmg 6ml 8ll 100ed(def) 15slowerstaminadrain 15damred 12mdr eurr14/eurr-bek eurr7/eurr-hp
 Vampire Gaze Grim Helm 252def 6-22 colddmg 6ml 8ll 100ed(def) 15slowerstaminadrain 19damred 12mdr eurr13/eurr-bdm
 Vampire Gaze Grim Helm 252def 6-22 colddmg 6ml 8ll 100ed(def) 15slowerstaminadrain 19damred 15mdr eurr10/eurr-bai
+Vampire Gaze Grim Helm 252def 6-22 colddmg 6ml 8ll 100ed(def) 15slowerstaminadrain 20damred 13mdr eurr15/eurr-bfm
 Vampire Gaze Grim Helm 252def 6-22 colddmg 7ml 6ll 100ed(def) 15slowerstaminadrain 18damred 14mdr eurr6/eurr-gd
 2x Vampire Gaze Grim Helm 252def 6-22 colddmg 7ml 6ll 100ed(def) 15slowerstaminadrain 19damred 10mdr eurr13/eurr-bdf eurr14/eurr-bea
 Vampire Gaze Grim Helm 252def 6-22 colddmg 7ml 7ll 100ed(def) 15slowerstaminadrain 17damred 13mdr eurr2/eurr-cj
@@ -2532,6 +2626,7 @@ Vampire Gaze Grim Helm 252def 6-22 colddmg 8ml 6ll 100ed(def) 15slowerstaminadra
 Vampire Gaze Grim Helm 252def 6-22 colddmg 8ml 7ll 100ed(def) 15slowerstaminadrain 16damred 12mdr eurr6/eurr-gf
 Vampire Gaze Grim Helm 252def 6-22 colddmg 8ml 7ll 100ed(def) 15slowerstaminadrain 16damred 14mdr eurr9/eurr-jq
 3x Vampire Gaze Grim Helm 252def 6-22 colddmg 8ml 7ll 100ed(def) 15slowerstaminadrain 16damred 15mdr eurr10/eurr-bap eurr5/eurr-fa eurr5/eurr-fn
+Vampire Gaze Grim Helm 252def 6-22 colddmg 8ml 7ll 100ed(def) 15slowerstaminadrain 18damred 10mdr eurr15/eurr-bfl
 Vampire Gaze Grim Helm 252def 6-22 colddmg 8ml 7ll 100ed(def) 15slowerstaminadrain 19damred 10mdr eurr8/eurr-ig
 Vampire Gaze Grim Helm 252def 6-22 colddmg 8ml 7ll 100ed(def) 15slowerstaminadrain 19damred 11mdr eurr14/eurr-bei
 2x Vampire Gaze Grim Helm 252def 6-22 colddmg 8ml 7ll 100ed(def) 15slowerstaminadrain 19damred 15mdr eurr5/eurr-fl eurr8/eurr-ig
@@ -2541,6 +2636,7 @@ Vampire Gaze Grim Helm 252def 6-22 colddmg 8ml 8ll 100ed(def) 15slowerstaminadra
 Vampire Gaze Grim Helm 252def 6-22 colddmg 8ml 8ll 100ed(def) 15slowerstaminadrain 19damred 13mdr eurr12/eurr-bcp
 Vampire Gaze Grim Helm 252def 6-22 colddmg 8ml 8ll 100ed(def) 15slowerstaminadrain 20damred 12mdr eurr8/eurr-ib
 Vampire Gaze Grim Helm 378def 6-22 colddmg 7ml 7ll 100ed(def) 15slowerstaminadrain 20damred 11mdr ETH eurr6/eurr-gp
+Winged Helm 197def LLD lvlreq27 10fhr 1ar (based on clvl) 99ed(def) 2sox eurr15/eurr-bfr
 Winged Helm 89def LLD lvlreq25 eurr7/eurr-hn
 Wolf Head 10def LLD lvlreq30 2dudusummoningskills 3shockwave 2 to Hunger 13life eurr9/eurr-jk
 Wolf Head 14def 2druidskills 3 to Summon Grizzly 2solarcreeper 18ed(def) 28life 20lr selfrep eurr3/eurr-dk
@@ -2562,6 +2658,7 @@ Circlet 20def LLD lvlreq27 1barbskills 20fcr 21mana 14@ 3damred eurr8/eurr-iq
 Circlet 20def LLD lvlreq30 2shapeshiftsk 30frw eurr14/eurr-bel
 Circlet 21def 3passivandmagicskills 20fcr eurr8/eurr-im
 Circlet 21def LLD lvlreq16 1coldskills 10frw eurr6/eurr-ga
+Circlet 21def LLD lvlreq27 1palaskills 20fcr eurr16/eurr-bga
 Circlet 21def LLD lvlreq30 2coldskills 30frw eurr2/eurr-ck
 Circlet 21def LLD lvlreq30 2fireskills 30frw 30ed 4mindmg 107ar eurr8/eurr-il
 Circlet 22def 3dudusummoningskills 20fcr eurr7/eurr-hk
@@ -2592,7 +2689,9 @@ Circlet 25def LLD lvlreq30 2shapeshiftsk 20fcr eurr2/eurr-cj
 Circlet 25def LLD lvlreq30 2shapeshiftsk 30frw eurr6/eurr-gl
 Circlet 26def 2palacombatskill 1ar (based on clvl) 8ml 26str lvl4 Telekinesis (22/30 Charges) eurr10/eurr-bao
 Circlet 26def LLD lvlreq30 2coldskills 20fcr eurr7/eurr-hb
+Circlet 26def LLD lvlreq30 2eleskills 20fcr eurr15/eurr-bfk
 Circlet 26def LLD lvlreq30 2eleskills 30frw eurr14/eurr-bej
+Circlet 27def 3palacombatskill 30str eurr16/eurr-bga
 Circlet 27def LLD lvlreq18 20frw 1-118light dmg eurr1/eurr-bq
 Circlet 27def LLD lvlreq27 1assaskills 20fcr eurr6/eurr-gc
 Circlet 27def LLD lvlreq27 1necskills 20frw 20fcr 3damred eurr6/eurr-go
@@ -2637,6 +2736,7 @@ Coronet 34def 2curseskills 20frw 20fcr 67ar lvl4 Poison Dagger (18/30 Charges) e
 Coronet 34def 3necsummoningskills 30dex eurr1/eurr-bj
 Coronet 35def 3curseskills 30frw eurr6/eurr-gn
 Coronet 35def 3dudusummoningskills 30frw eurr11/eurr-bbo
+Coronet 35def 3eleskills 30dex eurr16/eurr-bgc
 Coronet 35def 3necsummoningskills 20fcr eurr12/eurr-bci
 Coronet 36def 2druidskills 20fcr eurr6/eurr-gg
 Coronet 36def 3barbcombatskill 20fcr eurr9/eurr-jp
@@ -2702,7 +2802,8 @@ Balrog Skin 1080def ETH 4sox eurr5/eurr-fi
 2x Balrog Skin 1093def ETH 4sox eurr11/eurr-bbm eurr6/eurr-gi
 Balrog Skin 1095def ETH 4sox eurr6/eurr-ga
 Balrog Skin 1098def ETH 3sox eurr13/eurr-bdc
-Balrog Skin 1104def ETH 4sox eurr10/eurr-baj
+2x Balrog Skin 1104def ETH 4sox eurr10/eurr-baj eurr15/eurr-bfn
+Balrog Skin 1108def ETH 4sox eurr16/eurr-bgc
 Balrog Skin 1111def ETH 4sox eurr1/eurr-bk
 2x Balrog Skin 1116def ETH 4sox eurr10/eurr-baf eurr5/eurr-fi
 Balrog Skin 1117def ETH 4sox eurr14/eurr-bef
@@ -2710,7 +2811,7 @@ Balrog Skin 1122def ETH 4sox eurr2/eurr-ca
 Balrog Skin 1125def ETH 4sox eurr12/eurr-bcq
 Balrog Skin 1129def ETH 3sox eurr11/eurr-bbe
 2x Balrog Skin 1131def ETH 3sox eurr12/eurr-bci eurr4/eurr-ef
-Balrog Skin 1138def ETH 4sox eurr15/eurr-bfi
+2x Balrog Skin 1138def ETH 4sox eurr15/eurr-bfi eurr15/eurr-bfl
 Balrog Skin 1140def ETH 4sox eurr2/eurr-cm
 Balrog Skin 1144def ETH 3sox eurr10/eurr-baf
 Balrog Skin 1144def ETH 4sox eurr8/eurr-id
@@ -2718,7 +2819,7 @@ Balrog Skin 1147def ETH 3sox eurr7/eurr-hn
 2x Balrog Skin 1152def ETH 4sox eurr10/eurr-bah eurr11/eurr-bbb
 Balrog Skin 1153def ETH 4sox eurr4/eurr-er
 Balrog Skin 775def ETH eurr12/eurr-bcb
-Boneweave 1000def ETH 3sox eurr9/eurr-jk
+2x Boneweave 1000def ETH 3sox eurr15/eurr-bfm eurr9/eurr-jk
 Boneweave 1003def ETH 4sox eurr8/eurr-io
 Boneweave 1008def ETH 4sox eurr10/eurr-bac
 2x Boneweave 1014def ETH 4sox eurr12/eurr-bci eurr15/eurr-bfi
@@ -2746,14 +2847,16 @@ Boneweave 1089def ETH 4sox eurr11/eurr-bbq
 4x Boneweave 1090def ETH 4sox eurr14/eurr-beg eurr14/eurr-ber eurr2/eurr-cn eurr6/eurr-go
 Boneweave 1093def ETH 4sox eurr1/eurr-bm
 3x Boneweave 1098def ETH 4sox eurr11/eurr-bbo eurr14/eurr-beg eurr7/eurr-hb
+Boneweave 1107def ETH 4sox eurr16/eurr-bga
 Boneweave 1108def ETH 4sox eurr13/eurr-bdk
 2x Boneweave 1111def ETH 3sox eurr11/eurr-bbb eurr5/eurr-fq
 Boneweave 1111def ETH 4sox eurr3/eurr-de
 Boneweave 1116def ETH 4sox eurr11/eurr-bbk
+Boneweave 1117def ETH 4sox eurr15/eurr-bfj
 Boneweave 1120def ETH 4sox eurr3/eurr-dc
 Boneweave 1125def ETH 3sox eurr9/eurr-ja
 Boneweave 1126def ETH 3sox eurr2/eurr-cd
-Boneweave 1126def ETH 4sox eurr12/eurr-bco
+2x Boneweave 1126def ETH 4sox eurr12/eurr-bco eurr15/eurr-bfm
 Boneweave 1129def ETH 4sox eurr15/eurr-bfd
 Boneweave 1134def ETH 4sox eurr13/eurr-bdn
 Boneweave 1135def ETH 4sox eurr6/eurr-gg
@@ -2770,7 +2873,7 @@ Dusk Shroud 1009def ETH 4sox eurr13/eurr-bdf
 Dusk Shroud 1012def ETH 4sox eurr9/eurr-jr
 Dusk Shroud 1017def ETH 3sox eurr12/eurr-bcf
 2x Dusk Shroud 1017def ETH 4sox eurr11/eurr-bba eurr8/eurr-im
-3x Dusk Shroud 1018def ETH 4sox eurr3/eurr-de eurr7/eurr-ha eurr7/eurr-hq
+4x Dusk Shroud 1018def ETH 4sox eurr15/eurr-bfm eurr3/eurr-de eurr7/eurr-ha eurr7/eurr-hq
 Dusk Shroud 1023def ETH 3sox eurr13/eurr-bdi
 3x Dusk Shroud 1023def ETH 4sox eurr13/eurr-bdk eurr4/eurr-eo eurr7/eurr-hg
 Dusk Shroud 1026def ETH 4sox eurr8/eurr-in
@@ -2800,6 +2903,7 @@ Great Hauberk 1014def ETH 4sox eurr3/eurr-dp
 Great Hauberk 1021def ETH 3sox eurr12/eurr-bck
 Great Hauberk 1021def ETH 4sox eurr15/eurr-bfe
 2x Great Hauberk 1023def ETH 4sox eurr12/eurr-bcn eurr3/eurr-dg
+Great Hauberk 1026def ETH 3sox eurr16/eurr-bgc
 Great Hauberk 1030def ETH 4sox eurr10/eurr-baj
 2x Great Hauberk 1036def ETH 4sox eurr2/eurr-co eurr8/eurr-ie
 Great Hauberk 1044def ETH 4sox eurr14/eurr-bec
@@ -2812,8 +2916,9 @@ Great Hauberk 1057def ETH 3sox eurr2/eurr-cj
 Great Hauberk 1057def ETH 4sox eurr15/eurr-bfg
 Great Hauberk 1059def ETH 4sox eurr7/eurr-hf
 Great Hauberk 1062def ETH 4sox eurr10/eurr-bac
+Great Hauberk 1068def ETH 4sox eurr15/eurr-bfq
 Great Hauberk 1071def ETH 4sox eurr7/eurr-hg
-Great Hauberk 1075def ETH 4sox eurr5/eurr-fe
+2x Great Hauberk 1075def ETH 4sox eurr15/eurr-bfk eurr5/eurr-fe
 2x Great Hauberk 1080def ETH 4sox eurr13/eurr-bdb eurr3/eurr-di
 Great Hauberk 1084def ETH 3sox eurr5/eurr-fd
 Great Hauberk 1084def ETH 4sox eurr15/eurr-bfe
@@ -2823,7 +2928,7 @@ Great Hauberk 1093def ETH 4sox eurr7/eurr-hp
 Great Hauberk 1095def ETH 3sox eurr15/eurr-bfg
 Great Hauberk 1095def ETH 4sox eurr3/eurr-dq
 Great Hauberk 1099def ETH 4sox eurr1/eurr-bl
-Great Hauberk 1104def ETH 4sox eurr5/eurr-ff
+2x Great Hauberk 1104def ETH 4sox eurr15/eurr-bfm eurr5/eurr-ff
 Great Hauberk 1107def ETH 4sox eurr15/eurr-bfb
 Great Hauberk 1108def ETH 4sox eurr8/eurr-ip
 Great Hauberk 1111def ETH 4sox eurr9/eurr-jo
@@ -2833,12 +2938,11 @@ Great Hauberk 1117def ETH 4sox eurr2/eurr-cj
 Great Hauberk 1120def ETH 3sox eurr6/eurr-gf
 Great Hauberk 1122def ETH 4sox eurr2/eurr-cf
 2x Great Hauberk 1125def ETH 4sox eurr15/eurr-bfc eurr5/eurr-ff
-2x Great Hauberk 1126def ETH 4sox eurr13/eurr-bdl eurr2/eurr-ce
 5x Great Hauberk 501def 3sox eurr1/eurr-bl eurr11/eurr-bbi eurr12/eurr-bca eurr7/eurr-hf eurr8/eurr-ir
 Great Hauberk 915def ETH 1sox eurr9/eurr-ji
 2x Hellforge Plate 1014def ETH 4sox eurr12/eurr-bcg eurr13/eurr-bdc
 Hellforge Plate 1018def ETH 3sox eurr14/eurr-bee
-Hellforge Plate 1021def ETH 4sox eurr10/eurr-bab
+2x Hellforge Plate 1021def ETH 4sox eurr10/eurr-bab eurr16/eurr-bgb
 Hellforge Plate 1023def ETH 4sox eurr12/eurr-bcd
 Hellforge Plate 1027def ETH 3sox eurr10/eurr-baa
 Hellforge Plate 1030def ETH 3sox eurr10/eurr-bah
@@ -2851,7 +2955,7 @@ Hellforge Plate 1045def ETH 3sox eurr8/eurr-io
 Hellforge Plate 1048def ETH 3sox eurr12/eurr-bcn
 Hellforge Plate 1048def ETH 4sox eurr5/eurr-fd
 Hellforge Plate 1057def ETH 3sox eurr9/eurr-jf
-Hellforge Plate 1071def ETH 4sox eurr2/eurr-ck
+2x Hellforge Plate 1071def ETH 4sox eurr15/eurr-bfk eurr2/eurr-ck
 Hellforge Plate 1072def ETH 3sox eurr4/eurr-em
 Hellforge Plate 1072def ETH 4sox eurr15/eurr-bfa
 Hellforge Plate 1077def ETH 3sox eurr15/eurr-bfc
@@ -2902,6 +3006,7 @@ Lacquered Plate 1063def ETH 4sox eurr11/eurr-bba
 Lacquered Plate 1138def ETH 4sox eurr4/eurr-eq
 Lacquered Plate 1144def ETH 4sox eurr11/eurr-bbb
 Leather Armor 21def dura: 0 of 13 LLD lvlreq15 5str 29lr 20pr ETH eurr1/eurr-bq
+Loricated Mail 1000def ETH 4sox eurr15/eurr-bfm
 2x Loricated Mail 1005def ETH 4sox eurr11/eurr-bbl eurr13/eurr-bdl
 Loricated Mail 1009def ETH 3sox eurr7/eurr-ha
 2x Loricated Mail 1012def ETH 4sox eurr10/eurr-bar eurr3/eurr-dc
@@ -2913,6 +3018,7 @@ Loricated Mail 1023def ETH 4sox eurr8/eurr-ir
 Loricated Mail 1030def ETH 4sox eurr8/eurr-in
 Loricated Mail 1036def ETH 3sox eurr1/eurr-bj
 2x Loricated Mail 1050def ETH 4sox eurr14/eurr-bef eurr8/eurr-ij
+Loricated Mail 1057def ETH 4sox eurr15/eurr-bfq
 Loricated Mail 1059def ETH 4sox eurr11/eurr-bbf
 3x Loricated Mail 1062def ETH 4sox eurr10/eurr-bab eurr11/eurr-bbq eurr4/eurr-em
 Loricated Mail 1063def ETH 4sox eurr14/eurr-bej
@@ -2938,7 +3044,7 @@ Mage Plate 245def LLD lvlreq25 2sox eurr1/eurr-bo
 2x Mage Plate 257def LLD lvlreq25 2sox eurr2/eurr-cd eurr3/eurr-dn
 Mage Plate 258def LLD lvlreq25 2sox eurr4/eurr-ea
 Mage Plate 261def LLD lvlreq25 2sox eurr3/eurr-dk
-6x Mage Plate 261def LLD lvlreq25 3sox eurr10/eurr-baa eurr10/eurr-bac eurr3/eurr-dr eurr4/eurr-eg eurr7/eurr-hr eurr9/eurr-jn
+7x Mage Plate 261def LLD lvlreq25 3sox eurr10/eurr-baa eurr10/eurr-bac eurr15/eurr-bfp eurr3/eurr-dr eurr4/eurr-eg eurr7/eurr-hr eurr9/eurr-jn
 3x Mail 1000def ETH 4sox eurr1/eurr-bt eurr13/eurr-bdn eurr7/eurr-hr
 Mail 1003def ETH 4sox eurr7/eurr-he
 Mail 1005def ETH 3sox eurr2/eurr-cj
@@ -2986,6 +3092,7 @@ Plate 1224def ETH 4sox eurr14/eurr-beb
 Que-Hegan's Wisdom Mage Plate 1002def dura: 0 of 31 1allskills 20fcr 20fhr 155ed(def) 15energy 9mdr 3manaaftereachkill ETH eurr8/eurr-io
 Ring Mail 48def LLD lvlreq22 17fhr 51life psnlengthreducedby25 2sox eurr5/eurr-fe
 Scale Mail 82def LLD lvlreq22 17fhr 35ed(def) 56life 19pr 2sox eurr2/eurr-cm
+Scarab Husk 1003def ETH 4sox eurr15/eurr-bfr
 Scarab Husk 1005def ETH 4sox eurr6/eurr-gr
 Scarab Husk 1008def ETH 3sox eurr14/eurr-beo
 Scarab Husk 1009def ETH 4sox eurr11/eurr-bbn
@@ -3015,12 +3122,13 @@ Scarab Husk 1057def ETH 4sox eurr11/eurr-bbe
 2x Scarab Husk 1062def ETH 4sox eurr3/eurr-dl eurr3/eurr-dl
 Scarab Husk 1063def ETH 3sox eurr12/eurr-bcq
 Scarab Husk 1066def ETH 3sox eurr14/eurr-bei
-2x Scarab Husk 1066def ETH 4sox eurr10/eurr-bap eurr5/eurr-fr
+3x Scarab Husk 1066def ETH 4sox eurr10/eurr-bap eurr16/eurr-bgb eurr5/eurr-fr
 9x Scarab Husk 474def 3sox eurr12/eurr-bcn eurr13/eurr-bdr eurr15/eurr-bfh eurr2/eurr-ca eurr3/eurr-dp eurr3/eurr-dq eurr5/eurr-fl eurr5/eurr-fl eurr9/eurr-jl
 Scarab Husk 967def ETH 4sox eurr9/eurr-ji
 Serpentskin Armor 174def dura: 0 of 13 LLD lvlreq24 28fr 3mdr ETH eurr4/eurr-eq
 Shaftstop Mesh Armor 1001def 212ed(def) 60life 30damred ETH eurr7/eurr-hq
 Shaftstop Mesh Armor 614def 187ed(def) 60life 30damred eurr9/eurr-jc
+Shaftstop Mesh Armor 618def 189ed(def) 60life 30damred eurr15/eurr-bfq
 Shaftstop Mesh Armor 629def 194ed(def) 60life 30damred eurr11/eurr-bbl
 Shaftstop Mesh Armor 631def 195ed(def) 60life 30damred eurr14/eurr-beg
 Shaftstop Mesh Armor 665def 211ed(def) 60life 30damred eurr8/eurr-il
@@ -3031,9 +3139,9 @@ Skullder's Ire RussetArmor 712def 1allskills 192ed(def) 10mdr 1mf (based on clvl
 Skullder's Ire RussetArmor 714def 1allskills 193ed(def) 10mdr 1mf (based on clvl) selfrep eurr12/eurr-bcc
 Skullder's Ire RussetArmor 719def 1allskills 195ed(def) 10mdr 1mf (based on clvl) selfrep eurr7/eurr-hr
 Skullder's Ire RussetArmor 722def 1allskills 196ed(def) 10mdr 1mf (based on clvl) selfrep eurr1/eurr-bk
-Skullder's Ire RussetArmor 724def 1allskills 197ed(def) 10mdr 1mf (based on clvl) selfrep eurr7/eurr-hh
+2x Skullder's Ire RussetArmor 724def 1allskills 197ed(def) 10mdr 1mf (based on clvl) selfrep eurr15/eurr-bfq eurr7/eurr-hh
 Superior Ancient Armor 269def 00 15ed(def) 15dura 3sox eurr15/eurr-bfa
-2x Superior Ancient Armor 269def 00 15ed(def) 3sox eurr14/eurr-bep eurr7/eurr-hb
+3x Superior Ancient Armor 269def 00 15ed(def) 3sox eurr14/eurr-bep eurr15/eurr-bfo eurr7/eurr-hb
 4x Superior Ancient Armor 269def 00 15ed(def) 4sox eurr1/eurr-bi eurr11/eurr-bbr eurr12/eurr-bcg eurr6/eurr-gb
 Superior Breast Plate 66def 12dura 3sox eurr2/eurr-ci
 Superior Breast Plate 73def 6ed(def) 15dura 3sox eurr2/eurr-cb
@@ -3058,9 +3166,11 @@ Superior Dusk Shroud 538def 15ed(def) 10dura 3sox eurr3/eurr-df
 Superior Dusk Shroud 538def 15ed(def) 12dura 3sox eurr12/eurr-bco
 Superior Dusk Shroud 538def 15ed(def) 13dura 3sox eurr13/eurr-bdj
 5x Superior Dusk Shroud 538def 15ed(def) 15dura eurr11/eurr-bbc eurr13/eurr-bdm eurr15/eurr-bff eurr3/eurr-de eurr9/eurr-jb
-3x Superior Dusk Shroud 538def 15ed(def) 3sox eurr13/eurr-bdn eurr2/eurr-ca eurr5/eurr-fp
+3x Superior Dusk Shroud 538def 15ed(def) 3sox eurr15/eurr-bfn eurr2/eurr-ca eurr5/eurr-fp
 4x Superior Dusk Shroud 538def 15ed(def) 4sox eurr12/eurr-bci eurr2/eurr-cr eurr5/eurr-fn eurr7/eurr-hc
 Superior Full Plate Mail 186def 15ed(def) 10dura 3sox eurr12/eurr-bcj
+Superior Full Plate Mail 186def 15ed(def) 13dura 3sox eurr15/eurr-bfp
+Superior Full Plate Mail 186def 15ed(def) 15dura 3sox eurr15/eurr-bfo
 4x Superior Full Plate Mail 186def 15ed(def) 3sox eurr10/eurr-bak eurr14/eurr-beh eurr5/eurr-fa eurr6/eurr-gh
 4x Superior Gothic Plate 155def 14ed(def) 3sox eurr1/eurr-bq eurr12/eurr-bcl eurr3/eurr-dk eurr8/eurr-ik
 2x Superior Gothic Plate 156def 15ed(def) 10dura 3sox eurr14/eurr-bem eurr8/eurr-ir
@@ -3078,7 +3188,7 @@ Superior Light Plate 94def 14dura 2sox eurr2/eurr-cp
 Superior Mage Plate 288def LLD lvlreq25 10ed(def) 10dura 3sox eurr12/eurr-bck
 Superior Mage Plate 288def LLD lvlreq25 10ed(def) 12dura 3sox eurr14/eurr-ber
 Superior Mage Plate 288def LLD lvlreq25 10ed(def) 13dura 3sox eurr3/eurr-dj
-2x Superior Mage Plate 288def LLD lvlreq25 10ed(def) 3sox eurr14/eurr-bei eurr8/eurr-ie
+3x Superior Mage Plate 288def LLD lvlreq25 10ed(def) 3sox eurr14/eurr-bei eurr15/eurr-bfp eurr8/eurr-ie
 Superior Mage Plate 290def LLD lvlreq25 11ed(def) 11dura 3sox eurr10/eurr-bag
 Superior Mage Plate 290def LLD lvlreq25 11ed(def) 13dura 3sox eurr10/eurr-bar
 3x Superior Mage Plate 290def LLD lvlreq25 11ed(def) 3sox eurr13/eurr-bdd eurr4/eurr-er eurr7/eurr-hp
@@ -3087,7 +3197,7 @@ Superior Mage Plate 293def LLD lvlreq25 12ed(def) 3sox eurr12/eurr-bcp
 2x Superior Mage Plate 296def LLD lvlreq25 13ed(def) 14dura 3sox eurr5/eurr-fo eurr9/eurr-jj
 3x Superior Mage Plate 296def LLD lvlreq25 13ed(def) 3sox eurr11/eurr-bbp eurr5/eurr-fm eurr6/eurr-gk
 Superior Mage Plate 298def LLD lvlreq25 14ed(def) 13dura 3sox eurr8/eurr-ic
-Superior Mage Plate 298def LLD lvlreq25 14ed(def) 15dura 3sox eurr6/eurr-gh
+2x Superior Mage Plate 298def LLD lvlreq25 14ed(def) 15dura 3sox eurr15/eurr-bfl eurr6/eurr-gh
 3x Superior Mage Plate 298def LLD lvlreq25 14ed(def) 3sox eurr13/eurr-bdc eurr14/eurr-bee eurr9/eurr-ji
 3x Superior Mage Plate 301def LLD lvlreq25 15ed(def) 10dura eurr5/eurr-fb eurr6/eurr-gh eurr7/eurr-hk
 3x Superior Mage Plate 301def LLD lvlreq25 15ed(def) 11dura eurr4/eurr-ej eurr7/eurr-hi eurr9/eurr-jb
@@ -3096,7 +3206,7 @@ Superior Mage Plate 301def LLD lvlreq25 15ed(def) 14dura 3sox eurr12/eurr-bci
 4x Superior Mage Plate 301def LLD lvlreq25 15ed(def) 14dura eurr10/eurr-bap eurr14/eurr-bea eurr15/eurr-bfa eurr7/eurr-ha
 3x Superior Mage Plate 301def LLD lvlreq25 15ed(def) 15dura eurr12/eurr-bca eurr3/eurr-de eurr8/eurr-id
 2x Superior Mage Plate 301def LLD lvlreq25 15ed(def) 3sox eurr12/eurr-bcl eurr6/eurr-go
-2x Superior Mage Plate 301def LLD lvlreq25 15ed(def) eurr14/eurr-bek eurr15/eurr-bff
+3x Superior Mage Plate 301def LLD lvlreq25 15ed(def) eurr14/eurr-bek eurr15/eurr-bff eurr16/eurr-bgc
 Superior Ring Mail 52def 8ed(def) 3sox eurr5/eurr-fk
 Superior Ring Mail 54def dura: 0 of 26 12ed(def) 2sox eurr2/eurr-cq
 Superior Ring Mail 55def 14ed(def) 10dura 3sox eurr1/eurr-bj
@@ -3147,19 +3257,20 @@ Wire Fleece 1014def ETH 4sox eurr6/eurr-ga
 3x Wire Fleece 1017def ETH 4sox eurr14/eurr-beb eurr3/eurr-db eurr8/eurr-ir
 Wire Fleece 1023def ETH 4sox eurr9/eurr-jq
 Wire Fleece 1030def ETH 3sox eurr6/eurr-gd
-Wire Fleece 1032def ETH 4sox eurr14/eurr-bef
+2x Wire Fleece 1032def ETH 4sox eurr14/eurr-bef eurr16/eurr-bgc
 Wire Fleece 1035def ETH 4sox eurr6/eurr-gr
 Wire Fleece 1039def ETH 4sox eurr11/eurr-bbd
 Wire Fleece 1041def ETH 4sox eurr7/eurr-hj
 2x Wire Fleece 1044def ETH 4sox eurr15/eurr-bfd eurr9/eurr-jf
 Wire Fleece 1050def ETH 4sox eurr6/eurr-gd
 Wire Fleece 1053def ETH 4sox eurr11/eurr-bbp
+Wire Fleece 1059def ETH 3sox eurr15/eurr-bfq
 2x Wire Fleece 1059def ETH 4sox eurr5/eurr-fr eurr7/eurr-hi
 Wire Fleece 1062def ETH 3sox eurr6/eurr-gr
 Wire Fleece 1062def ETH 4sox eurr3/eurr-dn
 Wire Fleece 1063def ETH 4sox eurr15/eurr-bfd
 2x Wire Fleece 1068def ETH 3sox eurr13/eurr-bdh eurr8/eurr-il
-Wire Fleece 1068def ETH 4sox eurr11/eurr-bbd
+2x Wire Fleece 1068def ETH 4sox eurr11/eurr-bbd eurr15/eurr-bfr
 Wire Fleece 1071def ETH 4sox eurr11/eurr-bbn
 2x Wire Fleece 1072def ETH 4sox eurr14/eurr-ber eurr9/eurr-jo
 Wire Fleece 1077def ETH 3sox eurr3/eurr-dp
@@ -3168,6 +3279,7 @@ Wire Fleece 1080def ETH 4sox eurr12/eurr-bcd
 Wyrmhide 1000def ETH 3sox eurr8/eurr-in
 2x Wyrmhide 1000def ETH 4sox eurr4/eurr-eb eurr6/eurr-gl
 4x Wyrmhide 1003def ETH 4sox eurr2/eurr-cg eurr5/eurr-fj eurr6/eurr-gc eurr7/eurr-hc
+Wyrmhide 1005def ETH 3sox eurr15/eurr-bfr
 Wyrmhide 1005def ETH 4sox eurr6/eurr-gn
 2x Wyrmhide 1008def ETH 4sox eurr13/eurr-bdd eurr8/eurr-ir
 Wyrmhide 1012def ETH 3sox eurr8/eurr-ip
@@ -3184,9 +3296,11 @@ Wyrmhide 1030def ETH 3sox eurr3/eurr-dn
 Wyrmhide 1032def ETH 3sox eurr11/eurr-bbe
 2x Wyrmhide 1032def ETH 4sox eurr11/eurr-bbi eurr14/eurr-bem
 3x Wyrmhide 1036def ETH 4sox eurr2/eurr-cg eurr5/eurr-fp eurr6/eurr-gh
+Wyrmhide 1039def ETH 3sox eurr15/eurr-bfk
 2x Wyrmhide 1039def ETH 4sox eurr12/eurr-bcj eurr3/eurr-dp
 Wyrmhide 1041def ETH 3sox eurr14/eurr-beh
-Wyrmhide 1041def ETH 4sox eurr5/eurr-ff
+2x Wyrmhide 1041def ETH 4sox eurr15/eurr-bfo eurr5/eurr-ff
+Wyrmhide 1045def ETH 4sox eurr15/eurr-bfr
 3x Wyrmhide 1048def ETH 4sox eurr13/eurr-bda eurr15/eurr-bfg eurr4/eurr-ed
 2x Wyrmhide 1050def ETH 4sox eurr11/eurr-bbn eurr9/eurr-jp
 Wyrmhide 1053def ETH 3sox eurr6/eurr-gg
@@ -3214,7 +3328,7 @@ Bloodfist Vampirebone Gloves 76def 10ias 30fhr 5mindmg 15ed(def) 10 def 40life e
 Bloodfist Vampirebone Gloves 76def 10ias 30fhr 5mindmg 17ed(def) 10 def 40life eurr7/eurr-hm
 2x Bloodfist Vampirebone Gloves 77def 10ias 30fhr 5mindmg 12ed(def) 10 def 40life eurr4/eurr-ea eurr5/eurr-ff
 Bloodfist Vampirebone Gloves 77def 10ias 30fhr 5mindmg 14ed(def) 10 def 40life eurr8/eurr-ih
-2x Bloodfist Vampirebone Gloves 77def 10ias 30fhr 5mindmg 16ed(def) 10 def 40life eurr15/eurr-bfi eurr3/eurr-dr
+3x Bloodfist Vampirebone Gloves 77def 10ias 30fhr 5mindmg 16ed(def) 10 def 40life eurr15/eurr-bfi eurr15/eurr-bfo eurr3/eurr-dr
 Bloodfist Vampirebone Gloves 78def 10ias 30fhr 5mindmg 10ed(def) 10 def 40life eurr14/eurr-bea
 Bloodfist Vampirebone Gloves 78def 10ias 30fhr 5mindmg 20ed(def) 10 def 40life eurr15/eurr-bfd
 Bloodfist Vampirebone Gloves 79def 10ias 30fhr 5mindmg 11ed(def) 10 def 40life eurr10/eurr-bao
@@ -3222,9 +3336,10 @@ Bloodfist Vampirebone Gloves 79def 10ias 30fhr 5mindmg 15ed(def) 10 def 40life e
 Bloodfist Vampirebone Gloves 79def 10ias 30fhr 5mindmg 16ed(def) 10 def 40life eurr11/eurr-bba
 Bloodfist Vampirebone Gloves 79def 10ias 30fhr 5mindmg 20ed(def) 10 def 40life eurr10/eurr-baq
 Bloodfist Vampirebone Gloves 80def 10ias 30fhr 5mindmg 12ed(def) 10 def 40life eurr12/eurr-bci
+Bloodfist Vampirebone Gloves 80def 10ias 30fhr 5mindmg 13ed(def) 10 def 40life eurr16/eurr-bga
 Bloodfist Vampirebone Gloves 80def 10ias 30fhr 5mindmg 14ed(def) 10 def 40life eurr9/eurr-jl
 Bloodfist Vampirebone Gloves 80def 10ias 30fhr 5mindmg 16ed(def) 10 def 40life eurr15/eurr-bfe
-Bloodfist Vampirebone Gloves 81def 10ias 30fhr 5mindmg 10ed(def) 10 def 40life eurr12/eurr-bcj
+2x Bloodfist Vampirebone Gloves 81def 10ias 30fhr 5mindmg 10ed(def) 10 def 40life eurr12/eurr-bcj eurr15/eurr-bfm
 Bloodfist Vampirebone Gloves 81def 10ias 30fhr 5mindmg 11ed(def) 10 def 40life eurr9/eurr-jn
 2x Bloodfist Vampirebone Gloves 81def 10ias 30fhr 5mindmg 14ed(def) 10 def 40life eurr7/eurr-hb eurr8/eurr-ig
 Bloodfist Vampirebone Gloves 81def 10ias 30fhr 5mindmg 15ed(def) 10 def 40life eurr10/eurr-baa
@@ -3257,6 +3372,7 @@ chanceguards Chain Gloves 27def LLD lvlreq15 25ar 28ed(def) 15 def 200eg 40mf 2l
 chanceguards Chain Gloves 27def LLD lvlreq15 25ar 29ed(def) 15 def 200eg 40mf 2lightradius eurr14/eurr-bek
 Crusader Gauntlets 103def 2javaskills 20ias 50ed(def) 13dex 8maxstamina eurr13/eurr-bdc
 Demonhide Gloves 34def 2bowskills 20ias 13dex 24cr 25fr hfd eurr5/eurr-fr
+Demonhide Gloves 39def 20ias 10ed(def) 14str 12dex 16mana eurr15/eurr-bfo
 Demonhide Gloves 54def 2javaskills 20ias 3ml 51ed(def) 1dex 27fr eurr3/eurr-dp
 Frostburn Gauntlets 58def dura: 0 of 13 LLD lvlreq29 5ed 1-6 colddmg 20ed(def) 30 def maxmana 40 ETH eurr6/eurr-gb
 Gauntlets 15def 20ias 10str 27cr 15lr 5fr 16mf eurr10/eurr-bao
@@ -3290,6 +3406,7 @@ Demonhide Sash 46def dura: 0 of 7 0 LLD lvlreq24 58life ETH eurr2/eurr-cq
 3x Gloom's Trap Mesh Belt 102def 5ml 150ed(def) 15vita maxmana 15 15manareg -3lightradius eurr10/eurr-bad eurr13/eurr-bdo eurr7/eurr-hl
 goldwrap Heavy Belt 35def LLD lvlreq27 10ias 44ed(def) 25 def 80eg 30mf 2lightradius eurr15/eurr-bfh
 Heavy Belt 12def 24fhr 75ed(def) 58life 6liferep 26pr eurr2/eurr-cm
+Heavy Belt 9def LLD lvlreq22 17fhr 32ed(def) 4str 56life eurr15/eurr-bfj
 Light Belt 4def LLD lvlreq18 24fhr 23ed(def) 40life 4liferep 12fr eurr10/eurr-bag
 Light Belt 4def LLD lvlreq22 17fhr 20ed(def) 48life 4liferep 8fr 7pr eurr8/eurr-id
 Light Belt 6def LLD lvlreq23 17fhr 71ed(def) 6str 40life 10maxstamina eurr4/eurr-en
@@ -3316,6 +3433,7 @@ String of Ears Demonhide Sash 106def LLD lvlreq29 6ll 161ed(def) 15 def 15damred
 String of Ears Demonhide Sash 106def LLD lvlreq29 8ll 160ed(def) 15 def 15damred 14mdr eurr10/eurr-bag
 String of Ears Demonhide Sash 108def LLD lvlreq29 6ll 166ed(def) 15 def 15damred 11mdr eurr10/eurr-bal
 String of Ears Demonhide Sash 108def LLD lvlreq29 6ll 168ed(def) 15 def 15damred 10mdr eurr11/eurr-bbo
+String of Ears Demonhide Sash 112def LLD lvlreq29 8ll 178ed(def) 15 def 15damred 12mdr eurr15/eurr-bfm
 String of Ears Demonhide Sash 113def LLD lvlreq29 7ll 180ed(def) 15 def 15damred 15mdr eurr13/eurr-bdc
 Thundergod's Vigor War Belt 159def 200ed(def) 20str 20vita 10max20lr Lightning Absorb eurr6/eurr-gp
 Vampirefang Belt 84def dura: 0 of 8 73life ETH eurr1/eurr-bp
@@ -3379,7 +3497,7 @@ Superior Dragon Shield 78def 48chancetoblock Smite Damage: 15 to 24 LLD lvlreq25
 4x Superior Dragon Shield 78def 48chancetoblock Smite Damage: 15 to 24 LLD lvlreq25 15ed(def) 2sox eurr14/eurr-beq eurr5/eurr-fn eurr6/eurr-gm eurr9/eurr-jr
 2x Superior Dragon Shield 78def 48chancetoblock Smite Damage: 15 to 24 LLD lvlreq25 15ed(def) 3sox eurr3/eurr-dc eurr7/eurr-hl
 Superior Hyperion 156def 54chancetoblock Smite Damage: 14 to 32 15ed(def) 15dura 3sox eurr13/eurr-bdq
-7x Superior Monarch 171def 52chancetoblock Smite Damage: 12 to 34 15ed(def) eurr10/eurr-bac eurr11/eurr-bbc eurr12/eurr-bcc eurr3/eurr-dd eurr4/eurr-ee eurr5/eurr-fc eurr9/eurr-jr
+8x Superior Monarch 171def 52chancetoblock Smite Damage: 12 to 34 15ed(def) eurr10/eurr-bac eurr11/eurr-bbc eurr12/eurr-bcc eurr15/eurr-bfj eurr3/eurr-dd eurr4/eurr-ee eurr5/eurr-fc eurr9/eurr-jr
 Tower Shield 30def 74chancetoblock Smite Damage: 1 to 5 LLD lvlreq8 30fbr 20incchanceofblocking 18ed(def) 6mana 2sox eurr11/eurr-bbq
 
 [B]Pala Shields[/B]
@@ -3394,6 +3512,7 @@ Crown Shield 31def 55chancetoblock Smite Damage: 4 to 12 LLD lvlreq18 65ed 120ar
 Crown Shield 33def 55chancetoblock Smite Damage: 4 to 12 LLD lvlreq18 65ed 120ar eurr13/eurr-bdg
 Crown Shield 36def 55chancetoblock Smite Damage: 4 to 12 LLD lvlreq18 65ed 115ar eurr7/eurr-he
 Crown Shield 36def 55chancetoblock Smite Damage: 4 to 12 LLD lvlreq18 65ed 116ar eurr15/eurr-bfh
+Crown Shield 37def 55chancetoblock Smite Damage: 4 to 12 LLD lvlreq18 65ed 119ar eurr16/eurr-bgc
 Crown Shield 38def 55chancetoblock Smite Damage: 4 to 12 LLD lvlreq18 65ed 119ar eurr13/eurr-bdm
 4x Crown Shield 39def 55chancetoblock Smite Damage: 4 to 12 LLD lvlreq18 45@ eurr14/eurr-beh eurr3/eurr-do eurr6/eurr-go eurr9/eurr-jl
 Crown Shield 39def 55chancetoblock Smite Damage: 4 to 12 LLD lvlreq18 65ed 121ar eurr1/eurr-bj
@@ -3444,9 +3563,11 @@ Kurast Shield 366def 55chancetoblock Smite Damage: 10 to 82 30@ ETH 4sox eurr9/e
 Kurast Shield 369def 55chancetoblock Smite Damage: 10 to 82 31@ ETH 4sox eurr14/eurr-beo
 Kurast Shield 370def 55chancetoblock Smite Damage: 10 to 82 32@ ETH 4sox eurr11/eurr-bbj
 Kurast Shield 370def 55chancetoblock Smite Damage: 10 to 82 38@ ETH 4sox eurr9/eurr-jm
+Kurast Shield 370def 55chancetoblock Smite Damage: 10 to 82 65ed 108ar ETH 4sox eurr15/eurr-bfq
 Kurast Shield 373def 55chancetoblock Smite Damage: 10 to 82 38@ ETH 4sox eurr12/eurr-bcl
 2x Kurast Shield 375def 55chancetoblock Smite Damage: 10 to 82 32@ ETH 4sox eurr10/eurr-bak eurr15/eurr-bfe
 Kurast Shield 375def 55chancetoblock Smite Damage: 10 to 82 36@ ETH 4sox eurr8/eurr-if
+Kurast Shield 378def 55chancetoblock Smite Damage: 10 to 82 36@ ETH 4sox eurr16/eurr-bga
 Kurast Shield 379def 55chancetoblock Smite Damage: 10 to 82 36@ ETH 4sox eurr8/eurr-ij
 Kurast Shield 382def 55chancetoblock Smite Damage: 10 to 82 30@ ETH 4sox eurr2/eurr-co
 Kurast Shield 384def 55chancetoblock Smite Damage: 10 to 82 32@ ETH 4sox eurr15/eurr-bfa
@@ -3466,6 +3587,7 @@ Royal Shield 361def 55chancetoblock Smite Damage: 24 to 32 60ed 117ar ETH 4sox e
 Royal Shield 364def 55chancetoblock Smite Damage: 24 to 32 30@ ETH 4sox eurr14/eurr-beb
 Royal Shield 364def 55chancetoblock Smite Damage: 24 to 32 35@ ETH 4sox eurr15/eurr-bfi
 Royal Shield 366def 55chancetoblock Smite Damage: 24 to 32 44@ ETH 4sox eurr8/eurr-im
+Royal Shield 370def 55chancetoblock Smite Damage: 24 to 32 33@ ETH 4sox eurr15/eurr-bfq
 Royal Shield 370def 55chancetoblock Smite Damage: 24 to 32 65ed 113ar ETH 4sox eurr4/eurr-ee
 Royal Shield 375def 55chancetoblock Smite Damage: 24 to 32 35@ ETH 4sox eurr4/eurr-eg
 Royal Shield 375def 55chancetoblock Smite Damage: 24 to 32 38@ ETH 4sox eurr3/eurr-dp
@@ -3487,7 +3609,7 @@ Royal Shield 397def 55chancetoblock Smite Damage: 24 to 32 30@ ETH 4sox eurr13/e
 Royal Shield 397def 55chancetoblock Smite Damage: 24 to 32 33@ ETH 4sox eurr14/eurr-bed
 Royal Shield 397def 55chancetoblock Smite Damage: 24 to 32 36@ ETH 4sox eurr11/eurr-bbg
 Royal Shield 397def 55chancetoblock Smite Damage: 24 to 32 41@ ETH 4sox eurr9/eurr-jg
-Royal Shield 400def 55chancetoblock Smite Damage: 24 to 32 35@ ETH 4sox eurr11/eurr-bbb
+2x Royal Shield 400def 55chancetoblock Smite Damage: 24 to 32 35@ ETH 4sox eurr11/eurr-bbb eurr15/eurr-bfn
 Royal Shield 400def 55chancetoblock Smite Damage: 24 to 32 37@ ETH 4sox eurr12/eurr-bcj
 Royal Shield 402def 55chancetoblock Smite Damage: 24 to 32 41@ ETH 4sox eurr15/eurr-bfa
 Royal Shield 405def 55chancetoblock Smite Damage: 24 to 32 36@ ETH 4sox eurr6/eurr-gk
@@ -3506,6 +3628,7 @@ sacredrondache 342def 58chancetoblock Smite Damage: 35 to 58 30@ ETH 4sox eurr15
 sacredrondache 342def 58chancetoblock Smite Damage: 35 to 58 34@ ETH 4sox eurr5/eurr-fq
 sacredrondache 343def 58chancetoblock Smite Damage: 35 to 58 35@ ETH 4sox eurr3/eurr-dk
 sacredrondache 348def 58chancetoblock Smite Damage: 35 to 58 35@ ETH 4sox eurr13/eurr-bdo
+sacredrondache 348def 58chancetoblock Smite Damage: 35 to 58 37@ ETH 4sox eurr15/eurr-bfk
 sacredrondache 351def 58chancetoblock Smite Damage: 35 to 58 63ed 115ar ETH 4sox eurr9/eurr-jl
 sacredrondache 352def 58chancetoblock Smite Damage: 35 to 58 30@ ETH 4sox eurr1/eurr-br
 sacredrondache 355def 58chancetoblock Smite Damage: 35 to 58 62ed 111ar ETH 4sox eurr8/eurr-id
@@ -3532,10 +3655,12 @@ sacredtarge 285def 60chancetoblock Smite Damage: 22 to 70 60ed 113ar ETH 3sox eu
 sacredtarge 288def 60chancetoblock Smite Damage: 22 to 70 45@ ETH 4sox eurr4/eurr-eq
 sacredtarge 301def 60chancetoblock Smite Damage: 22 to 70 60ed 114ar ETH 4sox eurr9/eurr-jo
 sacredtarge 303def 60chancetoblock Smite Damage: 22 to 70 33@ ETH 4sox eurr9/eurr-jj
+sacredtarge 303def 60chancetoblock Smite Damage: 22 to 70 36@ ETH 4sox eurr15/eurr-bfo
 sacredtarge 303def 60chancetoblock Smite Damage: 22 to 70 64ed 103ar ETH 4sox eurr13/eurr-bdj
 sacredtarge 312def 60chancetoblock Smite Damage: 22 to 70 45@ ETH 4sox eurr6/eurr-gn
 sacredtarge 315def 60chancetoblock Smite Damage: 22 to 70 35@ ETH 4sox eurr8/eurr-if
 sacredtarge 316def 60chancetoblock Smite Damage: 22 to 70 42@ ETH 4sox eurr4/eurr-ep
+sacredtarge 321def 60chancetoblock Smite Damage: 22 to 70 32@ ETH 4sox eurr15/eurr-bfr
 sacredtarge 324def 60chancetoblock Smite Damage: 22 to 70 30@ ETH 4sox eurr6/eurr-gb
 sacredtarge 325def 60chancetoblock Smite Damage: 22 to 70 30@ ETH 4sox eurr9/eurr-jm
 sacredtarge 325def 60chancetoblock Smite Damage: 22 to 70 45@ ETH 4sox eurr13/eurr-bdk
@@ -3544,6 +3669,7 @@ sacredtarge 328def 60chancetoblock Smite Damage: 22 to 70 37@ ETH 4sox eurr6/eur
 sacredtarge 333def 60chancetoblock Smite Damage: 22 to 70 36@ ETH 4sox eurr14/eurr-bec
 sacredtarge 334def 60chancetoblock Smite Damage: 22 to 70 36@ ETH 4sox eurr11/eurr-bbh
 sacredtarge 337def 60chancetoblock Smite Damage: 22 to 70 34@ ETH 4sox eurr6/eurr-ga
+sacredtarge 342def 60chancetoblock Smite Damage: 22 to 70 30@ ETH 4sox eurr16/eurr-bga
 sacredtarge 342def 60chancetoblock Smite Damage: 22 to 70 34@ ETH 4sox eurr3/eurr-dg
 sacredtarge 342def 60chancetoblock Smite Damage: 22 to 70 38@ ETH 4sox eurr9/eurr-jo
 sacredtarge 342def 60chancetoblock Smite Damage: 22 to 70 42@ ETH 4sox eurr13/eurr-bdi
@@ -3598,6 +3724,7 @@ Superior Crown Shield 31def 55chancetoblock Smite Damage: 4 to 12 LLD lvlreq18 6
 Superior Crown Shield 38def 55chancetoblock Smite Damage: 4 to 12 LLD lvlreq18 45@ 10dura eurr8/eurr-iq
 Superior Crown Shield 40def 55chancetoblock Smite Damage: 4 to 12 LLD lvlreq18 45@ 14dura eurr6/eurr-gj
 Superior Crown Shield 43def 55chancetoblock Smite Damage: 4 to 12 LLD lvlreq18 65ed 121ar 5ed(def) 13dura eurr12/eurr-bcm
+Superior Crown Shield 43def 55chancetoblock Smite Damage: 4 to 12 LLD lvlreq18 65ed 121ar 5ed(def) eurr16/eurr-bgb
 Superior Crown Shield 45def 55chancetoblock Smite Damage: 4 to 12 LLD lvlreq18 10ed(def) 45@ 3sox eurr14/eurr-bef
 Superior Crown Shield 45def 55chancetoblock Smite Damage: 4 to 12 LLD lvlreq18 10ed(def) 45@ eurr7/eurr-hg
 Superior Crown Shield 45def 55chancetoblock Smite Damage: 4 to 12 LLD lvlreq18 11ed(def) 45@ 14dura eurr5/eurr-fn
@@ -3620,6 +3747,7 @@ Superior sacredtarge 171def 60chancetoblock Smite Damage: 22 to 70 8ed(def) 45@ 
 Superior sacredtarge 173def 60chancetoblock Smite Damage: 22 to 70 9ed(def) 45@ eurr12/eurr-bci
 Superior sacredtarge 176def 60chancetoblock Smite Damage: 22 to 70 11ed(def) 45@ 10dura 3sox eurr2/eurr-cg
 Superior sacredtarge 179def 60chancetoblock Smite Damage: 22 to 70 13ed(def) 45@ 10dura eurr4/eurr-ei
+Superior sacredtarge 181def 60chancetoblock Smite Damage: 22 to 70 14ed(def) 45@ eurr15/eurr-bfj
 Superior Targe 14def 40chancetoblock Smite Damage: 2 to 6 LLD lvlreq3 15ed(def) 45@ 10dura eurr14/eurr-beb
 Superior Targe 14def 40chancetoblock Smite Damage: 2 to 6 LLD lvlreq3 15ed(def) 45@ 11dura eurr7/eurr-hk
 Superior Targe 14def 40chancetoblock Smite Damage: 2 to 6 LLD lvlreq3 15ed(def) 45@ 15dura eurr12/eurr-bch
@@ -3637,6 +3765,7 @@ Overseer Skull 140def 58chancetoblock 2necskills 30fbr 20incchanceofblocking 5-1
 Preserved Head 4def 33chancetoblock LLD lvlreq30 2-7psndmg(over 3s) 2bonespirit 3bonespear 1 to Maiden 2sox eurr11/eurr-bbk
 Superior Demon Head 22def 42chancetoblock LLD lvlreq30 5-14psndmg(over 3s) 3bonespirit 1 to Attract 2bonespear 12dura ETH 2sox eurr14/eurr-beg
 Superior Mummified Trophy 51def 33chancetoblock LLD lvlreq30 2-7psndmg(over 3s) 3bonespirit 3bonespear 6ed(def) 11dura 1sox eurr15/eurr-bfc
+Superior Preserved Head 10def 33chancetoblock LLD lvlreq30 25-50psndmg(over 4s) 3bonespirit 2bonespear 13ed(def) 15dura ETH eurr15/eurr-bfj
 Superior Preserved Head 10def 33chancetoblock LLD lvlreq30 5-14psndmg(over 3s) 3bonespirit 2bonespear 12ed(def) 15dura ETH eurr4/eurr-en
 Superior Unraveller Head 12def 38chancetoblock LLD lvlreq30 25-50psndmg(over 4s) 3 to Fire Golem 3bonespirit 1 to Decrepify 12ed(def) eurr11/eurr-bbg
 Unraveller Head 6def 38chancetoblock LLD lvlreq30 2pnbskills 2-7psndmg(over 3s) 2 to Lower Resist 3bonespear eurr9/eurr-jk
@@ -3657,10 +3786,12 @@ Superior Knout dmg14-40 LLD lvlreq25 15ed 3ar 50damagetoundead eurr14/eurr-bek
 Superior Knout dmg14-40 LLD lvlreq25 15ed 3ar eurr5/eurr-fm
 Superior Scourge dmg3-92 15ed 3ar 50damagetoundead 4sox eurr10/eurr-bam
 Superior Scourge dmg3-92 15ed 3ar 50damagetoundead eurr4/eurr-ec
+Superior Scourge dmg4-138 15ed 3ar 50damagetoundead ETH eurr15/eurr-bfp
 War Club dmg53-78 LLD lvlreq25 50damagetoundead 6sox eurr6/eurr-gp
 
 [B]Throwing Weapons[/B]
 Superior Throwing Knife throwdmg4-10 dmg2-4 quantity:83 1maxdmg 2ar eurr7/eurr-hn
+Throwing Knife throwdmg4-29 dmg2-23 quantity:49 LLD lvlreq30 2warcries 20maxdmg eurr15/eurr-bfj
 Throwing Knife throwdmg4-9 dmg2-3 quantity:150 eurr9/eurr-jh
 Throwing Knife throwdmg4-9 dmg2-3 quantity:159 LLD lvlreq30 2warcries eurr14/eurr-bek
 Throwing Knife throwdmg4-9 dmg2-3 quantity:40 LLD lvlreq30 2warcries eurr8/eurr-ie
@@ -3677,7 +3808,7 @@ Superior Matriarchal Bow dmg22-52 3bowskills 12ed 2ar 5sox eurr11/eurr-bbd
 Superior Matriarchal Bow dmg22-53 3bowskills 13ed 1ar 4sox eurr6/eurr-gj
 2x Superior Stag Bow dmg8-13 LLD lvlreq14 3bowskills 15ed 1ar eurr6/eurr-gl eurr7/eurr-hl
 2x Superior Stag Bow dmg8-13 LLD lvlreq14 3bowskills 15ed 3ar eurr13/eurr-bdf eurr6/eurr-gm
-2x Superior Stag Bow dmg8-13 LLD lvlreq14 3bowskills 15ed eurr3/eurr-dh eurr7/eurr-hb
+3x Superior Stag Bow dmg8-13 LLD lvlreq14 3bowskills 15ed eurr16/eurr-bga eurr3/eurr-dh eurr7/eurr-hb
 
 [B]Amazon Spears[/B]
 Matriarchal Spear dmg65-95 1javaskills eurr6/eurr-gm
@@ -3691,6 +3822,7 @@ Crude Long Bow dmg2-7 eurr6/eurr-gp
 Damaged Composite Bow dmg3-6 eurr7/eurr-hn
 Damaged Short War Bow dmg4-10 eurr7/eurr-hn
 Edge Bow dmg31-87 361ed 4mindmg 121ar 9-17firedmg 1-8light dmg eurr3/eurr-dp
+Great Bow dmg59-255 392ed 134ar 3-13 colddmg 29cr eurr15/eurr-bfr
 Long Battle Bow dmg12-80 20ias 327ed 4maxdmg 218ar 12psndmg(over 3s) 8dex eurr7/eurr-hr
 Long Battle Bow dmg14-84 367ed 102ar 1-15light dmg 1-3 colddmg eurr8/eurr-io
 Long Battle Bow dmg15-90 405ed 186ar 21damagetodemons 28ar againstdemons 21psndmg(over 4s) eurr5/eurr-fp
@@ -3714,6 +3846,7 @@ Superior Crossbow dmg10-18 15ed 3ar 4sox eurr13/eurr-bdg
 [B]Javelins[/B]
 Fiend Wood Throwing Spear throwdmg20-52 dmg8-27 quantity:48 LLD lvlreq11 68ed 2maxdmg 31ar 25damagetodemons 49ar againstdemons 1-6firedmg Knockback eurr10/eurr-bac
 Harpoon throwdmg42-126 dmg30-81 quantity:59 LLD lvlreq25 20ias 134ed 74ar 105damagetoundead 133ar against Undead 1-3firedmg 1-7light dmg eurr5/eurr-fb
+Throwing Spear throwdmg13-43 dmg5-26 quantity:78 LLD lvlreq18 5AmpOnStriking 10ias 13ed 10maxdmg 50ar 141damagetoundead 232ar against Undead eurr15/eurr-bfk
 Throwing Spear throwdmg28-76 dmg10-40 quantity:80 LLD lvlreq18 57ed 6maxdmg 114ar 50psndmg(over 5s) ReplenishesQuantity ETH eurr2/eurr-cf
 War Javelin throwdmg14-32 dmg6-19 quantity:50 LLD lvlreq24 5AmpOnStriking 20ias 269ar 4ll eurr3/eurr-dk
 War Javelin throwdmg20-47 dmg8-27 quantity:55 LLD lvlreq26 5AmpOnStriking 30ias 47ed 45ar 15-42 colddmg eurr8/eurr-id
@@ -3723,6 +3856,7 @@ War Javelin throwdmg31-71 dmg13-42 quantity:35 LLD lvlreq19 20ias 123ed 74ar 9-1
 Low Quality Yew Wand dmg1-6 LLD lvlreq18 1bonespear 1life Tap 50damagetoundead eurr9/eurr-jc
 
 [B]Staves[/B]
+Battle Staff dmg6-13 LLD lvlreq24 1chillingarmor 3energy Shield 50damagetoundead eurr15/eurr-bfk
 Battle Staff dmg6-13 LLD lvlreq30 3 to Fire Mastery 3blizzard 3energy Shield 50damagetoundead eurr4/eurr-ei
 Gnarled Staff dmg4-12 LLD lvlreq24 1chillingarmor 3energy Shield 3 to Thunder Storm 50damagetoundead eurr5/eurr-fc
 Ribcracker Quarterstaff dmg62-169 50ias 50fhr 300ed 30-65dmg 50crushingblow 100 Enhanced def 100 def 15dex 50damagetoundead eurr8/eurr-ip
@@ -3831,7 +3965,7 @@ Greater Talons dmg31-52 3venom 1dragonflight 3ls ETH eurr5/eurr-fp
 Hand Scythe dmg16-37 LLD lvlreq30 1assaskills 3ls eurr2/eurr-ci
 Hand Scythe dmg16-37 LLD lvlreq30 1dragonflight 1bladesofice 3ls 2sox eurr6/eurr-ge
 Hand Scythe dmg16-37 LLD lvlreq30 1dragonflight 1bladesofice 3ls eurr5/eurr-fq
-2x Hand Scythe dmg16-37 LLD lvlreq30 1dragonflight 1mb 2ls eurr15/eurr-bfe eurr7/eurr-hc
+3x Hand Scythe dmg16-37 LLD lvlreq30 1dragonflight 1mb 2ls eurr15/eurr-bfe eurr15/eurr-bfr eurr7/eurr-hc
 Hand Scythe dmg16-37 LLD lvlreq30 1dragonflight 2mb 2ls eurr11/eurr-bbm
 Hand Scythe dmg16-37 LLD lvlreq30 1dragonflight 3ls 1cobrastrike 2sox eurr2/eurr-cl
 Hand Scythe dmg16-37 LLD lvlreq30 1dragonflight 3ls 1fade eurr3/eurr-dd
@@ -3860,13 +3994,14 @@ Hand Scythe dmg24-55 LLD lvlreq30 3sm 1wof ETH eurr9/eurr-jc
 Hand Scythe dmg48-119 LLD lvlreq30 20ias 104ed 7maxdmg 72ar ETH eurr9/eurr-jl
 Runic Talons dmg24-44 1mb 3ls 3sox eurr11/eurr-bbf
 Runic Talons dmg24-44 1mb 3ls eurr11/eurr-bbg
+Runic Talons dmg24-44 1venom 3ls eurr15/eurr-bfq
 Runic Talons dmg24-44 2wof 3ls 1weaponblock eurr12/eurr-bck
 Scissors Katar dmg16-32 LLD lvlreq9 28ed 32ar selfrep ETH eurr12/eurr-bcp
 Scissors Katar dmg43-82 30ias 388ed 138ar 1-298light dmg 4-6 colddmg lvl2 Concentrate (14/25 Charges) eurr12/eurr-bcp
 Scissors Katar dmg44-76 350ed 4mindmg 142ar 21psndmg(over 4s) 5ml eurr2/eurr-ci
 Scissors Quhab dmg19-40 1dragonflight 2mb 3ls eurr11/eurr-bbl
 Scissors Quhab dmg19-40 1mb 3ls 3sox eurr3/eurr-dn
-2x Scissors Quhab dmg19-40 1mb 3ls eurr7/eurr-hf eurr9/eurr-ji
+3x Scissors Quhab dmg19-40 1mb 3ls eurr15/eurr-bfn eurr7/eurr-hf eurr9/eurr-ji
 Scissors Quhab dmg19-40 1phoenixstrike 1venom 3ls 3sox eurr3/eurr-dh
 Scissors Quhab dmg19-40 1sm 3ls eurr14/eurr-bej
 Scissors Quhab dmg19-40 1venom 1mb 3ls eurr3/eurr-de
@@ -3888,6 +4023,7 @@ Superior Hand Scythe dmg16-37 LLD lvlreq30 3ar 1mb 1wof 3ls 10dura eurr10/eurr-b
 Superior Hand Scythe dmg16-38 LLD lvlreq30 5ed 1ar 2dragonflight 1mb 2ls 2sox eurr1/eurr-bl
 Superior Hand Scythe dmg17-40 LLD lvlreq30 10ed 1dragonflight 1mb 2ls 12dura eurr15/eurr-bfd
 Superior Hand Scythe dmg17-40 LLD lvlreq30 9ed 2dragonflight 3ls eurr3/eurr-dl
+Superior Scissors Quhab dmg19-40 1sm 1bladesofice 3ls 15dura eurr16/eurr-bgb
 Superior Scissors Quhab dmg19-40 2ar 2mb 3ls eurr4/eurr-eg
 Superior Suwayyah dmg42-56 8ed 1sm 3ls 15dura 3sox eurr4/eurr-ea
 Superior Suwayyah dmg43-57 11ed 3ar 2sm 3ls 1 to Cloak of Shadows eurr13/eurr-bdf
@@ -3949,7 +4085,8 @@ Heavenly Stone dmg21-46 3fireskills 2 to Meteor 3enchant 44life 6mdr eurr10/eurr
 Heavenly Stone dmg21-46 3fireskills 3enchant 53mana eurr9/eurr-jf
 sacredglobe dmg3-8 3fireskills 1blizzard 1 to Thunder Storm 3enchant 1mana 6mdr eurr12/eurr-bcd
 Smoked Sphere dmg4-10 LLD lvlreq13 10fcr 3 to Fire Ball 9mana 30lr eurr10/eurr-bad
-15x Swirling Crystal dmg18-42 unid
+Swirling Crystal dmg18-42 10 Chance to cast level 3 Nova on striking 2sorcskills 20fcr 3blizzard 18energy 16mana 25pr eurr15/eurr-bfo
+16x Swirling Crystal dmg18-42 unid
 Swirling Crystal dmg27-63 unid ETH eurr12/eurr-bcl
 The Oculus Swirling Crystal dmg18-42 25 Chance to cast level 1 Teleport when struck 3sorcskills 30fcr 20 Enhanced def 20vita 20energy 20@ 5manaaftereachkill 50mf eurr1/eurr-bj
 
@@ -3960,9 +4097,10 @@ RuneMaster Ettin Axe dmg160-324 228ed 5maxcrCannotBeFrozen ETH 5sox eurr5/eurr-f
 RuneMaster Ettin Axe dmg178-360 264ed 5maxcrCannotBeFrozen ETH 5sox eurr3/eurr-db
 Superior Double Axe dmg5-14 13ed 1ar eurr9/eurr-jc
 Superior Ettin Axe dmg37-75 15ed 3ar 5sox eurr4/eurr-ej
+Superior Ettin Axe dmg37-75 15ed 5sox eurr16/eurr-bgb
 Superior Naga dmg18-51 LLD lvlreq25 15ed 2ar 5sox eurr12/eurr-bca
 Superior Naga dmg18-51 LLD lvlreq25 15ed 3ar 6sox eurr5/eurr-fg
-3x Superior Naga dmg18-51 LLD lvlreq25 15ed 3ar eurr10/eurr-bar eurr2/eurr-ck eurr5/eurr-fi
+4x Superior Naga dmg18-51 LLD lvlreq25 15ed 3ar eurr10/eurr-bar eurr16/eurr-bgb eurr2/eurr-ck eurr5/eurr-fi
 Superior Small Crescent dmg64-101 13ed 10dura ETH 4sox eurr4/eurr-ea
 Superior War Axe dmg11-20 15ed 3ar 5sox eurr1/eurr-bp
 2x Superior War Axe dmg11-20 15ed 3ar eurr3/eurr-dd eurr5/eurr-fo
@@ -3975,25 +4113,26 @@ Battle Axe dmg12-32 unid eurr1/eurr-bu
 Military Axe dmg14-34 unid eurr9/eurr-jh
 
 [B]Polearms[/B]
-9x Battle Scythe dmg18-45 LLD lvlreq25 4sox eurr12/eurr-bcr eurr14/eurr-beb eurr2/eurr-ci eurr3/eurr-db eurr5/eurr-fb eurr5/eurr-fo eurr7/eurr-hq eurr9/eurr-jo eurr9/eurr-jo
+10x Battle Scythe dmg18-45 LLD lvlreq25 4sox eurr12/eurr-bcr eurr14/eurr-beb eurr15/eurr-bfp eurr2/eurr-ci eurr3/eurr-db eurr5/eurr-fb eurr5/eurr-fo eurr7/eurr-hq eurr9/eurr-jo eurr9/eurr-jo
 14x Bill dmg14-53 LLD lvlreq25 4sox
 Bill dmg21-79 LLD lvlreq25 ETH 4sox eurr11/eurr-bbi
 Blood Wood War Scythe dmg26-63 LLD lvlreq18 1warcries 20ias 76ed 46ar req-30 eurr12/eurr-bcj
 Bonehew Ogre Axe dmg168-870 50 Chance to cast level 16 Spear on striking 30ias 301ed PreventMonsterHeal lvl14 Corpse Explosion (19/30 Charges) ETH 2sox eurr5/eurr-fj
 Bonehew Ogre Axe dmg173-896 50 Chance to cast level 16 Spear on striking 30ias 313ed PreventMonsterHeal lvl14 Corpse Explosion (5/30 Charges) ETH 2sox eurr4/eurr-ep
-108x Colossus Voulge dmg25-247 ETH 4sox
+115x Colossus Voulge dmg25-247 ETH 4sox
 Cryptic Axe dmg33-150 eurr7/eurr-hn
+Cryptic Axe dmg49-225 ETH 2sox eurr15/eurr-bfj
 Cryptic Axe dmg49-225 ETH 3sox eurr12/eurr-bcq
-44x Cryptic Axe dmg49-225 ETH 4sox
+46x Cryptic Axe dmg49-225 ETH 4sox
 Cryptic Axe dmg49-225 ETH eurr9/eurr-jp
 4x Great Poleaxe dmg69-190 ETH 4sox eurr1/eurr-bk eurr3/eurr-df eurr4/eurr-en eurr9/eurr-jh
 2x Great Poleaxe dmg69-190 ETH 6sox eurr11/eurr-bbc eurr2/eurr-ck
-10x Halberd dmg12-45 4sox eurr11/eurr-bbf eurr12/eurr-bcg eurr13/eurr-bdi eurr13/eurr-bdj eurr13/eurr-bdn eurr15/eurr-bfc eurr4/eurr-ee eurr9/eurr-jb eurr9/eurr-jj eurr9/eurr-jl
+13x Halberd dmg12-45 4sox
 Halberd dmg18-67 ETH 4sox eurr1/eurr-bg
-24x Partizan dmg34-75 LLD lvlreq23 4sox
-14x Poleaxe dmg18-39 4sox
+25x Partizan dmg34-75 LLD lvlreq23 4sox
+15x Poleaxe dmg18-39 4sox
 Poleaxe dmg18-39 unid eurr6/eurr-gm
-19x Scythe dmg8-20 4sox
+20x Scythe dmg8-20 4sox
 Scythe dmg8-20 unid eurr1/eurr-bu
 2x Superior Battle Scythe dmg18-45 LLD lvlreq25 12dura 4sox eurr11/eurr-bbb eurr13/eurr-bdb
 Superior Bill dmg14-53 LLD lvlreq25 15dura 4sox eurr3/eurr-dq
@@ -4001,6 +4140,7 @@ Superior Bill dmg14-53 LLD lvlreq25 1ar 4sox eurr4/eurr-el
 Superior Bill dmg14-53 LLD lvlreq25 3ar 10dura 4sox eurr8/eurr-ip
 Superior Bill dmg14-56 LLD lvlreq25 7ed 14dura 4sox eurr4/eurr-eo
 Superior Bill dmg15-58 LLD lvlreq25 10ed 1ar 4sox eurr14/eurr-bef
+Superior Bill dmg15-58 LLD lvlreq25 11ed 1ar 4sox eurr16/eurr-bgc
 Superior Bill dmg15-60 LLD lvlreq25 14ed 4sox eurr14/eurr-bei
 Superior Bill dmg23-87 LLD lvlreq25 11ed ETH 4sox eurr5/eurr-fm
 Superior Colossus Voulge dmg27-271 10ed 2ar ETH eurr10/eurr-bak
@@ -4028,7 +4168,7 @@ Superior Partizan dmg36-80 LLD lvlreq23 7ed 14dura 4sox eurr14/eurr-beq
 Superior Partizan dmg37-82 LLD lvlreq23 10ed 11dura 4sox eurr12/eurr-bch
 Superior Partizan dmg37-82 LLD lvlreq23 10ed 12dura 4sox eurr3/eurr-dd
 Superior Partizan dmg39-86 LLD lvlreq23 15ed 13dura 4sox eurr12/eurr-bcq
-Superior Partizan dmg39-86 LLD lvlreq23 15ed 4sox eurr13/eurr-bdq
+2x Superior Partizan dmg39-86 LLD lvlreq23 15ed 4sox eurr13/eurr-bdq eurr15/eurr-bfm
 Superior Partizan dmg57-126 LLD lvlreq23 13ed 15dura ETH 4sox eurr14/eurr-bec
 Superior Partizan dmg58-127 LLD lvlreq23 14ed ETH 4sox eurr1/eurr-bm
 Superior Poleaxe dmg18-39 1ar 13dura 4sox eurr14/eurr-bem
@@ -4038,6 +4178,7 @@ Superior Poleaxe dmg19-41 7ed 13dura 4sox eurr5/eurr-fc
 Superior Poleaxe dmg20-44 13ed 3ar 4sox eurr10/eurr-bad
 Superior Poleaxe dmg28-60 5ed ETH 4sox eurr5/eurr-fl
 Superior Scythe dmg8-20 10dura 4sox eurr8/eurr-io
+Superior Scythe dmg8-20 15dura 4sox eurr16/eurr-bga
 Superior Scythe dmg8-20 1ar 11dura 4sox eurr8/eurr-ic
 Superior Scythe dmg8-20 2ar 4sox eurr2/eurr-ch
 Superior Scythe dmg8-20 3ar 4sox eurr14/eurr-beh
@@ -4057,7 +4198,7 @@ Superior War Scythe dmg15-36 3ar 11dura 4sox eurr6/eurr-gq
 Superior War Scythe dmg16-38 7ed 15dura 4sox eurr4/eurr-ek
 Thresher dmg18-211 ETH 1sox eurr10/eurr-bap
 Thresher dmg18-211 ETH 3sox eurr14/eurr-ber
-32x Thresher dmg18-211 ETH 4sox
+31x Thresher dmg18-211 ETH 4sox
 2x Thresher dmg18-211 ETH eurr3/eurr-dd eurr3/eurr-dp
 17x Voulge dmg6-21 4sox
 2x Voulge dmg9-31 ETH 4sox eurr14/eurr-beb eurr3/eurr-dd
@@ -4093,6 +4234,7 @@ War Scepter dmg10-17 LLD lvlreq30 2conviction 2foh 2meditation 50damagetoundead 
 War Scepter dmg10-17 LLD lvlreq30 3 to Fanaticism 1 to Resist Lightning 50damagetoundead eurr10/eurr-bag
 War Scepter dmg10-17 LLD lvlreq30 3 to Fanaticism 1 to Sanctuary 3conversion 50damagetoundead eurr13/eurr-bdq
 War Scepter dmg10-17 LLD lvlreq30 3 to Fanaticism 1 to Shock 50damagetoundead eurr9/eurr-jd
+War Scepter dmg10-17 LLD lvlreq30 3 to Fanaticism 1 to Zeal 50damagetoundead eurr15/eurr-bfm
 War Scepter dmg10-17 LLD lvlreq30 3 to Fanaticism 1conversion 2 to Vengeance 50damagetoundead eurr4/eurr-eg
 War Scepter dmg10-17 LLD lvlreq30 3 to Fanaticism 1conversion 50damagetoundead eurr5/eurr-fh
 War Scepter dmg10-17 LLD lvlreq30 3 to Fanaticism 1meditation eurr7/eurr-hf
@@ -4102,6 +4244,7 @@ War Scepter dmg10-17 LLD lvlreq30 3 to Fanaticism 2holyfreeze 50damagetoundead e
 War Scepter dmg10-17 LLD lvlreq30 3 to Fanaticism 3meditation 50damagetoundead eurr12/eurr-bca
 2x War Scepter dmg10-17 LLD lvlreq30 3 to Fanaticism 50damagetoundead eurr11/eurr-bbo eurr12/eurr-bcq
 War Scepter dmg10-17 LLD lvlreq30 3conviction 1foh 2 to Sanctuary 50damagetoundead eurr7/eurr-hj
+War Scepter dmg15-25 LLD lvlreq30 2conviction 1foh 50damagetoundead ETH 4sox eurr16/eurr-bga
 War Scepter dmg15-25 LLD lvlreq30 2conviction 3 to Zeal 50damagetoundead ETH eurr14/eurr-bep
 
 [B]Amazon Javelins[/B]
@@ -4120,3 +4263,8 @@ flawlessruby eurr9/eurr-jh
 normalruby eurr1/eurr-bu
 Pdiamond eurr13/eurr-bdc
 3x Ptopaz eurr5/eurr-fa eurr5/eurr-fa eurr5/eurr-fa
+
+
+
+
+
