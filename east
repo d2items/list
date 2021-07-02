@@ -4,13 +4,14 @@ bk4 eastt11/eastt-bbb
 Nagelring Ring LLD lvlreq7 53ar 3mdr 30mf eastt12/eastt-bci
 Nagelring Ring LLD lvlreq7 66ar 3mdr 30mf eastt9/eastt-jq
 Nagelring Ring LLD lvlreq7 73ar 3mdr 30mf eastt13/eastt-bda
+Nagelring Ring LLD lvlreq7 74ar 3mdr 30mf eastt14/eastt-bed
 2x Nagelring Ring LLD lvlreq7 75ar 3mdr 30mf eastt13/eastt-bdb eastt8/eastt-ih
+nature peace Ring 22pr 10damred lvl5 Oak Sage (27/27 Charges) eastt9/eastt-jb
 nature peace Ring 23pr 10damred lvl5 Oak Sage (24/27 Charges) eastt7/eastt-hn
 nature peace Ring 26pr 11damred lvl5 Oak Sage (20/27 Charges) eastt11/eastt-bbb
 nature peace Ring 28pr 10damred lvl5 Oak Sage (6/27 Charges) eastt10/eastt-bae
 nature peace Ring 28pr 11damred lvl5 Oak Sage (17/27 Charges) eastt11/eastt-bbr
 nature peace Ring 28pr 11damred lvl5 Oak Sage (27/27 Charges) eastt8/eastt-id
-nature peace Ring 30pr 11damred lvl5 Oak Sage (5/27 Charges) eastt9/eastt-jb
 Raven Frost Ring 237ar 20dex eastt1/east-bg
 Raven Frost Ring 240ar 20dex eastt9/eastt-jm
 Raven Frost Ring 241ar 20dex eastt9/eastt-jc
@@ -18,8 +19,10 @@ Raven Frost Ring 242ar 20dex eastt12/eastt-bcm
 Ring 1-13light dmg 1ll 1str 19life 79mana 1mdr 5mf eastt7/eastt-hr
 Ring 1-3firedmg 1ll 2str 17life 3liferep 19fr 2mdr eastt12/eastt-bcb
 Ring 1-3firedmg 6ll 2str 20life 6cr 1damred eastt4/eastt-ea
+Ring 1-5firedmg 1ll 4str 18life 19mana 16fr 1mdr eastt13/eastt-bdo
 Ring 10 Chance to cast level 3 Nova when struck 115ar 7ll 6liferep 29fr 29pr eastt5/eastt-fn
 Ring 10 Chance to cast level 3 Nova when struck 13ar 1ll 2str 10life 17mana 12lr eastt8/eastt-il
+Ring 10 Chance to cast level 3 Nova when struck 1ll 7str 15dex 15life 5lr eastt13/eastt-bdo
 Ring 10 Chance to cast level 3 Nova when struck 3ll 2str 6dex 12life 6fr eastt3/eastt-df
 Ring 10 Chance to cast level 3 Nova when struck 43ar 3ll 2str 20life 23pr 5mf eastt7/eastt-hb
 Ring 10 Chance to cast level 3 Nova when struck 4mindmg 109ar 2ll 2str 13energy 16life eastt2/eastt-cq
@@ -45,8 +48,10 @@ Ring 10fcr 101ar 7energy 31life 20fr eastt4/eastt-ea
 Ring 10fcr 104ar 16str 10maxstamina 24fr eastt2/eastt-cl
 Ring 10fcr 106ar 4ml 7dex 34mana 25fr eastt2/eastt-cf
 Ring 10fcr 111ar 1ll 4str 17life 7pr 5mf eastt11/eastt-bbe
+Ring 10fcr 113ar 2ml 86mana 7fr lvl1 Attract (22/22 Charges) eastt13/eastt-bdr
 Ring 10fcr 119ar 38life 8lr eastt13/eastt-bdh
 Ring 10fcr 119ar 3ll 5str 11life 24fr 10pr eastt10/eastt-bam
+Ring 10fcr 11ar 1ll 2str 58life 5mana eastt14/eastt-bea
 Ring 10fcr 120ar 16str 8liferep 8maxstamina 16fr eastt5/eastt-fm
 Ring 10fcr 120ar 3ll 5str 15life 30cr 12fr eastt4/eastt-eq
 Ring 10fcr 12ar 8ll 39life 10cr 10lr 21fr 10pr eastt3/eastt-df
@@ -76,6 +81,7 @@ Ring 10fcr 26life 3mana 24cr 36eg eastt12/eastt-bcg
 Ring 10fcr 28ar 2ll 3str 12dex 12life 8liferep eastt8/eastt-if
 Ring 10fcr 28life 8liferep 4cr 24lr 4fr 33pr eastt5/eastt-fb
 Ring 10fcr 2ll 23str 16life 24mana 1damred eastt7/eastt-hm
+Ring 10fcr 2ll 4str 17life 72mana 24cr 10mf eastt14/eastt-bec
 Ring 10fcr 30life 10cr 10lr 17fr 10pr 6mf lvl4 Telekinesis (6/30 Charges) eastt8/eastt-ic
 Ring 10fcr 31ar 2ll 5str 51life 13cr eastt3/eastt-dn
 Ring 10fcr 3ll 11str 45life 8maxstamina eastt13/eastt-bdh
@@ -85,6 +91,7 @@ Ring 10fcr 3ll 33life 12maxstamina 23fr 8mf eastt9/eastt-jm
 Ring 10fcr 3ll 3str 19life 84mana 9lr 9fr eastt13/eastt-bdc
 Ring 10fcr 3ll 4str 7dex 19life 10mana 21lr eastt6/eastt-gg
 Ring 10fcr 3maxdmg 114ar 1ll 5str 18life 27fr eastt7/eastt-hf
+Ring 10fcr 3mindmg 97ar 39life 7mana 4@ eastt14/eastt-bef
 Ring 10fcr 42ar 4ml 2ll 21str 14life eastt2/eastt-cm
 Ring 10fcr 48ar 3ll 20str 12life 35mana eastt3/eastt-dm
 Ring 10fcr 49ar 2ll 3str 13life 72mana 15cr eastt11/eastt-bbj
@@ -133,6 +140,7 @@ Ring 10fcr 99ar 5ml 2ll 21str 17life eastt12/eastt-bca
 Ring 10fcr 9mindmg 12energy 86mana 13fr eastt13/eastt-bdf
 Ring 10fcr 9mindmg 60ar 24mana 9@ eastt12/eastt-bcm
 Ring 10fcr 9mindmg 96ar 13dex 27fr 1manaaftereachkill eastt9/eastt-je
+Ring 10ll 1str 19life 8cr 23pr eastt14/eastt-bef
 Ring 10ll 21str 10life 7cr 7lr 15fr 7pr eastt9/eastt-jb
 Ring 10ll 3str 50life 28cr 11lr 11fr 11pr eastt12/eastt-bcj
 Ring 110ar 1ll 4str 13life 23cr 4lr 4fr 4pr lvl4 Bolt (27/30 Charges) eastt13/eastt-bdc
@@ -143,6 +151,7 @@ Ring 113ar 9ll 23str 2dex 15life eastt12/eastt-bcc
 Ring 114ar 1-5firedmg 8ll 4str 14dex 14life eastt7/eastt-hf
 Ring 114ar 2ll 3str 50life 4liferep 8@ eastt5/eastt-fi
 Ring 114ar 3ll 3str 55life 14maxstamina 6fr eastt12/eastt-bcc
+Ring 115ar 6ll 20str 27pr 14mf eastt14/eastt-bea
 Ring 116ar 34life 5liferep 15cr 22fr psnlengthreducedby25 eastt10/eastt-bah
 Ring 116ar 9ll 1str 5energy 59life eastt8/eastt-il
 Ring 117ar 1ll 2str 19life 4liferep 19mana 1manaaftereachkill eastt4/eastt-en
@@ -157,10 +166,13 @@ Ring 120ar 3ll 5str 14dex 43life 9mf eastt11/eastt-bbc
 Ring 120ar 9ll 4str 11dex 20life 22mana eastt2/eastt-cd
 Ring 13str 8dex 9liferep 5cr 24lr 5fr 32pr eastt1/eastt-bn
 Ring 14 Chance to cast level 5 Bolt when struck 3maxdmg 3ll 1str 17life 19fr 16pr eastt10/eastt-baa
+Ring 14 Chance to cast level 5 Nova when struck 10fcr 56ar 2ll 2str 50life eastt13/eastt-bdp
 Ring 15ar 3ll 4str 14life 10cr 10lr 40fr 10pr 34eg 1lightradius eastt7/eastt-hl
 Ring 15str 4dex 69mana 21lr eastt12/eastt-bcm
 Ring 17ar 3ll 5str 7dex 10life 30fr 2damred eastt7/eastt-hb
 Ring 18ar 2ll 1str 20life 17maxstamina 19cr 1mdr eastt4/eastt-ef
+Ring 18ar 2ll 5str 19life 20maxstamina 11fr eastt14/eastt-bed
+Ring 1ll 10str 6dex 11life 12pr 1mdr eastt14/eastt-bed
 Ring 1ll 15str 4dex 12energy 12life 6fr eastt3/eastt-df
 Ring 1ll 1str 3energy 18life 30lr 15pr lvl3 Poison Dagger (8/27 Charges) eastt8/eastt-in
 Ring 1ll 1str 6dex 11life 3liferep 23cr 1mdr eastt3/eastt-do
@@ -178,16 +190,18 @@ Ring 1maxdmg 2ll 23str 20life 24cr 10lr 10fr 10pr eastt11/eastt-bbb
 Ring 1maxdmg 2ll 4str 13dex 14life 3mana 28fr eastt11/eastt-bbi
 Ring 1maxdmg 35ar 1ll 4str 16life 78mana 18pr eastt5/eastt-fh
 Ring 1maxdmg 3ll 3str 10life 11fr lvl4 Fire Bolt (4/30 Charges) eastt7/eastt-ha
+Ring 1maxdmg 3ll 4str 13energy 14life 4mana 8fr eastt14/eastt-bea
 Ring 1maxdmg 3ll 5str 3energy 14life 10cr 25lr eastt3/eastt-dk
 Ring 1maxdmg 41ar 10ll 5str 14life 9fr eastt6/eastt-gp
 Ring 1maxdmg 49ar 3ll 3str 10life 3mana lvl1 Attract (20/22 Charges) eastt7/eastt-hb
+Ring 1maxdmg 60ar 3ll 3str 11energy 17life 3lightradius eastt14/eastt-bed
 Ring 1maxdmg 99ar 2ll 3str 13life 22cr 9lr 9fr 9pr eastt6/eastt-gh
 Ring 20ar 8ll 4str 1energy 20life eastt6/eastt-gm
 Ring 20dex 11@ eastt9/eastt-jo
 Ring 20dex 12@ eastt12/eastt-bcd
 Ring 20dex 15@ eastt8/eastt-ik
 2x Ring 20dex 26pr eastt12/eastt-bcd eastt9/eastt-je
-Ring 20dex 28pr eastt12/eastt-bco
+2x Ring 20dex 28pr eastt12/eastt-bco eastt14/eastt-bed
 Ring 21ar 1ll 16str 31life 1damred eastt12/eastt-bch
 Ring 21ar 1ll 2str 22life 18maxstamina eastt13/eastt-bdj
 Ring 21ar 20str 9dex 11cr 33lr 11fr 11pr 1damred eastt5/eastt-fi
@@ -205,6 +219,7 @@ Ring 29ar 4ml 2ll 5str 11life 18lr 9pr eastt2/eastt-ck
 Ring 2ll 11str 9energy 13life 21mana lvl3 Ice Blast (12/27 Charges) eastt12/eastt-bch
 Ring 2ll 20str 6energy 10life 21pr psnlengthreducedby25 eastt1/eastt-bt
 Ring 2ll 24str 9energy 12life 15lr 2mdr eastt11/eastt-bbi
+Ring 2ll 3str 16life 3mana 14mf lvl3 Ice Blast (4/27 Charges) eastt13/eastt-bdr
 Ring 2ll 3str 6energy 38life 7liferep 3mana eastt1/eastt-bu
 Ring 2ll 4str 19life 46mana 2mdr lvl3 Dim Vision (18/27 Charges) eastt13/eastt-bdk
 Ring 2ll 4str 32life 25lr 30fr 2damred eastt4/eastt-ed
@@ -221,6 +236,7 @@ Ring 33ar 3ll 2str 32life 5pr 2mdr eastt7/eastt-hl
 Ring 34ar 2ll 5str 25life 18cr 6lr eastt12/eastt-bck
 Ring 34life 9liferep 50mana 29lr 5fr eastt5/eastt-fn
 Ring 35ar 6ll 5str 1energy 18life 7pr eastt6/eastt-gg
+Ring 37ar 6ll 6str 14energy 20life eastt13/eastt-bdp
 Ring 39ar 3ll 2str 10life 7liferep 16pr 2lightradius eastt1/eastt-bf
 3x Ring 39mf eastt12/eastt-bcn eastt12/eastt-bcn eastt3/eastt-df
 Ring 3ll 12str 15life 16maxstamina 27pr lvl3 Dim Vision (9/27 Charges) eastt7/eastt-he
@@ -246,6 +262,7 @@ Ring 3mindmg 20str 76mana 28lr 17fr 37eg eastt12/eastt-bck
 Ring 3mindmg 3ll 25str 18life 9mana 2mdr eastt7/eastt-hg
 Ring 3mindmg 5ar 3ll 1str 13life 7liferep 8lr 5lightradius eastt3/eastt-do
 Ring 3mindmg 92ar 37life 5liferep 6maxstamina 26fr eastt2/eastt-cn
+Ring 3ml 1ll 12str 2dex 20life 3mana eastt14/eastt-bea
 Ring 43ar 3ll 2str 20life 3mana 1manaaftereachkill eastt4/eastt-ea
 Ring 4maxdmg 20str 3mana 35cr 6lr 6fr 6pr 6mf eastt11/eastt-bbe
 Ring 4maxdmg 2ll 1str 11life 4liferep 7maxstamina 1damred eastt12/eastt-bck
@@ -257,6 +274,7 @@ Ring 4mindmg 1ll 5str 28life 28lr 9pr eastt2/eastt-cq
 Ring 4mindmg 6ll 1str 18life 22fr 18pr eastt7/eastt-hn
 Ring 4mindmg 78ar 2ll 3str 12life 6mana 2mdr eastt6/eastt-gd
 Ring 4ml 3ll 16str 4energy 13life 11lr eastt4/eastt-ea
+Ring 5 Chance to cast level 3 Chain Lightning on attack 102ar 13dex 40life 9lr 7fr eastt13/eastt-bdq
 Ring 5 Chance to cast level 3 Chain Lightning on attack 11str 15dex 79mana 27fr 1lightradius eastt2/eastt-ce
 Ring 50ar 2ll 21str 14life 5mana 5mf eastt13/eastt-bdi
 Ring 50psndmg(over 3s) 1ll 25str 10life 6mana 2damred eastt13/eastt-bdj
@@ -292,6 +310,7 @@ Ring 69ar 1ll 6str 13life 15fr 2mdr eastt6/eastt-gg
 Ring 69ar 2ll 1str 27life 18fr 38eg eastt13/eastt-bdn
 Ring 6ll 15str 17life 10cr 12lr eastt7/eastt-he
 Ring 6ll 2str 16life 21mana 9pr lvl4 Bolt (21/30 Charges) eastt9/eastt-jm
+Ring 6mindmg 1-17light dmg 1ll 18str 14life 6mf eastt14/eastt-bed
 Ring 6mindmg 13ar 1ll 3str 11life 15pr eastt6/eastt-gf
 Ring 6mindmg 74ar 5dex 17life 75mana 25lr eastt1/eastt-bt
 Ring 6mindmg 93ar 5liferep 11cr 41lr 11fr 11pr lvl5 Bolt (12/32 Charges) eastt11/eastt-bbr
@@ -304,14 +323,18 @@ Ring 7mindmg 100ar 3ll 2str 13life 5liferep 8@ eastt9/eastt-ji
 Ring 7mindmg 1ll 5str 38life 4liferep 27lr eastt10/eastt-bao
 Ring 7mindmg 4ll 5str 16life 7pr psnlengthreducedby25 eastt5/eastt-fm
 Ring 80ar 2ll 1str 13life 40cr 10lr 10fr 10pr 30eg eastt1/eastt-bs
+Ring 81ar 1ll 15str 15life 27mana 10mf eastt13/eastt-bdq
 Ring 81ar 2ml 33life 11cr 11lr 34fr 11pr eastt3/eastt-dn
 Ring 81ar 3ll 5str 14life 3liferep lvl2 Confuse (19/25 Charges) eastt5/eastt-fm
 Ring 82ar 2ll 25str 14life 5@ 10mf eastt13/eastt-bdf
+Ring 83ar 1-21light dmg 2ll 17str 18life 2mdr eastt13/eastt-bdo
 Ring 83ar 11ll 4str 49life 28fr eastt10/eastt-baa
 Ring 83ar 17str 6energy 36life 5fr 29pr eastt13/eastt-bdn
 Ring 85ar 14energy 28life 8liferep 5mana 26cr eastt7/eastt-hh
+Ring 86ar 3ll 19str 48life 25fr eastt14/eastt-bea
 Ring 89ar 1ll 25str 17life 23pr eastt10/eastt-ban
 Ring 89ar 2ll 2str 11energy 29life lvl3 Telekinesis (22/27 Charges) eastt4/eastt-eo
+Ring 8ll 6str 13life 4cr 11lr 4fr 4pr eastt13/eastt-bdq
 Ring 8mindmg 110ar 1energy 34life 56mana 21cr eastt5/eastt-fp
 Ring 8mindmg 116ar 6energy 37life 23mana 19fr eastt3/eastt-df
 Ring 8mindmg 13dex 39life 8maxstamina 19cr 14lr eastt4/eastt-ec
@@ -336,6 +359,7 @@ Ring 95ar 1ll 5str 1energy 11life 85mana 24pr eastt5/eastt-ff
 Ring 96ar 2ll 3str 10life 27cr 32eg lvl3 Telekinesis (26/27 Charges) eastt5/eastt-fh
 Ring 97ar 19str 6dex 11cr 35lr 11fr 11pr eastt11/eastt-bba
 Ring 97ar 2ll 25str 17life 25fr 3lightradius eastt4/eastt-ea
+Ring 98ar 1ll 4str 1energy 19life 1mdr 2lightradius eastt13/eastt-bdr
 Ring 98ar 3ll 11str 10energy 10life 8fr eastt3/eastt-dd
 Ring 99ar 1-18light dmg 3ll 25str 13energy 12life eastt9/eastt-jo
 Ring 99ar 1ll 4str 17life 82mana lvl3 Telekinesis (27/27 Charges) eastt3/eastt-dr
@@ -364,6 +388,7 @@ Ring LLD lvlreq25 1maxdmg 3ll 5str 14life 10maxstamina 7lr 10fr eastt7/eastt-ho
 Ring LLD lvlreq26 1maxdmg 19ar 3ll 1str 20life 10mana 5mf eastt3/eastt-dh
 Ring LLD lvlreq26 1maxdmg 3ll 2str 17life 9fr 40eg eastt1/eastt-bm
 Ring LLD lvlreq28 1maxdmg 63ar 2ll 5str 2dex 11life 1lightradius eastt10/eastt-bar
+Ring LLD lvlreq29 10 Chance to cast level 3 Nova when struck 10fcr 3ll 77mana 12lr 15fr eastt14/eastt-bed
 Ring LLD lvlreq29 100ar 5str 18life 66mana 9pr eastt3/eastt-do
 Ring LLD lvlreq29 102ar 2str 83mana 26lr hfd eastt4/eastt-ea
 Ring LLD lvlreq29 10fcr 20ar 5liferep 83mana 1manaaftereachkill lvl4 Dim Vision (15/30 Charges) eastt7/eastt-hi
@@ -381,16 +406,18 @@ Ring LLD lvlreq30 1maxdmg 111ar 6str 81mana 1lightradius eastt3/eastt-dm
 Ring LLD lvlreq30 1maxdmg 7str 9energy 84mana 17fr eastt3/eastt-dc
 Ring LLD lvlreq9 67ar 1dex 4life 5liferep 5mana 16cr eastt13/eastt-bdh
 2x Ring LLD lvlreq9 80ar 5liferep eastt11/eastt-bba eastt2/eastt-cl
+soj eastt14/eastt-bea
+Wisp Projector Ring 13lightabsorb 18mf lvl5 Heart of Wolverine (6/13 Charges) lvl2 Oak Sage (6/15 Charges) eastt13/eastt-bdp
 
 [B]Runes[/B]
 6x Ber
 3x Lem
 10x Lum
-73x Hel
+76x Hel
 64x Shael
 26x Amn
 39x Thul
-95x Ort
+96x Ort
 86x Ral
 59x Tal
 13x Eth
@@ -436,12 +463,14 @@ Amu 3fireskills 84life eastt6/eastt-gc
 Amu 3fireskills 86life eastt12/eastt-bci
 Amu 3fireskills 96life eastt10/eastt-baf
 Amu 3lightningskill 10fcr eastt7/eastt-hh
+Amu 3lightningskill 35mf eastt13/eastt-bdq
+Amu 3lightningskill 73life eastt13/eastt-bdo
 Amu 3lightningskill 88life eastt10/eastt-baf
 Amu 3offauras 30str eastt10/eastt-baf
 Amu 3offauras 97life eastt9/eastt-ja
 Amu 3palacombatskill 30str eastt8/eastt-ic
 Amu 3palacombatskill 99life eastt11/eastt-bbe
-4x Amu 3pnbskills 10fcr eastt12/eastt-bcd eastt6/eastt-gn eastt8/eastt-ij eastt9/eastt-jq
+5x Amu 3pnbskills 10fcr eastt12/eastt-bcd eastt14/eastt-bef eastt6/eastt-gn eastt8/eastt-ij eastt9/eastt-jq
 Amu 3pnbskills 87life eastt10/eastt-baf
 Amu 3shadowdisciplines 87life eastt8/eastt-im
 Amu 3shadowdisciplines 91life eastt8/eastt-ig
@@ -470,6 +499,7 @@ Amu LLD lvlreq18 1passivandmagicskills 10fcr 4str 35life 3mana 7@ eastt13/eastt-
 Amu LLD lvlreq18 1pnbskills 35life 7liferep 14lr 1lightradius eastt6/eastt-gr
 Amu LLD lvlreq18 20ar 39life 7liferep 24mana eastt6/eastt-gr
 Amu LLD lvlreq19 49mf eastt4/eastt-ee
+Amu LLD lvlreq27 12 Chance to cast level 4 Bolt when struck 1palaskills 23life 57mana eastt14/eastt-bef
 Amu LLD lvlreq27 1assaskills 10fcr 13ar 10liferep 20maxstamina eastt13/eastt-bdf
 Amu LLD lvlreq27 1assaskills 2ll 20life 3liferep 45mana 31cr eastt8/eastt-im
 Amu LLD lvlreq27 1assaskills 52life 10liferep 23cr 13lr 3damred eastt7/eastt-hp
@@ -477,6 +507,7 @@ Amu LLD lvlreq27 1druidskills 55life 3liferep 15mana eastt3/eastt-db
 Amu LLD lvlreq27 1necskills 10fcr 12life 8liferep 37fr eastt7/eastt-hd
 Amu LLD lvlreq27 1palaskills 3ml 54life 32mana 1damred 10mf eastt9/eastt-ji
 Amu LLD lvlreq29 1amaskills 86mana 24fr eastt6/eastt-gj
+Amu LLD lvlreq29 1assaskills 49life 73mana 15@ eastt13/eastt-bdo
 Amu LLD lvlreq29 1druidskills 18life 10liferep 89mana eastt10/eastt-bab
 Amu LLD lvlreq29 1druidskills 4liferep 90mana 39pr 2damred eastt11/eastt-bbc
 Amu LLD lvlreq29 1palaskills 2dex 4liferep 74mana 8lr 24mf eastt10/eastt-bal
@@ -516,6 +547,7 @@ maras Amu 23@ eastt8/eastt-ij
 maras Amu 27@ eastt11/eastt-bbq
 2x maras Amu 29@ eastt11/eastt-bbr eastt12/eastt-bcm
 Metalgrid Amu 408ar 349 def 34@ lvl22 Golem (8/11 Charges) lvl12 Iron Maiden (11/20 Charges) eastt13/eastt-bdl
+Sensei's Amu LLD lvlreq30 2 tomartialarts 15liferep eastt14/eastt-beg
 4x Tal Amu eastt10/eastt-baf eastt11/eastt-bbr eastt12/eastt-bck eastt9/eastt-jr
 Warden's Amu LLD lvlreq30 2offauras 15liferep eastt9/eastt-jj
 
@@ -527,11 +559,15 @@ Jewel 100ar 7dex eastt5/eastt-fn
 Jewel 10mindmg 12 def 11fr req-15 eastt12/eastt-bco
 Jewel 10mindmg 16mana eastt9/eastt-jb
 Jewel 10mindmg 1maxdmg 9dex eastt6/eastt-gg
+Jewel 10mindmg 20mana eastt14/eastt-bed
 Jewel 10mindmg 30cr eastt12/eastt-bcd
 Jewel 10mindmg 43ar 31 def 9str eastt7/eastt-hq
 2x Jewel 12life 30lr eastt12/eastt-bco eastt6/eastt-gc
 Jewel 13maxdmg 10mf eastt9/eastt-jg
 Jewel 13maxdmg 20eg eastt11/eastt-bbq
+Jewel 13maxdmg 20life eastt13/eastt-bdo
+Jewel 13maxdmg 30eg eastt13/eastt-bdp
+Jewel 13maxdmg 9dex eastt14/eastt-beg
 Jewel 13maxdmg 9energy eastt8/eastt-ik
 3x Jewel 13maxdmg 9str eastt12/eastt-bcn eastt13/eastt-bde eastt4/eastt-eo
 Jewel 13mindmg 7mf req-15 eastt9/eastt-jm
@@ -551,7 +587,7 @@ Jewel 15ias 12ed eastt12/eastt-bcd
 4x Jewel 15ias 13maxdmg eastt12/eastt-bck eastt5/eastt-fa eastt8/eastt-il eastt9/eastt-jc
 Jewel 15ias 14@ eastt5/eastt-fe
 2x Jewel 15ias 14ed eastt10/eastt-baa eastt9/eastt-jp
-4x Jewel 15ias 14maxdmg eastt12/eastt-bck eastt4/eastt-em eastt8/eastt-ic eastt8/eastt-iq
+5x Jewel 15ias 14maxdmg eastt12/eastt-bck eastt14/eastt-bed eastt4/eastt-em eastt8/eastt-ic eastt8/eastt-iq
 2x Jewel 15ias 15ed eastt1/eastt-bt eastt9/eastt-jo
 Jewel 15ias 15fr eastt13/eastt-bdl
 4x Jewel 15ias 15maxdmg eastt11/eastt-bbm eastt2/eastt-cl eastt2/eastt-cr eastt9/eastt-jp
@@ -564,14 +600,14 @@ Jewel 15ias 18fr eastt2/eastt-ck
 Jewel 15ias 18mana eastt2/eastt-ch
 2x Jewel 15ias 19ed eastt1/eastt-bo eastt2/eastt-cm
 Jewel 15ias 19mana eastt5/eastt-fq
-Jewel 15ias 20ed eastt7/eastt-hq
+2x Jewel 15ias 20ed eastt14/eastt-bed eastt7/eastt-hq
 2x Jewel 15ias 20mana eastt4/eastt-ef eastt5/eastt-fi
 Jewel 15ias 20pr eastt8/eastt-ik
 Jewel 15ias 21ar eastt8/eastt-ib
 Jewel 15ias 21ed eastt6/eastt-gq
 Jewel 15ias 21fr eastt7/eastt-hg
 Jewel 15ias 21pr eastt6/eastt-gm
-2x Jewel 15ias 22fr eastt13/eastt-bdh eastt4/eastt-en
+3x Jewel 15ias 22fr eastt13/eastt-bdh eastt14/eastt-bed eastt4/eastt-en
 Jewel 15ias 22pr eastt9/eastt-jn
 2x Jewel 15ias 23ed eastt1/eastt-bg eastt2/eastt-cc
 3x Jewel 15ias 24ed eastt12/eastt-bck eastt5/eastt-fm eastt8/eastt-id
@@ -579,6 +615,7 @@ Jewel 15ias 24fr eastt7/eastt-hg
 Jewel 15ias 25ed eastt11/eastt-bbh
 Jewel 15ias 25lr eastt7/eastt-hp
 Jewel 15ias 26ar eastt4/eastt-ea
+Jewel 15ias 26ed eastt14/eastt-bef
 Jewel 15ias 26lr eastt9/eastt-jc
 3x Jewel 15ias 26pr eastt10/eastt-bal eastt10/eastt-bar eastt3/eastt-da
 Jewel 15ias 27ar eastt6/eastt-gc
@@ -598,7 +635,7 @@ Jewel 15ias 33ar eastt2/eastt-cl
 Jewel 15ias 34ar eastt5/eastt-fi
 Jewel 15ias 34ed eastt9/eastt-jk
 4x Jewel 15ias 36ed eastt12/eastt-bcb eastt2/eastt-cc eastt3/eastt-dm eastt6/eastt-gr
-4x Jewel 15ias 37ed eastt10/eastt-baa eastt2/eastt-ck eastt5/eastt-fr eastt8/eastt-im
+5x Jewel 15ias 37ed eastt10/eastt-baa eastt13/eastt-bdo eastt2/eastt-ck eastt5/eastt-fr eastt8/eastt-im
 Jewel 15ias 38ar eastt9/eastt-jo
 Jewel 15ias 38ed eastt13/eastt-bdh
 Jewel 15ias 39ar eastt9/eastt-jr
@@ -624,10 +661,10 @@ Jewel 15ias 75ar eastt1/eastt-bs
 6x Jewel 15ias 7mindmg eastt13/eastt-bdg eastt2/eastt-cn eastt3/eastt-dp eastt5/eastt-fi eastt5/eastt-fo eastt8/eastt-il
 Jewel 15ias 84ar eastt2/eastt-ck
 Jewel 15ias 86ar eastt6/eastt-gr
-2x Jewel 15ias 88ar eastt10/eastt-bae eastt5/eastt-fh
+3x Jewel 15ias 88ar eastt10/eastt-bae eastt14/eastt-beb eastt5/eastt-fh
 Jewel 15ias 89ar eastt6/eastt-gi
 Jewel 15ias 8@ eastt3/eastt-dn
-5x Jewel 15ias 8mindmg eastt13/eastt-bdg eastt3/eastt-dd eastt6/eastt-gc eastt6/eastt-ge eastt9/eastt-jn
+6x Jewel 15ias 8mindmg eastt13/eastt-bdg eastt14/eastt-bea eastt3/eastt-dd eastt6/eastt-gc eastt6/eastt-ge eastt9/eastt-jn
 Jewel 15ias 94ar eastt10/eastt-bac
 Jewel 15life 12@ eastt4/eastt-ej
 Jewel 15life 18mana eastt11/eastt-bbh
@@ -645,6 +682,9 @@ Jewel 15maxdmg 8mf eastt8/eastt-ik
 Jewel 15maxdmg 9str eastt11/eastt-bbd
 2x Jewel 15maxdmg req-15 eastt4/eastt-ee eastt7/eastt-ha
 Jewel 16life 12@ eastt11/eastt-bbl
+Jewel 16life 14mana eastt14/eastt-bec
+Jewel 17life 30fr eastt14/eastt-bef
+Jewel 18-35firedmg 9dex 26pr eastt14/eastt-bef
 Jewel 18-46firedmg 15@ eastt10/eastt-bag
 Jewel 18life 13mana eastt11/eastt-bbe
 Jewel 19life 30fr eastt3/eastt-dm
@@ -667,11 +707,13 @@ Jewel 34ed 9energy eastt5/eastt-fp
 Jewel 34ed 9str eastt5/eastt-fi
 Jewel 35ed 15maxdmg eastt1/eastt-bg
 Jewel 35ed 22eg eastt7/eastt-hq
+Jewel 35ed 9dex eastt14/eastt-bed
 Jewel 35ed 9energy eastt9/eastt-jr
 Jewel 35ed 9str eastt11/eastt-bbc
 Jewel 35ed req-15 eastt5/eastt-fi
 Jewel 36ed 10mindmg eastt11/eastt-bbr
 Jewel 36ed 15maxdmg eastt5/eastt-fh
+Jewel 36ed 23eg eastt14/eastt-bec
 Jewel 36ed 26eg eastt10/eastt-bao
 Jewel 36ed 9dex eastt3/eastt-dl
 Jewel 36ed req-15 eastt6/eastt-gb
@@ -755,6 +797,7 @@ Jewel 7fhr 30ed 6dex 23fr eastt3/eastt-dm
 Jewel 7fhr 4maxdmg 3dex 28lr eastt13/eastt-bde
 Jewel 7fhr 5str 25pr eastt5/eastt-fm
 Jewel 7fhr 6-22firedmg 6str 27fr eastt7/eastt-hp
+Jewel 7fhr 60 def eastt14/eastt-beg
 Jewel 7fhr 60ar 4energy eastt9/eastt-jb
 Jewel 7fhr 8dex 3life 28pr eastt10/eastt-bae
 Jewel 7fhr 8mindmg 33damagetodemons 25ar againstdemons eastt7/eastt-ha
@@ -789,7 +832,7 @@ Jewel 9-14dmg eastt4/eastt-em
 Jewel 9energy 16mana eastt9/eastt-jb
 Jewel 9energy 22lr eastt8/eastt-ip
 Jewel 9energy 24lr eastt12/eastt-bcg
-Jewel 9energy 27lr eastt3/eastt-de
+2x Jewel 9energy 27lr eastt14/eastt-beb eastt3/eastt-de
 Jewel 9energy 30cr eastt13/eastt-bdf
 Jewel 9life 29lr eastt10/eastt-bad
 Jewel 9maxdmg 9str 1energy 21lr eastt9/eastt-jb
@@ -830,6 +873,7 @@ Jewel LLD lvlreq14 3energy 30lr eastt3/eastt-dm
 Jewel LLD lvlreq14 3mindmg 6dex 10@ eastt7/eastt-hk
 Jewel LLD lvlreq14 5dex 10@ eastt2/eastt-co
 Jewel LLD lvlreq14 5dex 11mana eastt13/eastt-bdg
+Jewel LLD lvlreq14 5dex 21lr eastt14/eastt-bee
 Jewel LLD lvlreq14 5dex 23lr eastt7/eastt-hq
 Jewel LLD lvlreq14 5dex 24fr eastt3/eastt-da
 Jewel LLD lvlreq14 5dex 25fr eastt8/eastt-in
@@ -865,6 +909,7 @@ Jewel LLD lvlreq18 15maxdmg 44ar eastt5/eastt-fn
 Jewel LLD lvlreq18 18ed 14maxdmg eastt6/eastt-go
 Jewel LLD lvlreq18 19ed 14maxdmg eastt8/eastt-ib
 Jewel LLD lvlreq18 19maxdmg eastt5/eastt-fe
+Jewel LLD lvlreq18 20ed 14maxdmg eastt13/eastt-bdq
 Jewel LLD lvlreq18 20maxdmg eastt9/eastt-jk
 Jewel LLD lvlreq18 2mindmg 5dex 4energy 30lr eastt13/eastt-bdn
 Jewel LLD lvlreq18 4-15dmg eastt11/eastt-bbh
@@ -873,6 +918,7 @@ Jewel LLD lvlreq18 6energy 26lr eastt4/eastt-ec
 Jewel LLD lvlreq18 6energy 28lr eastt12/eastt-bcb
 Jewel LLD lvlreq18 6energy 29lr eastt7/eastt-hm
 Jewel LLD lvlreq18 6energy 30fr eastt4/eastt-eq
+Jewel LLD lvlreq18 6energy 30lr eastt13/eastt-bdp
 Jewel LLD lvlreq18 6energy 30pr eastt12/eastt-bco
 Jewel LLD lvlreq19 30fr 7mf eastt13/eastt-bdc
 Jewel LLD lvlreq19 30pr 9mf eastt6/eastt-gn
@@ -905,9 +951,10 @@ Jewel LLD lvlreq26 14maxdmg 15@ eastt3/eastt-dk
 Jewel LLD lvlreq26 15@ req-15 eastt9/eastt-jj
 2x Jewel LLD lvlreq26 20psndmg(over 2s) 15@ eastt13/eastt-bdl eastt7/eastt-hl
 Jewel LLD lvlreq26 2mindmg 15@ eastt7/eastt-ha
+Jewel LLD lvlreq26 5energy 15@ eastt13/eastt-bdp
 Jewel LLD lvlreq26 6maxdmg 15@ eastt13/eastt-bdi
 3x Jewel LLD lvlreq27 20maxdmg eastt4/eastt-er eastt6/eastt-go eastt9/eastt-jm
-4x Jewel LLD lvlreq27 21maxdmg eastt12/eastt-bce eastt3/eastt-dp eastt7/eastt-hb eastt7/eastt-hq
+5x Jewel LLD lvlreq27 21maxdmg eastt12/eastt-bce eastt13/eastt-bdr eastt3/eastt-dp eastt7/eastt-hb eastt7/eastt-hq
 3x Jewel LLD lvlreq27 22maxdmg eastt10/eastt-bak eastt12/eastt-bca eastt8/eastt-ie
 2x Jewel LLD lvlreq27 23maxdmg eastt1/eastt-br eastt6/eastt-gr
 Jewel LLD lvlreq28 1-38light dmg 6str 7dex 19maxstamina eastt8/eastt-ik
@@ -917,6 +964,7 @@ Jewel LLD lvlreq28 17ed 7 def 9dex req-15 eastt7/eastt-hp
 Jewel LLD lvlreq28 18ed 8dex eastt10/eastt-bal
 Jewel LLD lvlreq28 19ed 9dex eastt3/eastt-dq
 Jewel LLD lvlreq28 20ed 9dex eastt4/eastt-er
+Jewel LLD lvlreq28 3-7dmg 59ar 9dex eastt13/eastt-bdq
 Jewel LLD lvlreq28 3mindmg 9dex 15pr req-15 eastt1/eastt-bl
 Jewel LLD lvlreq28 4-28firedmg 6str 13fr req-15 eastt6/eastt-go
 Jewel LLD lvlreq28 4-9dmg 9dex eastt7/eastt-hp
@@ -985,10 +1033,12 @@ Spirit Broad Sword dmg7-14 LLD lvlreq25 2allskills 33fcr 22vita 102mana 6magicab
 Spirit Broad Sword dmg7-14 LLD lvlreq25 2allskills 33fcr 22vita 99mana 4magicabs 4sox eastt1/eastt-bi
 Spirit Long Sword dmg3-19 LLD lvlreq25 2allskills 34fcr 22vita 109mana 3magicabs 4sox eastt1/eastt-bg
 Spirit Monarch 148def 52chancetoblock Smite Damage: 12 to 34 35fcr 100mana 3magicabs 4sox eastt13/eastt-bda
+Spirit Monarch 148def 52chancetoblock Smite Damage: 12 to 34 35fcr 102mana 3magicabs 4sox eastt13/eastt-bdq
 Spirit Monarch 148def 52chancetoblock Smite Damage: 12 to 34 35fcr 104mana 5magicabs 4sox eastt11/eastt-bbe
 Spirit Monarch 148def 52chancetoblock Smite Damage: 12 to 34 35fcr 105mana 5magicabs 4sox eastt8/eastt-ii
 Spirit Monarch 148def 52chancetoblock Smite Damage: 12 to 34 35fcr 106mana 5magicabs 4sox eastt12/eastt-bcf
 Spirit Monarch 148def 52chancetoblock Smite Damage: 12 to 34 35fcr 106mana 7magicabs 4sox eastt10/eastt-bad
+Spirit Monarch 148def 52chancetoblock Smite Damage: 12 to 34 35fcr 110mana 8magicabs 4sox eastt14/eastt-bec
 Spirit Monarch 148def 52chancetoblock Smite Damage: 12 to 34 35fcr 111mana 8magicabs 4sox eastt8/eastt-ig
 Spirit Monarch 148def 52chancetoblock Smite Damage: 12 to 34 35fcr 112mana 6magicabs 4sox eastt9/eastt-jl
 Spirit Monarch 148def 52chancetoblock Smite Damage: 12 to 34 35fcr 92mana 6magicabs 4sox eastt8/eastt-im
@@ -996,8 +1046,10 @@ Spirit Monarch 330def 52chancetoblock Smite Damage: 12 to 34 35fcr 108mana 8magi
 Spirit Monarch 333def 52chancetoblock Smite Damage: 12 to 34 35fcr 106mana 3magicabs ETH 4sox eastt3/eastt-di
 Spirit sacredtarge 126def 60chancetoblock Smite Damage: 22 to 70 35fcr 108mana 79cr 79lr 44fr 79pr 5magicabs 4sox eastt9/eastt-jf
 Spirit sacredtarge 126def 60chancetoblock Smite Damage: 22 to 70 35fcr 97mana 79cr 79lr 44fr 79pr 6magicabs 4sox eastt10/eastt-baq
+Spirit sacredtarge 127def 60chancetoblock Smite Damage: 22 to 70 35fcr 104mana 79cr 79lr 44fr 79pr 7magicabs 4sox eastt14/eastt-beb
 Spirit sacredtarge 127def 60chancetoblock Smite Damage: 22 to 70 35fcr 105mana 79cr 79lr 44fr 79pr 6magicabs 4sox eastt12/eastt-bce
 Spirit sacredtarge 127def 60chancetoblock Smite Damage: 22 to 70 35fcr 108mana 79cr 79lr 44fr 79pr 7magicabs 4sox eastt10/eastt-bar
+Spirit sacredtarge 132def 60chancetoblock Smite Damage: 22 to 70 35fcr 112mana 80cr 80lr 45fr 80pr 8magicabs 4sox eastt14/eastt-bed
 Spirit sacredtarge 134def 60chancetoblock Smite Damage: 22 to 70 2allskills 35fcr 55fhr 65ed 116ar 22vita 90mana 5magicabs 4sox eastt4/eastt-er
 Spirit sacredtarge 134def 60chancetoblock Smite Damage: 22 to 70 35fcr 105mana 80cr 80lr 45fr 80pr 4magicabs 4sox eastt12/eastt-bcp
 Spirit sacredtarge 135def 60chancetoblock Smite Damage: 22 to 70 35fcr 106mana 80cr 80lr 45fr 80pr 3magicabs 4sox eastt8/eastt-ia
@@ -1012,11 +1064,13 @@ Spirit sacredtarge 144def 60chancetoblock Smite Damage: 22 to 70 35fcr 105mana 7
 Spirit sacredtarge 145def 60chancetoblock Smite Damage: 22 to 70 35fcr 110mana 80cr 80lr 45fr 80pr 6magicabs 4sox eastt12/eastt-bcg
 Spirit sacredtarge 150def 60chancetoblock Smite Damage: 22 to 70 35fcr 108mana 80cr 80lr 45fr 80pr 7magicabs 4sox eastt4/eastt-en
 Spirit sacredtarge 155def 60chancetoblock Smite Damage: 22 to 70 35fcr 103mana 79cr 79lr 44fr 79pr 6magicabs 4sox eastt5/eastt-fk
+Spirit sacredtarge 155def 60chancetoblock Smite Damage: 22 to 70 35fcr 104mana 80cr 80lr 45fr 80pr 6magicabs 4sox eastt13/eastt-bdr
 Spirit sacredtarge 155def 60chancetoblock Smite Damage: 22 to 70 35fcr 107mana 79cr 79lr 44fr 79pr 4magicabs 4sox eastt8/eastt-ir
 Spirit sacredtarge 157def 60chancetoblock Smite Damage: 22 to 70 35fcr 104mana 79cr 79lr 44fr 79pr 3magicabs 4sox eastt4/eastt-em
+Spirit sacredtarge 158def 60chancetoblock Smite Damage: 22 to 70 35fcr 102mana 79cr 79lr 44fr 79pr 3magicabs 4sox eastt14/eastt-bee
 
 [B]Charms[/B]
-Gc 1 tomartialarts 30life eastt11/eastt-bbh
+2x Gc 1 tomartialarts 30life eastt11/eastt-bbh eastt14/eastt-beg
 Gc 1 tomartialarts 38life eastt4/eastt-eo
 Gc 1 tomartialarts 39life eastt10/eastt-bac
 Gc 1 tomartialarts 40eg eastt12/eastt-bcl
@@ -1033,6 +1087,7 @@ Gc 128ar 38life eastt1/eastt-bn
 Gc 129ar 34life eastt9/eastt-jg
 Gc 12fhr 59mana eastt1/eastt-bu
 Gc 130ar 30life eastt4/eastt-en
+Gc 131ar 33life eastt14/eastt-bea
 Gc 131ar 40eg eastt9/eastt-jq
 Gc 131ar 40life eastt5/eastt-ff
 Gc 132ar 6str eastt1/eastt-be
@@ -1056,15 +1111,17 @@ Gc 1coldskills 40life eastt8/eastt-if
 2x Gc 1coldskills 6str eastt4/eastt-eb eastt5/eastt-fn
 Gc 1curseskills 30life eastt5/eastt-fr
 Gc 1curseskills 38life eastt4/eastt-eo
+Gc 1curseskills 40eg eastt13/eastt-bdp
 Gc 1dudusummoningskills 30life eastt2/eastt-ce
 Gc 1dudusummoningskills 39life eastt11/eastt-bbn
 Gc 1eleskills 20life eastt5/eastt-fi
 Gc 1eleskills 22life eastt13/eastt-bda
 Gc 1eleskills 26life eastt2/eastt-cj
-Gc 1eleskills 30life eastt3/eastt-da
+2x Gc 1eleskills 30life eastt13/eastt-bdp eastt3/eastt-da
 Gc 1eleskills 32life eastt4/eastt-ee
 Gc 1eleskills 36life eastt9/eastt-jq
 Gc 1eleskills 39life eastt7/eastt-hr
+Gc 1eleskills 40life eastt14/eastt-beb
 Gc 1eleskills 6str eastt2/eastt-cj
 4x Gc 1eleskills 7frw eastt11/eastt-bbb eastt3/eastt-di eastt8/eastt-ir eastt9/eastt-jc
 Gc 1fireskills 12fhr eastt13/eastt-bdl
@@ -1111,6 +1168,7 @@ Gc 1lightningskill 26life eastt11/eastt-bbf
 Gc 1lightningskill 29eg eastt13/eastt-bde
 Gc 1lightningskill 30eg eastt9/eastt-jd
 Gc 1lightningskill 31life eastt13/eastt-bdj
+Gc 1lightningskill 32eg eastt14/eastt-bea
 Gc 1lightningskill 33life eastt7/eastt-hb
 Gc 1lightningskill 34life eastt4/eastt-er
 Gc 1lightningskill 38life eastt2/eastt-cp
@@ -1126,11 +1184,12 @@ Gc 1necsummoningskills 27life eastt11/eastt-bbg
 2x Gc 1necsummoningskills 29life eastt11/eastt-bbp eastt5/eastt-fq
 Gc 1necsummoningskills 30life eastt12/eastt-bci
 Gc 1necsummoningskills 33life eastt3/eastt-dd
-Gc 1necsummoningskills 36life eastt10/eastt-bal
+2x Gc 1necsummoningskills 36life eastt10/eastt-bal eastt13/eastt-bdq
 Gc 1necsummoningskills 40life eastt10/eastt-baa
 Gc 1offauras 30life eastt7/eastt-hb
 2x Gc 1offauras 39life eastt10/eastt-bag eastt6/eastt-gq
 Gc 1offauras 40life eastt11/eastt-bbq
+Gc 1palacombatskill 10life eastt14/eastt-beb
 Gc 1palacombatskill 12eg eastt1/east-bg
 Gc 1palacombatskill 12fhr eastt2/eastt-ci
 Gc 1palacombatskill 14life eastt12/eastt-bch
@@ -1142,7 +1201,8 @@ Gc 1palacombatskill 30eg eastt13/eastt-bdg
 Gc 1palacombatskill 30life eastt10/eastt-bap
 Gc 1palacombatskill 31eg eastt11/eastt-bbg
 Gc 1palacombatskill 32life eastt10/eastt-bao
-Gc 1palacombatskill 36life eastt8/eastt-ic
+Gc 1palacombatskill 33eg eastt14/eastt-beb
+2x Gc 1palacombatskill 36life eastt14/eastt-bea eastt8/eastt-ic
 Gc 1palacombatskill 37life eastt5/eastt-ff
 Gc 1palacombatskill 38life eastt9/eastt-jf
 Gc 1palacombatskill 3dex eastt5/eastt-fe
@@ -1186,9 +1246,10 @@ Gc 1shadowdisciplines 36life eastt8/eastt-ii
 Gc 1shadowdisciplines 40life eastt8/eastt-ic
 2x Gc 1shapeshiftsk 21life eastt1/eastt-bs eastt6/eastt-gr
 Gc 1shapeshiftsk 22life eastt8/eastt-ii
+Gc 1shapeshiftsk 30life eastt13/eastt-bdq
 Gc 1shapeshiftsk 31life eastt3/eastt-dr
 Gc 1shapeshiftsk 33life eastt8/eastt-if
-Gc 1shapeshiftsk 35life eastt4/eastt-ed
+2x Gc 1shapeshiftsk 35life eastt14/eastt-bea eastt4/eastt-ed
 Gc 1shapeshiftsk 36life eastt4/eastt-eg
 Gc 1shapeshiftsk 40life eastt9/eastt-jl
 5x Gc 1shapeshiftsk 7frw eastt1/eastt-br eastt10/eastt-bam eastt11/eastt-bbf eastt12/eastt-bck eastt3/eastt-de
@@ -1206,6 +1267,7 @@ Gc 1traps 36life eastt3/eastt-dg
 Gc 1traps 39life eastt10/eastt-baj
 2x Gc 1traps 40eg eastt11/eastt-bbf eastt11/eastt-bbh
 3x Gc 1traps 7frw eastt10/eastt-ban eastt12/eastt-bca eastt8/eastt-ic
+Gc 1warcries 10life eastt13/eastt-bdo
 4x Gc 1warcries 12fhr eastt1/eastt-bo eastt12/eastt-bcc eastt5/eastt-fe eastt7/eastt-hi
 2x Gc 1warcries 13life eastt3/eastt-dp eastt7/eastt-hp
 Gc 1warcries 15life eastt3/eastt-de
@@ -1251,13 +1313,15 @@ Gc 34life 57mana eastt11/eastt-bbo
 Gc 35life 28fr eastt4/eastt-en
 Gc 35life 50mana eastt13/eastt-bdj
 Gc 35life 52mana eastt4/eastt-eo
+Gc 36life 25fr eastt14/eastt-beg
+Gc 36life 59mana eastt14/eastt-bee
 Gc 37life 14@ eastt11/eastt-bbp
 Gc 37life 48mana eastt9/eastt-jd
 Gc 37life 52mana eastt7/eastt-hb
 Gc 37life 55mana eastt11/eastt-bbh
 Gc 37life 56mana eastt5/eastt-fi
 Gc 37life 59mana eastt9/eastt-jl
-Gc 38life 48mana eastt9/eastt-ji
+2x Gc 38life 48mana eastt14/eastt-bed eastt9/eastt-ji
 Gc 38life 53mana eastt13/eastt-bdg
 Gc 39life 28fr eastt7/eastt-ha
 2x Gc 39life 46mana eastt5/eastt-fc eastt7/eastt-hp
@@ -1282,8 +1346,9 @@ Gc 6str 59mana eastt5/eastt-fn
 Gc 7frw 50mana eastt9/eastt-jb
 4x Gc 7frw 51mana eastt10/eastt-bah eastt13/eastt-bdm eastt4/eastt-ek eastt6/eastt-gf
 Gc 7frw 52mana eastt4/eastt-eg
+Gc 7frw 53mana eastt14/eastt-bea
 Gc 7frw 54mana eastt5/eastt-fh
-2x Gc 7frw 55mana eastt2/eastt-cd eastt4/eastt-ed
+3x Gc 7frw 55mana eastt13/eastt-bdq eastt2/eastt-cd eastt4/eastt-ed
 3x Gc 7frw 56mana eastt13/eastt-bdm eastt4/eastt-ed eastt5/eastt-fh
 Gc 7frw 57mana eastt11/eastt-bbm
 2x Gc 7frw 58mana eastt10/eastt-bab eastt13/eastt-bdc
@@ -1295,13 +1360,14 @@ Gc LLD lvlreq15 7frw 25lr eastt8/eastt-if
 Gc LLD lvlreq16 12fhr 6maxdmg 22ar eastt13/eastt-bdj
 Gc LLD lvlreq16 12fhr 6maxdmg 26ar eastt12/eastt-bcc
 Gc LLD lvlreq16 12fhr 6maxdmg 29ar eastt8/eastt-ir
+Gc LLD lvlreq16 12fhr 6maxdmg 42ar eastt14/eastt-bee
 Gc LLD lvlreq16 12fhr 6maxdmg 43ar eastt10/eastt-bar
 Gc LLD lvlreq16 6maxdmg 22ar 18life eastt8/eastt-il
 Gc LLD lvlreq16 6maxdmg 22ar 6dex eastt12/eastt-bcg
 Gc LLD lvlreq16 6maxdmg 28ar 19life eastt10/eastt-bad
 Gc LLD lvlreq16 7frw 6maxdmg 22ar eastt11/eastt-bbf
 Gc LLD lvlreq16 7frw 6maxdmg 40ar eastt6/eastt-gd
-2x Gc LLD lvlreq18 12fhr 30mana eastt5/eastt-fh eastt8/eastt-im
+3x Gc LLD lvlreq18 12fhr 30mana eastt13/eastt-bdq eastt5/eastt-fh eastt8/eastt-im
 3x Gc LLD lvlreq18 12fhr 31mana eastt3/eastt-df eastt4/eastt-eq eastt8/eastt-im
 Gc LLD lvlreq18 12fhr 32mana eastt11/eastt-bbi
 Gc LLD lvlreq18 12fhr 33mana eastt11/eastt-bba
@@ -1313,6 +1379,7 @@ Gc LLD lvlreq18 6dex 30mana eastt10/eastt-bap
 Gc LLD lvlreq18 6dex 32mana eastt12/eastt-bcb
 Gc LLD lvlreq18 6dex 33mana eastt13/eastt-bdm
 2x Gc LLD lvlreq18 6str 31mana eastt2/eastt-cg eastt4/eastt-ef
+Gc LLD lvlreq18 6str 32mana eastt14/eastt-bea
 Gc LLD lvlreq18 7frw 30mana eastt8/eastt-ik
 3x Gc LLD lvlreq18 7frw 31mana eastt4/eastt-er eastt5/eastt-fj eastt9/eastt-jo
 2x Gc LLD lvlreq18 7frw 32mana eastt11/eastt-bbi eastt2/eastt-ck
@@ -1337,13 +1404,15 @@ Gc LLD lvlreq22 6str 30pr eastt13/eastt-bdm
 Gc LLD lvlreq22 7frw 30lr eastt4/eastt-eo
 Gc LLD lvlreq22 7frw 30pr eastt4/eastt-ej
 Gc LLD lvlreq23 10maxdmg 69ar 24life eastt9/eastt-ja
-Gc LLD lvlreq27 12fhr 15@ eastt10/eastt-bai
+Gc LLD lvlreq23 10maxdmg 74ar 21life eastt14/eastt-bef
+2x Gc LLD lvlreq27 12fhr 15@ eastt10/eastt-bai eastt13/eastt-bdr
 Gc LLD lvlreq27 6dex 15@ eastt12/eastt-bcc
 Gc LLD lvlreq29 12fhr 44mana eastt10/eastt-ban
 3x Gc LLD lvlreq29 12fhr 46mana eastt10/eastt-bao eastt2/eastt-cp eastt2/eastt-cr
 Gc LLD lvlreq29 19life 46mana eastt8/eastt-ip
 Gc LLD lvlreq29 20life 43mana eastt11/eastt-bbr
 Gc LLD lvlreq29 21life 45mana eastt12/eastt-bcn
+Gc LLD lvlreq29 23life 42mana eastt14/eastt-beg
 2x Gc LLD lvlreq29 23life 43mana eastt10/eastt-ban eastt3/eastt-di
 Gc LLD lvlreq29 23life 45mana eastt2/eastt-ch
 Gc LLD lvlreq29 24life 40mana eastt10/eastt-bad
@@ -1376,7 +1445,7 @@ Lc 34mana 21eg eastt7/eastt-hd
 Lc 34mana 22eg eastt3/eastt-do
 Lc 35life 30mana eastt11/eastt-bbk
 Lc 35life 8@ eastt9/eastt-ji
-5x Lc 5frw 34mana eastt11/eastt-bbb eastt13/eastt-bdh eastt3/eastt-de eastt8/eastt-ik eastt9/eastt-jl
+6x Lc 5frw 34mana eastt11/eastt-bbb eastt13/eastt-bdh eastt14/eastt-bef eastt3/eastt-de eastt8/eastt-ik eastt9/eastt-jl
 Lc 6maxdmg 21ar 35life eastt6/eastt-gc
 Lc 6maxdmg 23ar 32life eastt1/eastt-bt
 Lc 6maxdmg 24ar 31life eastt3/eastt-dj
@@ -1391,6 +1460,7 @@ Lc LLD lvlreq12 12life 10mana eastt6/eastt-gr
 Lc LLD lvlreq12 13life 11mana eastt8/eastt-ip
 Lc LLD lvlreq12 13life 12mana eastt9/eastt-jo
 2x Lc LLD lvlreq12 14life 12mana eastt10/eastt-bam eastt9/eastt-jl
+Lc LLD lvlreq12 14life 8mana eastt14/eastt-bee
 2x Lc LLD lvlreq12 14life 9mana eastt1/eastt-bf eastt1/eastt-bs
 2x Lc LLD lvlreq12 15life 10mana eastt12/eastt-bcm eastt9/eastt-jj
 Lc LLD lvlreq12 15life 8mana eastt12/eastt-bcl
@@ -1422,6 +1492,8 @@ Lc LLD lvlreq18 5frw 17mana eastt9/eastt-jc
 Lc LLD lvlreq18 5str 17mana eastt9/eastt-je
 Lc LLD lvlreq18 5str 18mana eastt10/eastt-baa
 Lc LLD lvlreq18 8fhr 18mana eastt6/eastt-ga
+Lc LLD lvlreq18 8life 15mana eastt14/eastt-bec
+Lc LLD lvlreq18 8life 16mana eastt14/eastt-bef
 Lc LLD lvlreq18 9life 16mana eastt10/eastt-bar
 Lc LLD lvlreq18 9life 17mana eastt12/eastt-bcn
 Lc LLD lvlreq21 5frw 6maxdmg 22ar eastt6/eastt-go
@@ -1450,6 +1522,7 @@ Lc LLD lvlreq25 20mana 22eg eastt1/eastt-bi
 Lc LLD lvlreq25 22mana 20eg eastt9/eastt-jl
 Lc LLD lvlreq25 23mana 21eg eastt11/eastt-bbk
 3x Lc LLD lvlreq25 5frw 20mana eastt5/eastt-fk eastt6/eastt-gg eastt8/eastt-ik
+Lc LLD lvlreq25 5frw 21mana eastt13/eastt-bdp
 5x Lc LLD lvlreq25 5frw 22mana eastt2/eastt-ca eastt5/eastt-fk eastt8/eastt-ir eastt9/eastt-jb eastt9/eastt-jm
 4x Lc LLD lvlreq25 5frw 23mana eastt10/eastt-bal eastt4/eastt-ee eastt4/eastt-ek eastt5/eastt-fr
 2x Lc LLD lvlreq25 5str 20mana eastt12/eastt-bcc eastt3/eastt-dr
@@ -1460,9 +1533,9 @@ Lc LLD lvlreq26 5frw 8@ eastt6/eastt-gq
 Lc LLD lvlreq27 20life 14lr eastt5/eastt-fm
 Lc LLD lvlreq27 20life 15lr eastt11/eastt-bbo
 Lc LLD lvlreq6 3dex 7mana eastt13/eastt-bdj
-2x Lc LLD lvlreq6 3str 7mana eastt4/eastt-er eastt7/eastt-hl
+3x Lc LLD lvlreq6 3str 7mana eastt14/eastt-bec eastt4/eastt-er eastt7/eastt-hl
 Lc LLD lvlreq9 10ar 15life eastt9/eastt-jp
-Lc LLD lvlreq9 10psndmg(over 3s) 15life eastt8/eastt-ie
+2x Lc LLD lvlreq9 10psndmg(over 3s) 15life eastt13/eastt-bdo eastt8/eastt-ie
 Lc LLD lvlreq9 11ar 15life eastt5/eastt-fg
 Lc LLD lvlreq9 12ar 15life eastt4/eastt-ea
 2x Lc LLD lvlreq9 14life 6mana eastt3/eastt-dm eastt9/eastt-jk
@@ -1494,9 +1567,10 @@ Sc 10lr 6eg eastt7/eastt-hh
 2x Sc 10lr 7mf eastt2/eastt-cb eastt9/eastt-jr
 Sc 10lr 8eg eastt8/eastt-ik
 2x Sc 10lr 9eg eastt11/eastt-bbb eastt9/eastt-ji
-Sc 10pr 7mf eastt6/eastt-gf
+2x Sc 10pr 7mf eastt14/eastt-beg eastt6/eastt-gf
 Sc 11ar 20life eastt2/eastt-ci
 2x Sc 11cr 10eg eastt12/eastt-bcj eastt3/eastt-dl
+Sc 11cr 7mf eastt13/eastt-bdr
 Sc 11fr 10eg eastt13/eastt-bdf
 3x Sc 11fr 6mf eastt12/eastt-bcj eastt12/eastt-bck eastt13/eastt-bdk
 Sc 11fr 7mf eastt12/eastt-bcc
@@ -1504,7 +1578,7 @@ Sc 11fr 7mf eastt12/eastt-bcc
 Sc 11fr 9eg eastt8/eastt-ib
 Sc 11life 10lr eastt11/eastt-bbo
 3x Sc 11life 11fr eastt10/eastt-bag eastt3/eastt-dj eastt9/eastt-jq
-2x Sc 11life 11lr eastt12/eastt-bcb eastt7/eastt-hq
+4x Sc 11life 11lr eastt12/eastt-bcb eastt14/eastt-beb eastt14/eastt-bef eastt7/eastt-hq
 Sc 11life 15mana eastt11/eastt-bbo
 2x Sc 11life 16mana eastt1/eastt-bs eastt3/eastt-di
 3x Sc 11life 17mana eastt11/eastt-bbh eastt7/eastt-hd eastt9/eastt-jd
@@ -1555,7 +1629,6 @@ Sc 16life 11pr eastt4/eastt-eg
 3x Sc 16life 13mana eastt11/eastt-bbo eastt3/eastt-dl eastt8/eastt-im
 Sc 16life 15mana eastt4/eastt-en
 3x Sc 16life 17mana eastt3/eastt-db eastt7/eastt-hl eastt8/eastt-ic
-3x Sc 16life 5@ eastt4/eastt-eg eastt5/eastt-fg eastt9/eastt-jc
 Sc 16life 9fr eastt7/eastt-hj
 Sc 16life 9lr eastt6/eastt-gl
 Sc 16mana 7mf eastt11/eastt-bbd
@@ -1568,18 +1641,17 @@ Sc 17life 11pr eastt11/eastt-bbr
 2x Sc 17life 12mana eastt11/eastt-bbh eastt7/eastt-hg
 Sc 17life 13mana eastt7/eastt-ha
 2x Sc 17life 14mana eastt11/eastt-bbl eastt8/eastt-io
-2x Sc 17life 15mana eastt11/eastt-bbj eastt11/eastt-bbp
+3x Sc 17life 15mana eastt11/eastt-bbj eastt11/eastt-bbp eastt13/eastt-bdp
 Sc 17life 16mana eastt13/eastt-bdh
 2x Sc 17life 17mana eastt5/eastt-fh eastt5/eastt-fm
-2x Sc 17life 5@ eastt3/eastt-db eastt4/eastt-ep
 2x Sc 17life 8mana eastt5/eastt-fi eastt6/eastt-gl
 4x Sc 17life 9fr eastt10/eastt-bah eastt4/eastt-eg eastt4/eastt-em eastt6/eastt-gk
 Sc 17life 9lr eastt12/eastt-bcm
 Sc 17life 9mana eastt9/eastt-jh
 Sc 17mana 7mf eastt5/eastt-fi
-3x Sc 18life 10cr eastt6/eastt-gd eastt8/eastt-ip eastt9/eastt-jc
+4x Sc 18life 10cr eastt14/eastt-bed eastt6/eastt-gd eastt8/eastt-ip eastt9/eastt-jc
 Sc 18life 10fr eastt8/eastt-ik
-Sc 18life 10lr eastt1/eastt-bs
+2x Sc 18life 10lr eastt1/eastt-bs eastt14/eastt-beb
 2x Sc 18life 10pr eastt1/eastt-bm eastt9/eastt-jr
 4x Sc 18life 11cr eastt4/eastt-ed eastt4/eastt-ej eastt5/eastt-fh eastt9/eastt-jg
 3x Sc 18life 11fr eastt12/eastt-bch eastt7/eastt-ho eastt9/eastt-jj
@@ -1617,8 +1689,9 @@ Sc 19life 9fr eastt11/eastt-bbo
 3x Sc 1dex 11pr eastt2/eastt-cl eastt2/eastt-cr eastt9/eastt-jm
 3x Sc 1str 11pr eastt1/eastt-bs eastt2/eastt-ce eastt4/eastt-ei
 Sc 2-3 colddmg 11pr eastt3/eastt-de
+Sc 20 def 15life eastt14/eastt-bea
 2x Sc 209psndmg(over 10s) eastt12/eastt-bcf eastt6/eastt-ge
-2x Sc 20life 10cr eastt12/eastt-bco eastt7/eastt-hd
+3x Sc 20life 10cr eastt12/eastt-bco eastt14/eastt-bef eastt7/eastt-hd
 4x Sc 20life 10lr eastt11/eastt-bbe eastt11/eastt-bbf eastt12/eastt-bcj eastt2/eastt-co
 2x Sc 20life 10pr eastt9/eastt-jb eastt9/eastt-jb
 2x Sc 20life 11cr eastt12/eastt-bco eastt2/eastt-cr
@@ -1629,7 +1702,7 @@ Sc 20life 11pr eastt10/eastt-baj
 Sc 20life 14mana eastt5/eastt-fh
 2x Sc 20life 16mana eastt11/eastt-bbm eastt5/eastt-fn
 Sc 20life 17mana eastt8/eastt-ip
-3x Sc 20life 5mana eastt13/eastt-bde eastt6/eastt-gr eastt9/eastt-jg
+4x Sc 20life 5mana eastt13/eastt-bde eastt13/eastt-bdo eastt6/eastt-gr eastt9/eastt-jg
 Sc 20life 6mana eastt9/eastt-jr
 Sc 20life 7fr eastt1/eastt-be
 Sc 20life 7lr eastt11/eastt-bbg
@@ -1638,25 +1711,26 @@ Sc 20life 7lr eastt11/eastt-bbg
 5x Sc 20life 8cr eastt12/eastt-bch eastt5/eastt-fm eastt6/eastt-go eastt8/eastt-il eastt9/eastt-ja
 4x Sc 20life 8fr eastt3/eastt-dq eastt5/eastt-fn eastt6/eastt-gp eastt8/eastt-ic
 4x Sc 20life 8lr eastt10/eastt-bai eastt3/eastt-dl eastt6/eastt-gk eastt7/eastt-hn
-2x Sc 20life 8pr eastt10/eastt-bac eastt6/eastt-gk
+3x Sc 20life 8pr eastt10/eastt-bac eastt14/eastt-bee eastt6/eastt-gk
 3x Sc 20life 9cr eastt2/eastt-co eastt7/eastt-hf eastt9/eastt-jq
 Sc 20life 9fr eastt7/eastt-hb
 Sc 20life 9lr eastt6/eastt-gj
 2x Sc 20life 9pr eastt11/eastt-bbm eastt13/eastt-bdj
-6x Sc 20life eastt1/eastt-br eastt1/eastt-br eastt1/eastt-bt eastt2/eastt-cb eastt2/eastt-cc eastt2/eastt-cq
+10x Sc 20life eastt1/east-bg eastt1/east-bg eastt1/east-bg eastt1/east-bg eastt1/eastt-br eastt1/eastt-br eastt1/eastt-bt eastt2/eastt-cb eastt2/eastt-cc eastt2/eastt-cq
 3x Sc 214psndmg(over 9s) eastt3/eastt-di eastt5/eastt-fl eastt6/eastt-gb
 2x Sc 21ar 20life eastt12/eastt-bck eastt9/eastt-jc
 4x Sc 251psndmg(over 10s) eastt3/eastt-dk eastt6/eastt-gr eastt7/eastt-hk eastt9/eastt-jr
 3x Sc 25ar 19life eastt10/eastt-bao eastt11/eastt-bbr eastt7/eastt-hi
+Sc 25ar 20life eastt13/eastt-bdq
 Sc 25psndmg(over 5s) 11pr eastt5/eastt-fq
-Sc 27ar 19life eastt3/eastt-dd
+2x Sc 27ar 19life eastt13/eastt-bdo eastt3/eastt-dd
 Sc 27ar 20life eastt9/eastt-jo
 Sc 28ar 19life eastt5/eastt-fq
 Sc 28ar 20life eastt10/eastt-bap
 9x Sc 2dex 11fr eastt12/eastt-bcc eastt12/eastt-bci eastt12/eastt-bcm eastt13/eastt-bdj eastt3/eastt-dj eastt5/eastt-fm eastt6/eastt-gf eastt6/eastt-go eastt7/eastt-ho
 3x Sc 2dex 11pr eastt1/eastt-bj eastt1/eastt-br eastt11/eastt-bbe
-6x Sc 2dex 17mana eastt11/eastt-bbo eastt2/eastt-cf eastt3/eastt-de eastt5/eastt-fj eastt7/eastt-hh eastt8/eastt-ip
-10x Sc 2str 11fr eastt1/eastt-bn eastt10/eastt-bab eastt12/eastt-bcf eastt13/eastt-bdc eastt13/eastt-bdl eastt3/eastt-df eastt3/eastt-do eastt4/eastt-ep eastt6/eastt-gk eastt8/eastt-ia
+7x Sc 2dex 17mana eastt11/eastt-bbo eastt13/eastt-bdr eastt2/eastt-cf eastt3/eastt-de eastt5/eastt-fj eastt7/eastt-hh eastt8/eastt-ip
+11x Sc 2str 11fr
 13x Sc 2str 11lr
 3x Sc 2str 11pr eastt3/eastt-dk eastt3/eastt-dm eastt4/eastt-ed
 9x Sc 2str 17mana eastt2/eastt-co eastt2/eastt-cr eastt5/eastt-fp eastt5/eastt-fq eastt6/eastt-gr eastt8/eastt-if eastt9/eastt-jl eastt9/eastt-jp eastt9/eastt-jq
@@ -1676,11 +1750,12 @@ Sc 3@ 7mf eastt5/eastt-fe
 19x Sc 3frw 100psndmg(over 5s)
 7x Sc 3frw 11cr eastt13/eastt-bdf eastt2/eastt-cm eastt2/eastt-co eastt3/eastt-dd eastt3/eastt-dg eastt9/eastt-jk eastt9/eastt-jl
 8x Sc 3frw 11fr eastt10/eastt-bap eastt2/eastt-cp eastt2/eastt-cr eastt3/eastt-dn eastt4/eastt-em eastt7/eastt-ho eastt9/eastt-jb eastt9/eastt-jo
-7x Sc 3frw 11lr eastt1/eastt-bn eastt2/eastt-cj eastt3/eastt-dp eastt4/eastt-em eastt5/eastt-fp eastt7/eastt-hd eastt8/eastt-ii
+8x Sc 3frw 11lr eastt1/eastt-bn eastt14/eastt-bef eastt2/eastt-cj eastt3/eastt-dp eastt4/eastt-em eastt5/eastt-fp eastt7/eastt-hd eastt8/eastt-ii
 6x Sc 3frw 11pr eastt10/eastt-bar eastt2/eastt-ch eastt4/eastt-em eastt5/eastt-fn eastt7/eastt-hg eastt8/eastt-ig
 3x Sc 3frw 17mana eastt10/eastt-bai eastt2/eastt-cc eastt6/eastt-gd
-2x Sc 3frw 35ar eastt10/eastt-baf eastt11/eastt-bbl
+3x Sc 3frw 35ar eastt10/eastt-baf eastt11/eastt-bbl eastt13/eastt-bdo
 2x Sc 3frw 36ar eastt3/eastt-dq eastt9/eastt-jk
+Sc 3maxdmg 10ar 18life eastt13/eastt-bdp
 Sc 3maxdmg 12ar 18life eastt7/eastt-hd
 Sc 3maxdmg 13ar 20life eastt7/eastt-hl
 Sc 3maxdmg 14ar 7mf eastt4/eastt-eh
@@ -1701,11 +1776,11 @@ Sc 5@ 6mf eastt6/eastt-gj
 6x Sc 5fhr 11fr eastt1/eastt-bn eastt12/eastt-bch eastt2/eastt-cq eastt3/eastt-dl eastt6/eastt-gk eastt9/eastt-jn
 8x Sc 5fhr 11lr eastt1/eastt-bk eastt11/eastt-bbo eastt12/eastt-bco eastt3/eastt-dj eastt3/eastt-dr eastt4/eastt-em eastt6/eastt-gq eastt8/eastt-if
 6x Sc 5fhr 11pr eastt10/eastt-ban eastt12/eastt-bcg eastt4/eastt-en eastt8/eastt-ic eastt8/eastt-ir eastt9/eastt-jj
-4x Sc 5fhr 13mana eastt12/eastt-bcd eastt12/eastt-bcm eastt4/eastt-eb eastt4/eastt-ek
+5x Sc 5fhr 13mana eastt12/eastt-bcd eastt12/eastt-bcm eastt13/eastt-bdo eastt4/eastt-eb eastt4/eastt-ek
 5x Sc 5fhr 14mana eastt10/eastt-bag eastt10/eastt-baj eastt7/eastt-he eastt9/eastt-ja eastt9/eastt-jm
-4x Sc 5fhr 15mana eastt11/eastt-bbh eastt4/eastt-eo eastt5/eastt-fn eastt7/eastt-hn
+5x Sc 5fhr 15mana eastt11/eastt-bbh eastt13/eastt-bdq eastt4/eastt-eo eastt5/eastt-fn eastt7/eastt-hn
 9x Sc 5fhr 16mana eastt1/eastt-bi eastt12/eastt-bcc eastt13/eastt-bdc eastt13/eastt-bde eastt13/eastt-bdl eastt2/eastt-cd eastt6/eastt-gi eastt8/eastt-ie eastt9/eastt-je
-7x Sc 5fhr 17mana eastt1/eastt-bg eastt13/eastt-bda eastt2/eastt-cn eastt4/eastt-ed eastt4/eastt-ei eastt5/eastt-fo eastt9/eastt-jm
+8x Sc 5fhr 17mana eastt1/eastt-bg eastt13/eastt-bda eastt14/eastt-bec eastt2/eastt-cn eastt4/eastt-ed eastt4/eastt-ei eastt5/eastt-fo eastt9/eastt-jm
 3x Sc 5fhr 35ar eastt6/eastt-gk eastt7/eastt-ho eastt9/eastt-jk
 2x Sc 5fhr 36ar eastt11/eastt-bbp eastt2/eastt-ck
 Sc 5life 10fr eastt11/eastt-bbb
@@ -1730,7 +1805,7 @@ Sc 9life 11fr eastt9/eastt-jj
 2x Sc 9life 16mana eastt11/eastt-bbe eastt5/eastt-fg
 3x Sc 9life 17mana eastt11/eastt-bbl eastt4/eastt-ep eastt7/eastt-hd
 5x Sc LLD lvlreq12 1dex 7mana eastt2/eastt-ck eastt6/eastt-ge eastt7/eastt-ho eastt8/eastt-ik eastt9/eastt-jr
-4x Sc LLD lvlreq12 1str 7mana eastt3/eastt-dh eastt3/eastt-dq eastt6/eastt-gb eastt9/eastt-jn
+5x Sc LLD lvlreq12 1str 7mana eastt14/eastt-bee eastt3/eastt-dh eastt3/eastt-dq eastt6/eastt-gb eastt9/eastt-jn
 9x Sc LLD lvlreq13 43psndmg(over 6s) eastt10/eastt-bag eastt11/eastt-bbe eastt3/eastt-df eastt4/eastt-eo eastt5/eastt-fi eastt5/eastt-fp eastt6/eastt-ge eastt6/eastt-gm eastt9/eastt-ja
 2x Sc LLD lvlreq15 2-4 colddmg 15psndmg(over 3s) eastt4/eastt-ei eastt6/eastt-gd
 2x Sc LLD lvlreq15 4 def 10life eastt3/eastt-db eastt3/eastt-df
@@ -1738,7 +1813,7 @@ Sc LLD lvlreq15 5 def 10life eastt3/eastt-dq
 Sc LLD lvlreq15 6 def 10life eastt2/eastt-cn
 2x Sc LLD lvlreq15 62psndmg(over 7s) eastt4/eastt-ei eastt9/eastt-jn
 Sc LLD lvlreq15 8 def 10life eastt4/eastt-ep
-2x Sc LLD lvlreq16 2str 7mana eastt10/eastt-bac eastt9/eastt-jr
+3x Sc LLD lvlreq16 2str 7mana eastt10/eastt-bac eastt14/eastt-bea eastt9/eastt-jr
 Sc LLD lvlreq17 1-11light dmg 13life eastt4/eastt-ei
 Sc LLD lvlreq17 1-11light dmg 14life eastt10/eastt-bal
 Sc LLD lvlreq17 1-6light dmg 15life eastt10/eastt-bap
@@ -1752,7 +1827,7 @@ Sc LLD lvlreq17 15life 5lr eastt2/eastt-cp
 2x Sc LLD lvlreq17 15life 5mana eastt13/eastt-bde eastt2/eastt-ck
 Sc LLD lvlreq17 15life 6fr eastt7/eastt-hl
 Sc LLD lvlreq17 15life 6mana eastt12/eastt-bck
-2x Sc LLD lvlreq17 15life 7fr eastt8/eastt-io eastt9/eastt-jr
+3x Sc LLD lvlreq17 15life 7fr eastt13/eastt-bdp eastt8/eastt-io eastt9/eastt-jr
 Sc LLD lvlreq17 15life 7lr eastt12/eastt-bcj
 Sc LLD lvlreq17 15life 7mana eastt4/eastt-eg
 4x Sc LLD lvlreq17 15psndmg(over 3s) 15life eastt13/eastt-bdk eastt4/eastt-ee eastt6/eastt-gq eastt9/eastt-jk
@@ -1780,7 +1855,7 @@ Sc LLD lvlreq20 9fr 8eg eastt4/eastt-en
 3x Sc LLD lvlreq20 9fr 9eg eastt10/eastt-bae eastt12/eastt-bcj eastt6/eastt-gb
 Sc LLD lvlreq20 9lr 10eg eastt13/eastt-bde
 4x Sc LLD lvlreq20 9lr 7eg eastt2/eastt-cj eastt6/eastt-gc eastt7/eastt-hq eastt8/eastt-ik
-3x Sc LLD lvlreq20 9lr 8eg eastt11/eastt-bbb eastt12/eastt-bcn eastt13/eastt-bda
+4x Sc LLD lvlreq20 9lr 8eg eastt11/eastt-bbb eastt12/eastt-bcn eastt13/eastt-bda eastt14/eastt-bed
 3x Sc LLD lvlreq20 9lr 9eg eastt10/eastt-bag eastt2/eastt-cd eastt7/eastt-hp
 Sc LLD lvlreq21 1maxdmg 11ar 13life eastt7/eastt-hk
 Sc LLD lvlreq21 1maxdmg 12ar 15life eastt2/eastt-cl
@@ -1790,7 +1865,7 @@ Sc LLD lvlreq21 1maxdmg 20ar 15life eastt8/eastt-ik
 Sc LLD lvlreq21 2maxdmg 15ar 15life eastt8/eastt-ib
 Sc LLD lvlreq21 3maxdmg 10ar 12life eastt6/eastt-gd
 Sc LLD lvlreq21 3maxdmg 10ar 15life eastt3/eastt-dg
-Sc LLD lvlreq21 3maxdmg 10ar 15psndmg(over 4s) eastt2/eastt-cq
+2x Sc LLD lvlreq21 3maxdmg 10ar 15psndmg(over 4s) eastt14/eastt-bec eastt2/eastt-cq
 3x Sc LLD lvlreq21 3maxdmg 10ar 2str eastt1/eastt-bg eastt12/eastt-bcb eastt5/eastt-fr
 2x Sc LLD lvlreq21 3maxdmg 11ar 10life eastt2/eastt-cc eastt7/eastt-hj
 Sc LLD lvlreq21 3maxdmg 11ar 14life eastt11/eastt-bbc
@@ -1831,9 +1906,9 @@ Sc LLD lvlreq24 14life 11mana eastt10/eastt-bae
 Sc LLD lvlreq24 14life 8mana eastt2/eastt-cc
 Sc LLD lvlreq24 15life 10mana eastt6/eastt-gn
 Sc LLD lvlreq24 15life 11mana eastt8/eastt-ib
-Sc LLD lvlreq24 15life 8mana eastt7/eastt-hj
+2x Sc LLD lvlreq24 15life 8mana eastt13/eastt-bdo eastt7/eastt-hj
 5x Sc LLD lvlreq24 25psndmg(over 5s) 12mana eastt12/eastt-bce eastt2/eastt-ch eastt2/eastt-cq eastt7/eastt-hp eastt9/eastt-jm
-4x Sc LLD lvlreq24 2dex 12mana eastt12/eastt-bcb eastt3/eastt-da eastt5/eastt-fq eastt6/eastt-gf
+6x Sc LLD lvlreq24 2dex 12mana eastt12/eastt-bcb eastt13/eastt-bdr eastt14/eastt-beb eastt3/eastt-da eastt5/eastt-fq eastt6/eastt-gf
 10x Sc LLD lvlreq24 2str 12mana eastt1/eastt-br eastt10/eastt-baq eastt11/eastt-bbo eastt2/eastt-cg eastt4/eastt-eq eastt5/eastt-fk eastt6/eastt-gc eastt6/eastt-gi eastt7/eastt-hh eastt8/eastt-id
 Sc LLD lvlreq24 3maxdmg 18ar 25psndmg(over 5s) eastt7/eastt-hj
 2x Sc LLD lvlreq24 8life 12mana eastt13/eastt-bdi eastt13/eastt-bdj
@@ -1846,13 +1921,14 @@ Sc LLD lvlreq25 1-7light dmg 5@ eastt12/eastt-bcq
 Sc LLD lvlreq25 15life 5@ eastt11/eastt-bbi
 Sc LLD lvlreq25 15psndmg(over 4s) 5@ eastt11/eastt-bba
 3x Sc LLD lvlreq25 1dex 5@ eastt2/eastt-ch eastt6/eastt-gm eastt7/eastt-hd
+Sc LLD lvlreq25 2-3 colddmg 5@ eastt13/eastt-bdp
 2x Sc LLD lvlreq25 25psndmg(over 5s) 5@ eastt11/eastt-bbm eastt13/eastt-bda
 Sc LLD lvlreq25 2str 5@ eastt8/eastt-ii
 Sc LLD lvlreq25 3-6 colddmg 5@ eastt5/eastt-fp
 Sc LLD lvlreq25 3maxdmg 16ar 1-17light dmg eastt4/eastt-em
 Sc LLD lvlreq25 3maxdmg 17ar 1-15light dmg eastt9/eastt-jm
 Sc LLD lvlreq25 4@ 10eg eastt9/eastt-jl
-22x Sc LLD lvlreq25 5@
+27x Sc LLD lvlreq25 5@
 Sc LLD lvlreq25 5@ 3mf eastt2/eastt-cp
 Sc LLD lvlreq25 5life 5@ eastt12/eastt-bcq
 7x Sc LLD lvlreq27 3frw 10mana eastt11/eastt-bbc eastt3/eastt-dk eastt3/eastt-dl eastt5/eastt-fh eastt7/eastt-hd eastt8/eastt-ia eastt9/eastt-jr
@@ -1865,7 +1941,7 @@ Sc LLD lvlreq27 3frw 3maxdmg 20ar eastt13/eastt-bdn
 3x Sc LLD lvlreq27 3frw 4@ eastt2/eastt-cp eastt5/eastt-fk eastt7/eastt-ha
 2x Sc LLD lvlreq27 3frw 5@ eastt13/eastt-bdd eastt5/eastt-fa
 3x Sc LLD lvlreq27 3frw 9cr eastt13/eastt-bdm eastt3/eastt-dl eastt4/eastt-ea
-8x Sc LLD lvlreq27 3frw 9fr eastt12/eastt-bcf eastt12/eastt-bci eastt13/eastt-bdj eastt2/eastt-cl eastt4/eastt-em eastt5/eastt-ff eastt5/eastt-fj eastt6/eastt-gf
+9x Sc LLD lvlreq27 3frw 9fr eastt12/eastt-bcf eastt12/eastt-bci eastt13/eastt-bdj eastt14/eastt-bea eastt2/eastt-cl eastt4/eastt-em eastt5/eastt-ff eastt5/eastt-fj eastt6/eastt-gf
 14x Sc LLD lvlreq27 3frw 9lr
 Sc LLD lvlreq28 15 def 15life eastt13/eastt-bdk
 Sc LLD lvlreq28 16 def 15life eastt12/eastt-bcc
@@ -1873,14 +1949,14 @@ Sc LLD lvlreq28 18 def 14life eastt5/eastt-fi
 3x Sc LLD lvlreq28 18 def 15life eastt12/eastt-bck eastt4/eastt-ee eastt6/eastt-gk
 Sc LLD lvlreq28 19 def 14life eastt5/eastt-fc
 2x Sc LLD lvlreq28 19 def 15life eastt2/eastt-cl eastt9/eastt-ja
-Sc LLD lvlreq28 20 def 13life eastt7/eastt-he
+2x Sc LLD lvlreq28 20 def 13life eastt14/eastt-beg eastt7/eastt-he
 4x Sc LLD lvlreq28 20 def 14life eastt10/eastt-bae eastt7/eastt-hf eastt9/eastt-jc eastt9/eastt-jm
 6x Sc LLD lvlreq29 5fhr 10mana eastt11/eastt-bbh eastt11/eastt-bbq eastt13/eastt-bde eastt3/eastt-df eastt3/eastt-dq eastt8/eastt-ip
 7x Sc LLD lvlreq29 5fhr 11mana eastt12/eastt-bcj eastt12/eastt-bcm eastt4/eastt-eq eastt6/eastt-gj eastt6/eastt-go eastt6/eastt-gr eastt7/eastt-hj
 7x Sc LLD lvlreq29 5fhr 12mana eastt10/eastt-bai eastt11/eastt-bbk eastt12/eastt-bck eastt2/eastt-cl eastt3/eastt-db eastt5/eastt-fh eastt5/eastt-fp
 2x Sc LLD lvlreq29 5fhr 3maxdmg 11ar eastt1/eastt-bl eastt10/eastt-bag
 Sc LLD lvlreq29 5fhr 3maxdmg 13ar eastt2/eastt-cf
-2x Sc LLD lvlreq29 5fhr 3maxdmg 17ar eastt1/eastt-bu eastt2/eastt-ci
+3x Sc LLD lvlreq29 5fhr 3maxdmg 17ar eastt1/eastt-bu eastt14/eastt-bec eastt2/eastt-ci
 4x Sc LLD lvlreq29 5fhr 4@ eastt11/eastt-bbc eastt4/eastt-ek eastt8/eastt-in eastt9/eastt-jb
 2x Sc LLD lvlreq29 5fhr 5@ eastt2/eastt-cp eastt8/eastt-ik
 7x Sc LLD lvlreq29 5fhr 9cr eastt1/eastt-bo eastt11/eastt-bbh eastt11/eastt-bbl eastt13/eastt-bdb eastt2/eastt-cf eastt4/eastt-eo eastt6/eastt-gm
@@ -1917,6 +1993,7 @@ Chain Boots 9def 30frw 8dex 35cr 37lr 12mf 1lightradius eastt1/eastt-bq
 Chain Boots 9def 40frw 37mana eastt5/eastt-fp
 Chain Boots 9def 40frw 40mana eastt10/eastt-bak
 Demonhide Boots 28def 40frw 31mana eastt3/eastt-dr
+Demonhide Boots 29def 30frw 34mana eastt13/eastt-bdr
 Demonhide Boots 30def 30frw 35mana eastt5/eastt-fa
 Demonhide Boots 34def 30frw 32mana eastt8/eastt-im
 gorerider Myrmidon Greaves 177def 187ed(def) 20maxstamina req-25 eastt13/eastt-bdg
@@ -1960,6 +2037,7 @@ Light Plated Boots 9def 20frw 7dex 39lr 27fr hfd eastt5/eastt-fi
 Light Plated Boots 9def 30frw 34mana 88slowerstaminadrain eastt1/eastt-bj
 Light Plated Boots 9def 30frw 34mana eastt8/eastt-ip
 Light Plated Boots 9def 30frw 40mana 87slowerstaminadrain eastt11/eastt-bbb
+Light Plated Boots 9def 40frw 32mana eastt13/eastt-bdr
 Low Quality Greaves 9def eastt13/eastt-bdd
 Low Quality Wyrmhide Boots 40def eastt4/eastt-ef
 Mesh Boots 37def 30frw 37mana eastt8/eastt-il
@@ -1979,6 +2057,7 @@ Sharkskin Boots 38def LLD lvlreq29 12 Chance to cast level 4 Bolt when struck 30
 Sharkskin Boots 50def LLD lvlreq29 30frw 27ed(def) 38cr 22lr 14mf eastt12/eastt-bce
 2x Silkweave Mesh Boots 130def 30frw 190ed(def) 200 defvsmissile maxmana 10 5manaaftereachkill eastt2/eastt-cn eastt9/eastt-jb
 War Boots 44def 30frw 34mana eastt9/eastt-jc
+War Boots 46def LLD lvlreq29 30frw 10fhr 29cr 15lr 33fr 8mf eastt14/eastt-beg
 War Boots 48def 40frw 20mana eastt12/eastt-bcg
 War Boots 49def LLD lvlreq29 30frw 10fhr 5dex 23pr eastt13/eastt-bdg
 War Boots 51def 40frw 34mana eastt13/eastt-bdg
@@ -2079,7 +2158,7 @@ Great Helm of the Sun 32def LLD lvlreq18 5ar 1 Bonusar (based on clvl) 5lightrad
 Griffon Headdress 117def LLD lvlreq30 12 Chance to cast level 4 Nova when struck 2shapeshiftsk 3 to Rage 71ed(def) 12life selfrep eastt13/eastt-bdf
 Griffon Headdress 46def LLD lvlreq30 3fury 3heartofwolverine eastt5/eastt-fp
 Griffon Headdress 57def LLD lvlreq30 2shockwave 3 to Carrion Vine 3sox eastt9/eastt-jp
-4x Grim Helm 187def LLD lvlreq25 ETH 2sox eastt11/eastt-bbp eastt2/eastt-cj eastt7/eastt-ho eastt8/eastt-ie
+5x Grim Helm 187def LLD lvlreq25 ETH 2sox eastt11/eastt-bbp eastt13/eastt-bdq eastt2/eastt-cj eastt7/eastt-ho eastt8/eastt-ie
 4x Grim Helm 187def LLD lvlreq25 ETH eastt10/eastt-bar eastt12/eastt-bck eastt6/eastt-gd eastt7/eastt-ho
 Grim Helm 370def LLD lvlreq27 96ed(def) selfrep ETH eastt10/eastt-bah
 2x Grim Helm 372def LLD lvlreq27 97ed(def) selfrep ETH eastt10/eastt-bal eastt11/eastt-bbc
@@ -2094,6 +2173,7 @@ Helmet 93def 3grimward 3bo 1 to Increased Speed eastt1/eastt-bk
 Horned Helm 26def LLD lvlreq30 1masteries(barb) 10fhr 3naturalresistance 3whirlwind 2 to Shout eastt5/eastt-fj
 Horned Helm 27def LLD lvlreq30 1 to War Cry 3whirlwind 1grimward 38life eastt13/eastt-bdk
 Horned Helm 28def LLD lvlreq12 eastt5/eastt-fm
+Horned Helm 28def LLD lvlreq30 3whirlwind 2 to Taunt 2sox eastt14/eastt-bee
 Horned Helm 30def LLD lvlreq24 3bo 3 to Increased Speed 2battlecry eastt4/eastt-ea
 Horned Helm 30def LLD lvlreq30 1 to War Cry 3whirlwind 1grimward 8life eastt9/eastt-jr
 Hunters Guise 69def LLD lvlreq29 1druidskills 10fhr 3shockwave 2solarcreeper 3 to Carrion Vine eastt13/eastt-bdb
@@ -2110,12 +2190,14 @@ Jawbone Cap 10def LLD lvlreq30 10fhr 3whirlwind 1bo eastt9/eastt-jf
 Jawbone Cap 11def LLD lvlreq30 1battlecommand 3whirlwind 1bo eastt1/eastt-bj
 Jawbone Cap 12def LLD lvlreq6 3 to Shout eastt8/eastt-ic
 Jawbone Visor 57def LLD lvlreq30 2whirlwind 2bo eastt9/eastt-ji
+Jawbone Visor 59def LLD lvlreq30 2warcries 1naturalresistance 3bo 2 to Increased Speed 15energy eastt14/eastt-bea
 Jawbone Visor 63def LLD lvlreq25 3bo 2 to Increased Speed eastt3/eastt-dl
 Jawbone Visor 64def LLD lvlreq25 1grimward 3bo 1 to Increased Speed eastt1/eastt-bk
 Jawbone Visor 67def LLD lvlreq30 1battlecommand 2whirlwind 1bo eastt4/eastt-eh
 Lion Helm 63def LLD lvlreq29 3bo 1 to Increased Speed eastt1/eastt-bt
 Lion Helm 64def LLD lvlreq29 3bo 2 to Increased Speed eastt2/eastt-cn
 Lion Helm 65def LLD lvlreq29 3bo 1 to Increased Speed eastt3/eastt-dp
+Lion Helm 66def LLD lvlreq30 1barbskills 2 to War Cry 3bo eastt14/eastt-beb
 Lion Helm 70def LLD lvlreq30 1naturalresistance 3bo 2 to Increased Speed 3sox eastt4/eastt-eg
 Lion Helm 71def LLD lvlreq29 3bo 1 to Increased Speed eastt1/eastt-bs
 Mask of the Sun 21def LLD lvlreq18 5ar 1 Bonusar (based on clvl) 5lightradius eastt1/eastt-bt
@@ -2130,7 +2212,7 @@ Rage Mask 87def LLD lvlreq29 1barbskills 3bo 1 to Increased Speed 2 to Shout eas
 Rockstopper Sallet 166def 30fhr 165ed(def) 15vita 34cr 23lr 42fr 10damred eastt8/eastt-ip
 Rockstopper Sallet 177def 30fhr 181ed(def) 15vita 21cr 22lr 39fr 10damred eastt13/eastt-bde
 Rockstopper Sallet 181def 30fhr 188ed(def) 15vita 38cr 20lr 21fr 10damred eastt11/eastt-bbf
-Shako 100def unid eastt3/eastt-dc
+2x Shako 100def unid eastt13/eastt-bdr eastt3/eastt-dc
 Shako 101def unid eastt10/eastt-bad
 Shako 102def unid eastt4/eastt-ei
 2x Shako 103def unid eastt11/eastt-bbh eastt4/eastt-en
@@ -2139,7 +2221,7 @@ Shako 105def unid eastt5/eastt-ff
 Shako 106def unid eastt11/eastt-bbj
 Shako 111def unid eastt1/eastt-be
 2x Shako 112def unid eastt4/eastt-eg eastt5/eastt-fc
-Shako 113def unid eastt5/eastt-fp
+2x Shako 113def unid eastt14/eastt-beg eastt5/eastt-fp
 Shako 114def unid eastt12/eastt-bch
 Shako 116def unid eastt9/eastt-jr
 Shako 118def unid eastt4/eastt-eh
@@ -2150,7 +2232,7 @@ Shako 121def unid eastt8/eastt-ir
 Shako 122def unid eastt7/eastt-hd
 Shako 124def unid eastt3/eastt-dk
 Shako 127def unid eastt10/eastt-bam
-3x Shako 128def unid eastt7/eastt-hg eastt8/eastt-ij eastt8/eastt-im
+4x Shako 128def unid eastt14/eastt-bec eastt7/eastt-hg eastt8/eastt-ij eastt8/eastt-im
 Shako 129def unid eastt11/eastt-bbc
 3x Shako 131def unid eastt11/eastt-bbc eastt6/eastt-gh eastt9/eastt-jq
 Shako 132def unid eastt9/eastt-ja
@@ -2182,12 +2264,14 @@ Superior Antlers 23def LLD lvlreq24 2 to Hunger 3 to Carrion Vine 12dura 3sox ea
 Superior Antlers 24def LLD lvlreq30 1hurricane 3fury 1 to Rabies 12dura eastt7/eastt-hn
 Superior Antlers 26def LLD lvlreq12 1 to Maul 3 to Carrion Vine 5ed(def) eastt2/eastt-cg
 Superior Antlers 26def LLD lvlreq12 3 to Carrion Vine 5ed(def) eastt3/eastt-dh
+Superior Antlers 26def LLD lvlreq12 3 to Carrion Vine 6ed(def) 14dura eastt14/eastt-bea
 Superior Antlers 26def LLD lvlreq12 3 to Carrion Vine 7ed(def) 14dura eastt7/eastt-hh
 Superior Antlers 26def LLD lvlreq18 1 to Twister 3 to Carrion Vine 6ed(def) 14dura eastt9/eastt-jm
 Superior Antlers 27def LLD lvlreq30 3fury 1 to Volcano 1heartofwolverine 11ed(def) eastt9/eastt-ji
 Superior Antlers 27def LLD lvlreq30 3fury 2 to Rabies 9ed(def) 15dura eastt4/eastt-eq
 Superior Antlers 28def LLD lvlreq12 3 to Carrion Vine 13ed(def) 10dura 3sox eastt3/eastt-dn
 Superior Antlers 28def LLD lvlreq12 3 to Carrion Vine 13ed(def) 14dura 2sox eastt12/eastt-bch
+Superior Antlers 28def LLD lvlreq12 3 to Carrion Vine 14ed(def) 2sox eastt13/eastt-bdp
 Superior Assault Helmet 35def LLD lvlreq30 2whirlwind 3grimward 10dura eastt3/eastt-di
 Superior Assault Helmet 38def LLD lvlreq24 3bo 1 to Increased Speed 7ed(def) eastt3/eastt-dm
 Superior Assault Helmet 38def LLD lvlreq30 1naturalresistance 3whirlwind 1battlecry 6ed(def) 15dura eastt3/eastt-dq
@@ -2216,12 +2300,13 @@ Superior Fanged Helm 22def LLD lvlreq6 3 to Shout 9ed(def) eastt11/eastt-bbo
 Superior Fanged Helm 23def LLD lvlreq18 2 to Skin 3 to Leap Attack 12ed(def) eastt4/eastt-ek
 Superior Fanged Helm 23def LLD lvlreq24 3bo 1 to Increased Speed 2 to Find Item 14ed(def) 10dura eastt2/eastt-cb
 Superior Fanged Helm 23def LLD lvlreq30 1battlecommand 3bo 1 to Increased Speed 13ed(def) 12dura eastt3/eastt-dg
+Superior Fanged Helm 23def LLD lvlreq6 3 to Shout 10ed(def) eastt13/eastt-bdo
 Superior Fanged Helm 23def LLD lvlreq6 3 to Shout 13ed(def) 10dura 3sox eastt2/eastt-ck
 Superior Fanged Helm 23def LLD lvlreq6 3 to Shout 14ed(def) eastt9/eastt-jm
-23x Superior Great Helm 41def 15ed(def)
+25x Superior Great Helm 41def 15ed(def)
 Superior Great Helm 41def 15ed(def) 15dura 3sox eastt11/eastt-bbm
 6x Superior Great Helm 41def 15ed(def) 15dura eastt1/eastt-bh eastt1/eastt-bh eastt10/eastt-bad eastt4/eastt-ee eastt6/eastt-ge eastt7/eastt-hp
-7x Superior Great Helm 41def 15ed(def) 3sox eastt1/eastt-bk eastt10/eastt-bak eastt10/eastt-bam eastt12/eastt-bck eastt5/eastt-fb eastt7/eastt-he eastt7/eastt-hh
+8x Superior Great Helm 41def 15ed(def) 3sox eastt1/eastt-bk eastt10/eastt-bak eastt10/eastt-bam eastt12/eastt-bck eastt14/eastt-bef eastt5/eastt-fb eastt7/eastt-he eastt7/eastt-hh
 Superior Griffon Headdress 75def LLD lvlreq30 3 to Carrion Vine 10ed(def) 3sox eastt4/eastt-ed
 Superior Hawk Helm 10def LLD lvlreq30 3fury 2heartofwolverine 14dura eastt9/eastt-ja
 Superior Hawk Helm 11def LLD lvlreq12 3 to Carrion Vine 11dura eastt2/eastt-ce
@@ -2254,6 +2339,7 @@ Superior Jawbone Cap 16def LLD lvlreq6 3 to Shout 5ed(def) eastt11/eastt-bbj
 Superior Jawbone Cap 17def LLD lvlreq30 2naturalresistance 3whirlwind 1battlecry 9ed(def) 14dura eastt4/eastt-ek
 Superior Jawbone Cap 17def LLD lvlreq30 3naturalresistance 2whirlwind 10ed(def) 14dura eastt5/eastt-fl
 Superior Jawbone Cap 17def LLD lvlreq6 3 to Shout 1 to Taunt 12ed(def) 3sox eastt12/eastt-bcd
+Superior Jawbone Cap 17def LLD lvlreq6 3 to Shout 12ed(def) eastt13/eastt-bdr
 Superior Jawbone Cap 17def LLD lvlreq6 3 to Shout 7ed(def) 11dura eastt6/eastt-go
 Superior Jawbone Cap 18def LLD lvlreq3 13ed(def) 1sox eastt7/eastt-hp
 Superior Jawbone Visor 68def LLD lvlreq25 3bo 1 to Increased Speed 2battlecry 15dura eastt3/eastt-di
@@ -2264,6 +2350,7 @@ Superior Wolf Head 11def LLD lvlreq12 3 to Carrion Vine 15dura eastt6/eastt-gg
 Superior Wolf Head 11def LLD lvlreq18 2 to Twister 3 to Carrion Vine 10dura eastt5/eastt-fd
 Superior Wolf Head 11def LLD lvlreq18 3fireclaws 3heartofwolverine 15dura eastt11/eastt-bbe
 Superior Wolf Head 11def LLD lvlreq24 2 to Hunger 3 to Carrion Vine 11dura 3sox eastt4/eastt-eg
+Superior Wolf Head 12def LLD lvlreq12 3 to Carrion Vine 6ed(def) 15dura eastt14/eastt-bef
 Superior Wolf Head 13def LLD lvlreq12 3 to Carrion Vine 13ed(def) eastt7/eastt-hb
 Superior Wolf Head 13def LLD lvlreq12 3 to Carrion Vine 15ed(def) 3sox eastt7/eastt-he
 Superior Wolf Head 13def LLD lvlreq12 3 to Carrion Vine 9ed(def) 14dura eastt12/eastt-bcg
@@ -2293,6 +2380,8 @@ Vampire Gaze Grim Helm 252def 6-22 colddmg 6ml 8ll 100ed(def) 15slowerstaminadra
 Vampire Gaze Grim Helm 252def 6-22 colddmg 6ml 8ll 100ed(def) 15slowerstaminadrain 19damred 13mdr eastt4/eastt-el
 Vampire Gaze Grim Helm 252def 6-22 colddmg 7ml 6ll 100ed(def) 15slowerstaminadrain 18damred 14mdr eastt13/eastt-bdn
 Vampire Gaze Grim Helm 252def 6-22 colddmg 7ml 7ll 100ed(def) 15slowerstaminadrain 17damred 15mdr eastt1/eastt-bo
+Vampire Gaze Grim Helm 252def 6-22 colddmg 7ml 7ll 100ed(def) 15slowerstaminadrain 18damred 13mdr eastt14/eastt-bef
+Vampire Gaze Grim Helm 252def 6-22 colddmg 7ml 7ll 100ed(def) 15slowerstaminadrain 19damred 11mdr eastt14/eastt-bea
 Vampire Gaze Grim Helm 252def 6-22 colddmg 7ml 7ll 100ed(def) 15slowerstaminadrain 19damred 13mdr eastt5/eastt-fl
 Vampire Gaze Grim Helm 252def 6-22 colddmg 7ml 8ll 100ed(def) 15slowerstaminadrain 16damred 12mdr eastt8/eastt-ia
 Vampire Gaze Grim Helm 252def 6-22 colddmg 7ml 8ll 100ed(def) 15slowerstaminadrain 20damred 10mdr eastt13/eastt-bdb
@@ -2322,6 +2411,7 @@ Circlet 20def 30frw 26ed 6ll 18pr lvl4 Frost Nova (24/30 Charges) eastt6/eastt-g
 Circlet 20def 3offauras 30frw eastt7/eastt-ho
 Circlet 20def 3pnbskills 20fcr eastt5/eastt-fj
 Circlet 20def LLD lvlreq16 1dudusummoningskills 10frw eastt7/eastt-ha
+Circlet 20def LLD lvlreq29 1barbskills 30frw eastt14/eastt-beb
 Circlet 20def LLD lvlreq29 1palaskills 30frw eastt11/eastt-bbd
 Circlet 20def LLD lvlreq29 30frw 106ar eastt11/eastt-bbg
 Circlet 21def 3necsummoningskills 30frw eastt5/eastt-fi
@@ -2350,6 +2440,7 @@ Circlet 26def LLD lvlreq18 1ar (based on clvl) 20life eastt2/eastt-cc
 Circlet 26def LLD lvlreq27 1assaskills 20fcr eastt1/eastt-bo
 Circlet 26def LLD lvlreq29 1barbskills 30frw eastt11/eastt-bbk
 Circlet 26def LLD lvlreq29 1palaskills 30frw eastt13/eastt-bdh
+Circlet 26def LLD lvlreq30 1palaskills 76life eastt13/eastt-bdo
 Circlet 26def LLD lvlreq30 2fireskills 20fcr eastt7/eastt-hi
 Circlet 27def 3passivandmagicskills 30frw eastt11/eastt-bbi
 Circlet 27def LLD lvlreq18 20frw 22ed 17-34firedmg 9energy eastt4/eastt-ei
@@ -2393,6 +2484,7 @@ Coronet 36def 2amaskills 20fcr eastt11/eastt-bba
 Coronet 36def 3eleskills 20fcr eastt6/eastt-gg
 Coronet 36def 3offauras 20fcr eastt4/eastt-ee
 Coronet 37def 3necsummoningskills 30frw eastt11/eastt-bbm
+Coronet 38def 2offauras 20fcr 19-47firedmg 39life 11@ eastt13/eastt-bdp
 Coronet 49def dura: 0 of 16 2lightningskill ETH eastt6/eastt-gj
 Coronet 50def 2coldskills 30frw 20fcr 22ed(def) 48life 15@ eastt8/eastt-io
 Coronet 57def dura: 0 of 16 66life ETH eastt1/eastt-bl
@@ -2450,6 +2542,7 @@ Balrog Skin 1036def ETH 4sox eastt9/eastt-jq
 Balrog Skin 1041def ETH 4sox eastt6/eastt-gr
 Balrog Skin 1044def ETH 4sox eastt8/eastt-ig
 Balrog Skin 1045def ETH 3sox eastt6/eastt-gi
+Balrog Skin 1048def ETH 3sox eastt14/eastt-bee
 Balrog Skin 1048def ETH 4sox eastt5/eastt-fa
 Balrog Skin 1050def ETH 3sox eastt10/eastt-ban
 Balrog Skin 1053def ETH 4sox eastt7/eastt-hi
@@ -2460,6 +2553,7 @@ Balrog Skin 1063def ETH 1sox eastt3/eastt-dg
 Balrog Skin 1071def ETH 4sox eastt5/eastt-fg
 Balrog Skin 1080def ETH 3sox eastt9/eastt-jb
 Balrog Skin 1080def ETH 4sox eastt3/eastt-dq
+Balrog Skin 1081def ETH 4sox eastt14/eastt-bea
 Balrog Skin 1086def ETH 4sox eastt5/eastt-fk
 Balrog Skin 1090def ETH 4sox eastt8/eastt-if
 Balrog Skin 1093def ETH 3sox eastt5/eastt-fd
@@ -2474,6 +2568,7 @@ Balrog Skin 1135def ETH 4sox eastt6/eastt-gc
 2x Balrog Skin 1140def ETH 4sox eastt10/eastt-bab eastt12/eastt-bci
 Balrog Skin 1143def ETH 3sox eastt6/eastt-gl
 Balrog Skin 1143def ETH 4sox eastt5/eastt-fe
+Balrog Skin 1149def ETH 4sox eastt14/eastt-bee
 3x Balrog Skin 1152def ETH 4sox eastt1/eastt-bn eastt11/eastt-bbf eastt9/eastt-je
 Balrog Skin 1153def ETH 3sox eastt2/eastt-ci
 Balrog Skin 1153def ETH 4sox eastt2/eastt-cj
@@ -2483,6 +2578,7 @@ Balrog Skin 1158def ETH 3sox eastt8/eastt-iq
 Balrog Skin 1161def ETH 4sox eastt4/eastt-el
 Balrog Skin 1162def ETH 4sox eastt7/eastt-hr
 Balrog Skin 931def ETH 4sox eastt5/eastt-fq
+Balrog Skin 933def ETH 4sox eastt14/eastt-beg
 Balrog Skin 976def ETH 4sox eastt6/eastt-gj
 Black Hades Chaos Armor 1542def 59damagetodemons 248ar againstdemons 200ed(def) hfd -2lightradius ETH 3sox eastt7/eastt-hg
 Boneweave 1000def ETH 4sox eastt10/eastt-bag
@@ -2491,6 +2587,7 @@ Boneweave 1009def ETH 4sox eastt12/eastt-bcc
 Boneweave 1014def ETH 3sox eastt11/eastt-bbg
 Boneweave 1018def ETH 4sox eastt6/eastt-gf
 Boneweave 1026def ETH 4sox eastt4/eastt-ef
+Boneweave 1027def ETH 3sox eastt14/eastt-bed
 Boneweave 1027def ETH 4sox eastt4/eastt-eq
 Boneweave 1035def ETH 3sox eastt1/eastt-bo
 Boneweave 1036def ETH 4sox eastt2/eastt-cp
@@ -2501,10 +2598,11 @@ Boneweave 1044def ETH 4sox eastt10/eastt-bai
 3x Boneweave 1045def ETH 4sox eastt10/eastt-bar eastt12/eastt-bcc eastt8/eastt-ig
 Boneweave 1050def ETH 4sox eastt12/eastt-bcp
 Boneweave 1053def ETH 4sox eastt10/eastt-bak
+Boneweave 1054def ETH 1sox eastt14/eastt-beg
 Boneweave 1054def ETH 4sox eastt12/eastt-bcq
 Boneweave 1062def ETH 3sox eastt11/eastt-bba
 Boneweave 1071def ETH 3sox eastt11/eastt-bbb
-Boneweave 1072def ETH 3sox eastt5/eastt-fh
+2x Boneweave 1072def ETH 3sox eastt14/eastt-bec eastt5/eastt-fh
 2x Boneweave 1077def ETH 4sox eastt4/eastt-ee eastt4/eastt-ef
 2x Boneweave 1084def ETH 4sox eastt2/eastt-cn eastt2/eastt-co
 Boneweave 1086def ETH 4sox eastt6/eastt-ga
@@ -2544,6 +2642,7 @@ Dusk Shroud 1023def ETH 2sox eastt4/eastt-ec
 Dusk Shroud 1023def ETH 4sox eastt5/eastt-fp
 Dusk Shroud 1026def ETH 3sox eastt13/eastt-bdj
 2x Dusk Shroud 1026def ETH 4sox eastt8/eastt-in eastt8/eastt-ip
+Dusk Shroud 1027def ETH 3sox eastt14/eastt-beb
 2x Dusk Shroud 1027def ETH 4sox eastt3/eastt-dc eastt6/eastt-gd
 Dusk Shroud 1030def ETH 4sox eastt12/eastt-bca
 Dusk Shroud 1032def ETH 3sox eastt7/eastt-hm
@@ -2555,7 +2654,8 @@ Dusk Shroud 1044def ETH 4sox eastt1/eastt-bt
 Dusk Shroud 1048def ETH 4sox eastt5/eastt-fh
 2x Dusk Shroud 1050def ETH 3sox eastt5/eastt-fa eastt5/eastt-fa
 Dusk Shroud 1050def ETH 4sox eastt10/eastt-bae
-9x Dusk Shroud 467def 3sox eastt10/eastt-bal eastt12/eastt-bcm eastt5/eastt-fe eastt5/eastt-fh eastt6/eastt-gb eastt6/eastt-ge eastt6/eastt-gn eastt6/eastt-gr eastt9/eastt-jm
+10x Dusk Shroud 467def 3sox eastt10/eastt-bal eastt12/eastt-bcm eastt14/eastt-beb eastt5/eastt-fe eastt5/eastt-fh eastt6/eastt-gb eastt6/eastt-ge eastt6/eastt-gn eastt6/eastt-gr eastt9/eastt-jm
+Dusk Shroud 846def ETH 4sox eastt13/eastt-bdq
 Dusk Shroud 870def ETH 2sox eastt9/eastt-jm
 Dusk Shroud 931def ETH 4sox eastt5/eastt-fo
 Dusk Shroud 937def ETH 1sox eastt5/eastt-fq
@@ -2587,7 +2687,7 @@ Great Hauberk 1066def ETH 4sox eastt5/eastt-fi
 Great Hauberk 1077def ETH 4sox eastt7/eastt-hq
 2x Great Hauberk 1081def ETH 3sox eastt12/eastt-bcn eastt13/eastt-bde
 Great Hauberk 1081def ETH 4sox eastt10/eastt-bac
-Great Hauberk 1084def ETH 4sox eastt12/eastt-bco
+2x Great Hauberk 1084def ETH 4sox eastt12/eastt-bco eastt13/eastt-bdr
 Great Hauberk 1086def ETH 3sox eastt2/eastt-cg
 Great Hauberk 1090def ETH 3sox eastt3/eastt-dp
 2x Great Hauberk 1095def ETH 4sox eastt13/eastt-bdj eastt8/eastt-iq
@@ -2599,6 +2699,7 @@ Great Hauberk 1116def ETH 4sox eastt6/eastt-ga
 2x Great Hauberk 1120def ETH 4sox eastt5/eastt-fm eastt7/eastt-hf
 Great Hauberk 1125def ETH 4sox eastt7/eastt-hg
 2x Great Hauberk 501def 3sox eastt2/eastt-cq eastt4/eastt-ei
+Great Hauberk 747def ETH eastt13/eastt-bdr
 Great Hauberk 951def ETH 1sox eastt13/eastt-bdf
 Great Hauberk 960def ETH 4sox eastt1/eastt-br
 Hellforge Plate 1000def ETH 4sox eastt9/eastt-jh
@@ -2616,6 +2717,7 @@ Hellforge Plate 1018def ETH 4sox eastt11/eastt-bbo
 Hellforge Plate 1021def ETH 4sox eastt13/eastt-bda
 Hellforge Plate 1026def ETH 4sox eastt3/eastt-de
 Hellforge Plate 1030def ETH 3sox eastt2/eastt-cb
+Hellforge Plate 1032def ETH 4sox eastt14/eastt-beg
 Hellforge Plate 1036def ETH 4sox eastt9/eastt-jd
 Hellforge Plate 1041def ETH 3sox eastt1/eastt-br
 Hellforge Plate 1044def ETH 3sox eastt2/eastt-ci
@@ -2629,6 +2731,7 @@ Hellforge Plate 1084def ETH 4sox eastt6/eastt-ga
 2x Hellforge Plate 1089def ETH 4sox eastt2/eastt-ch eastt7/eastt-hd
 Hellforge Plate 1093def ETH 4sox eastt12/eastt-bcr
 Hellforge Plate 1095def ETH 4sox eastt12/eastt-bcj
+Hellforge Plate 1099def ETH 4sox eastt14/eastt-bee
 Hellforge Plate 1104def ETH 3sox eastt6/eastt-gb
 2x Hellforge Plate 1104def ETH 4sox eastt10/eastt-bad eastt5/eastt-fa
 Hellforge Plate 1108def ETH 3sox eastt6/eastt-gg
@@ -2646,7 +2749,7 @@ Hellforge Plate 1149def ETH 4sox eastt10/eastt-bap
 Hellforge Plate 1153def ETH 4sox eastt7/eastt-hk
 3x Hellforge Plate 1161def ETH 4sox eastt10/eastt-bam eastt4/eastt-eb eastt9/eastt-jr
 Hellforge Plate 1167def ETH 3sox eastt5/eastt-fo
-Hellforge Plate 1167def ETH 4sox eastt10/eastt-baa
+2x Hellforge Plate 1167def ETH 4sox eastt10/eastt-baa eastt14/eastt-bef
 Hellforge Plate 1171def ETH 4sox eastt11/eastt-bbj
 Hellforge Plate 1174def ETH 4sox eastt11/eastt-bbd
 Hellforge Plate 1176def ETH 4sox eastt12/eastt-bcc
@@ -2675,6 +2778,7 @@ Loricated Mail 1045def ETH 3sox eastt9/eastt-jf
 Loricated Mail 1050def ETH 3sox eastt11/eastt-bbe
 Loricated Mail 1050def ETH 4sox eastt6/eastt-gb
 Loricated Mail 1054def ETH 3sox eastt3/eastt-dg
+Loricated Mail 1059def ETH 3sox eastt14/eastt-bea
 Loricated Mail 1062def ETH 3sox eastt7/eastt-hh
 2x Loricated Mail 1062def ETH 4sox eastt11/eastt-bbp eastt7/eastt-ha
 Loricated Mail 1063def ETH 3sox eastt4/eastt-ej
@@ -2707,18 +2811,20 @@ Mail 1000def ETH 3sox eastt7/eastt-hb
 Mail 1008def ETH 3sox eastt8/eastt-ik
 Mail 1008def ETH 4sox eastt12/eastt-bcn
 Mail 1009def ETH 3sox eastt6/eastt-gn
-Mail 1012def ETH 4sox eastt13/eastt-bdk
+2x Mail 1012def ETH 4sox eastt13/eastt-bdk eastt14/eastt-beb
 2x Mail 1017def ETH 4sox eastt1/eastt-bp eastt9/eastt-ja
 Mail 1018def ETH 4sox eastt1/eastt-bq
 Mail 1026def ETH 3sox eastt8/eastt-ig
 3x Mail 1027def ETH 4sox eastt11/eastt-bbm eastt2/eastt-ci eastt7/eastt-ha
 Mail 1032def ETH 4sox eastt12/eastt-bcc
+Mail 1041def ETH 3sox eastt14/eastt-bec
 3x Mail 1041def ETH 4sox eastt1/eastt-bg eastt13/eastt-bda eastt6/eastt-gl
 Mail 1045def ETH 4sox eastt12/eastt-bcj
 Mail 1048def ETH 3sox eastt1/eastt-bo
-Mail 1048def ETH 4sox eastt9/eastt-jb
+2x Mail 1048def ETH 4sox eastt13/eastt-bdr eastt9/eastt-jb
 Mail 1050def ETH 4sox eastt10/eastt-bal
 Mail 1054def ETH 4sox eastt12/eastt-bcc
+Mail 1062def ETH 4sox eastt13/eastt-bdq
 Mail 1063def ETH 4sox eastt2/eastt-cf
 Mail 1066def ETH 4sox eastt10/eastt-bac
 Mail 1068def ETH 4sox eastt13/eastt-bdg
@@ -2750,7 +2856,7 @@ Scarab Husk 1009def ETH 4sox eastt13/eastt-bdn
 Scarab Husk 1012def ETH 4sox eastt2/eastt-co
 Scarab Husk 1014def ETH 3sox eastt11/eastt-bbi
 2x Scarab Husk 1014def ETH 4sox eastt6/eastt-gq eastt7/eastt-hc
-2x Scarab Husk 1017def ETH 4sox eastt12/eastt-bcm eastt12/eastt-bco
+3x Scarab Husk 1017def ETH 4sox eastt12/eastt-bcm eastt12/eastt-bco eastt14/eastt-bed
 Scarab Husk 1021def ETH 3sox eastt6/eastt-gc
 2x Scarab Husk 1026def ETH 4sox eastt10/eastt-baq eastt5/eastt-fe
 Scarab Husk 1027def ETH 4sox eastt4/eastt-ej
@@ -2771,13 +2877,14 @@ Scarab Husk 1045def ETH 4sox eastt8/eastt-ii
 Scarab Husk 1050def ETH 3sox eastt12/eastt-bcf
 Scarab Husk 1050def ETH 4sox eastt3/eastt-dj
 2x Scarab Husk 1053def ETH 4sox eastt6/eastt-gc eastt7/eastt-hd
-3x Scarab Husk 1054def ETH 4sox eastt10/eastt-bak eastt12/eastt-bcq eastt9/eastt-jh
+4x Scarab Husk 1054def ETH 4sox eastt10/eastt-bak eastt12/eastt-bcq eastt14/eastt-bea eastt9/eastt-jh
+Scarab Husk 1057def ETH 3sox eastt13/eastt-bdp
 Scarab Husk 1057def ETH 4sox eastt13/eastt-bde
 Scarab Husk 1059def ETH 3sox eastt13/eastt-bdc
 2x Scarab Husk 1059def ETH 4sox eastt12/eastt-bcb eastt8/eastt-iq
 2x Scarab Husk 1062def ETH 4sox eastt10/eastt-bah eastt6/eastt-gf
 2x Scarab Husk 1063def ETH 4sox eastt13/eastt-bdc eastt7/eastt-hd
-2x Scarab Husk 1066def ETH 4sox eastt3/eastt-de eastt9/eastt-jj
+3x Scarab Husk 1066def ETH 4sox eastt14/eastt-bee eastt3/eastt-de eastt9/eastt-jj
 9x Scarab Husk 474def 3sox eastt10/eastt-bad eastt10/eastt-bal eastt13/eastt-bdn eastt2/eastt-cp eastt6/eastt-gn eastt7/eastt-hn eastt9/eastt-je eastt9/eastt-ji eastt9/eastt-jr
 Scarab Husk 837def ETH 4sox eastt8/eastt-ij
 Scarab Husk 856def ETH 4sox eastt9/eastt-jg
@@ -2785,6 +2892,7 @@ Scarab Husk 897def ETH 1sox eastt13/eastt-bdn
 Scarab Husk 928def ETH 3sox eastt3/eastt-dj
 Scarab Husk 945def ETH 4sox eastt13/eastt-bdf
 Scarab Husk 996def ETH 3sox eastt6/eastt-gg
+Shaftstop Mesh Armor 629def 194ed(def) 60life 30damred eastt13/eastt-bdo
 Skin of the Flayed One Demonhide Armor 584def 5ll 185ed(def) 2liferep4 selfrep ETH eastt4/eastt-ee
 Skin of the Flayed One Demonhide Armor 590def 5ll 188ed(def) 2liferep4 selfrep ETH eastt7/eastt-hm
 Skullder's Ire RussetArmor 722def 1allskills 196ed(def) 10mdr 1mf (based on clvl) selfrep eastt8/eastt-ii
@@ -2796,6 +2904,7 @@ Superior Ancient Armor 269def 00 15ed(def) 15dura 4sox eastt6/eastt-gg
 3x Superior Ancient Armor 269def 00 15ed(def) 3sox eastt11/eastt-bba eastt3/eastt-dr eastt5/eastt-fr
 2x Superior Ancient Armor 269def 00 15ed(def) 4sox eastt11/eastt-bbb eastt7/eastt-he
 Superior Archon Plate 603def 15ed(def) 15dura eastt10/eastt-bae
+Superior Breast Plate 108def 5ed(def) 15dura ETH 3sox eastt1/eastt-bj
 Superior Breast Plate 66def 11dura 3sox eastt1/eastt-bs
 Superior Breast Plate 66def 13dura 3sox eastt5/eastt-fb
 Superior Breast Plate 67def 11dura 3sox eastt1/eastt-bg
@@ -2810,6 +2919,7 @@ Superior Cuirass 233def LLD lvlreq25 15ed(def) 10dura 3sox eastt9/eastt-jb
 Superior Cuirass 233def LLD lvlreq25 15ed(def) 11dura 3sox eastt9/eastt-ja
 Superior Cuirass 233def LLD lvlreq25 15ed(def) 14dura 3sox eastt7/eastt-hr
 Superior Cuirass 233def LLD lvlreq25 15ed(def) 15dura 2sox eastt11/eastt-bbp
+Superior Cuirass 233def LLD lvlreq25 15ed(def) 15dura 3sox eastt14/eastt-bef
 5x Superior Cuirass 233def LLD lvlreq25 15ed(def) 2sox eastt4/eastt-ea eastt4/eastt-ek eastt4/eastt-en eastt4/eastt-eo eastt5/eastt-fp
 2x Superior Cuirass 233def LLD lvlreq25 15ed(def) 3sox eastt11/eastt-bba eastt9/eastt-jm
 Superior Dusk Shroud 514def 10ed(def) 3sox eastt11/eastt-bbj
@@ -2831,9 +2941,9 @@ Superior Full Plate Mail 186def 15ed(def) 15dura 3sox eastt9/eastt-jl
 Superior Gothic Plate 156def 15ed(def) 12dura 3sox eastt8/eastt-ia
 Superior Gothic Plate 156def 15ed(def) 15dura 3sox eastt13/eastt-bdk
 4x Superior Gothic Plate 156def 15ed(def) 3sox eastt1/eastt-bn eastt10/eastt-bao eastt13/eastt-bdb eastt7/eastt-hc
-4x Superior Gothic Plate 156def 15ed(def) 4sox eastt12/eastt-bce eastt2/eastt-cb eastt7/eastt-hm eastt9/eastt-ji
-Superior Great Hauberk 552def 10ed(def) 3sox eastt12/eastt-bcq
-2x Superior Great Hauberk 557def 11ed(def) 3sox eastt1/eastt-bj eastt1/eastt-bk
+5x Superior Gothic Plate 156def 15ed(def) 4sox eastt12/eastt-bce eastt14/eastt-bea eastt2/eastt-cb eastt7/eastt-hm eastt9/eastt-ji
+2x Superior Great Hauberk 552def 10ed(def) 3sox eastt12/eastt-bcq eastt14/eastt-beg
+3x Superior Great Hauberk 557def 11ed(def) 3sox eastt1/eastt-bj eastt1/eastt-bk eastt14/eastt-bee
 2x Superior Great Hauberk 562def 12ed(def) 3sox eastt10/eastt-baf eastt7/eastt-hi
 Superior Great Hauberk 567def 13ed(def) 3sox eastt9/eastt-jg
 2x Superior Great Hauberk 577def 15ed(def) 15dura eastt10/eastt-bag eastt11/eastt-bbg
@@ -2851,14 +2961,15 @@ Superior Mage Plate 298def LLD lvlreq25 14ed(def) 12dura 3sox eastt4/eastt-ec
 Superior Mage Plate 298def LLD lvlreq25 14ed(def) 14dura 3sox eastt11/eastt-bbc
 3x Superior Mage Plate 298def LLD lvlreq25 14ed(def) 3sox eastt1/eastt-bl eastt4/eastt-ed eastt8/eastt-in
 3x Superior Mage Plate 301def LLD lvlreq25 15ed(def) 10dura eastt4/eastt-ep eastt7/eastt-hl eastt9/eastt-jh
-3x Superior Mage Plate 301def LLD lvlreq25 15ed(def) 11dura eastt10/eastt-bam eastt13/eastt-bdh eastt6/eastt-gh
+4x Superior Mage Plate 301def LLD lvlreq25 15ed(def) 11dura eastt10/eastt-bam eastt13/eastt-bdh eastt14/eastt-bec eastt6/eastt-gh
 Superior Mage Plate 301def LLD lvlreq25 15ed(def) 12dura eastt11/eastt-bbe
-Superior Mage Plate 301def LLD lvlreq25 15ed(def) 13dura eastt6/eastt-ga
+2x Superior Mage Plate 301def LLD lvlreq25 15ed(def) 13dura eastt14/eastt-bee eastt6/eastt-ga
 3x Superior Mage Plate 301def LLD lvlreq25 15ed(def) 14dura eastt1/eastt-bu eastt10/eastt-bad eastt6/eastt-gk
 4x Superior Mage Plate 301def LLD lvlreq25 15ed(def) 15dura eastt11/eastt-bbg eastt12/eastt-bco eastt7/eastt-hh eastt8/eastt-ia
 Superior Mage Plate 301def LLD lvlreq25 15ed(def) 3sox eastt7/eastt-ho
-6x Superior Mage Plate 301def LLD lvlreq25 15ed(def) eastt11/eastt-bbj eastt12/eastt-bcl eastt5/eastt-fd eastt6/eastt-gf eastt7/eastt-ha eastt8/eastt-ig
+7x Superior Mage Plate 301def LLD lvlreq25 15ed(def) eastt11/eastt-bbj eastt12/eastt-bcl eastt14/eastt-beb eastt5/eastt-fd eastt6/eastt-gf eastt7/eastt-ha eastt8/eastt-ig
 Superior Plate Mail 114def 13dura eastt2/eastt-cm
+Superior Quilted Armor 13def 9ed(def) 2sox eastt1/eastt-bf
 Superior Ring Mail 48def 10dura 2sox eastt1/eastt-bk
 Superior Ring Mail 52def 7ed(def) 10dura 3sox eastt5/eastt-fj
 Superior Ring Mail 78def 7ed(def) ETH 2sox eastt3/eastt-do
@@ -2875,12 +2986,12 @@ Superior Studded Leather 40def 13ed(def) 2sox eastt1/eastt-bg
 Superior Wire Fleece 539def 12ed(def) 3sox eastt12/eastt-bcl
 2x Superior Wire Fleece 544def 13ed(def) 3sox eastt8/eastt-ib eastt8/eastt-ih
 Superior Wire Fleece 549def 14ed(def) 3sox eastt10/eastt-bae
-Superior Wire Fleece 554def 15ed(def) 10dura 3sox eastt12/eastt-bcn
+2x Superior Wire Fleece 554def 15ed(def) 10dura 3sox eastt12/eastt-bcn eastt14/eastt-beb
 Superior Wire Fleece 554def 15ed(def) 11dura 3sox eastt4/eastt-ee
 Superior Wire Fleece 554def 15ed(def) 15dura 3sox eastt9/eastt-jq
 Superior Wire Fleece 554def 15ed(def) 15dura eastt10/eastt-bab
-Superior Wire Fleece 554def 15ed(def) 4sox eastt4/eastt-ee
-2x Superior Wyrmhide 518def 10ed(def) 3sox eastt4/eastt-eh eastt9/eastt-ja
+2x Superior Wire Fleece 554def 15ed(def) 4sox eastt14/eastt-bee eastt4/eastt-ee
+3x Superior Wyrmhide 518def 10ed(def) 3sox eastt14/eastt-beb eastt4/eastt-eh eastt9/eastt-ja
 Superior Wyrmhide 522def 11ed(def) 3sox eastt5/eastt-fb
 2x Superior Wyrmhide 527def 12ed(def) 3sox eastt1/eastt-bo eastt6/eastt-gh
 2x Superior Wyrmhide 536def 14ed(def) 3sox eastt6/eastt-gr eastt9/eastt-jf
@@ -2888,7 +2999,7 @@ Superior Wyrmhide 541def 15ed(def) 10dura 3sox eastt1/eastt-bs
 Superior Wyrmhide 541def 15ed(def) 13dura 3sox eastt9/eastt-jq
 3x Superior Wyrmhide 541def 15ed(def) 15dura eastt12/eastt-bcm eastt8/eastt-im eastt8/eastt-in
 3x Superior Wyrmhide 541def 15ed(def) 3sox eastt2/eastt-cg eastt5/eastt-fp eastt8/eastt-il
-4x Superior Wyrmhide 541def 15ed(def) 4sox eastt11/eastt-bbg eastt3/eastt-dp eastt4/eastt-en eastt9/eastt-jo
+5x Superior Wyrmhide 541def 15ed(def) 4sox eastt11/eastt-bbg eastt13/eastt-bdo eastt3/eastt-dp eastt4/eastt-en eastt9/eastt-jo
 tal armor Lacquered Plate 866def 400 def 40cr 40lr 40fr 15mdr 88mf req-60 eastt5/eastt-fg
 tal armor Lacquered Plate 905def 400 def 40cr 40lr 40fr 15mdr 88mf req-60 eastt8/eastt-ie
 Twitchthroe Studded Leather 77def LLD lvlreq16 20ias 20fhr 25incchanceofblocking 25 def 10str 10dex ETH eastt1/eastt-bq
@@ -2897,6 +3008,7 @@ vipermagi Serpentskin Armor 418def LLD lvlreq29 1allskills 30fcr 120ed(def) 35@ 
 Wire Fleece 1005def ETH 4sox eastt11/eastt-bbb
 2x Wire Fleece 1008def ETH 4sox eastt5/eastt-fn eastt8/eastt-ig
 2x Wire Fleece 1009def ETH 4sox eastt13/eastt-bdc eastt3/eastt-dn
+Wire Fleece 1012def ETH 4sox eastt14/eastt-bef
 Wire Fleece 1014def ETH 4sox eastt9/eastt-jh
 Wire Fleece 1018def ETH 3sox eastt1/eastt-bp
 2x Wire Fleece 1021def ETH 4sox eastt12/eastt-bco eastt13/eastt-bdc
@@ -2907,10 +3019,12 @@ Wire Fleece 1035def ETH 4sox eastt8/eastt-ic
 2x Wire Fleece 1036def ETH 4sox eastt1/eastt-bh eastt4/eastt-eg
 Wire Fleece 1041def ETH 4sox eastt10/eastt-bac
 Wire Fleece 1044def ETH 4sox eastt7/eastt-hp
-Wire Fleece 1053def ETH 4sox eastt10/eastt-baj
+2x Wire Fleece 1053def ETH 4sox eastt10/eastt-baj eastt14/eastt-bef
 Wire Fleece 1054def ETH 4sox eastt12/eastt-bcq
+Wire Fleece 1057def ETH 3sox eastt13/eastt-bdp
+Wire Fleece 1057def ETH 4sox eastt14/eastt-beg
 Wire Fleece 1059def ETH 4sox eastt11/eastt-bbk
-2x Wire Fleece 1062def ETH 4sox eastt5/eastt-fq eastt7/eastt-hh
+3x Wire Fleece 1062def ETH 4sox eastt14/eastt-bec eastt5/eastt-fq eastt7/eastt-hh
 2x Wire Fleece 1066def ETH 3sox eastt3/eastt-dd eastt9/eastt-jo
 Wire Fleece 1071def ETH 4sox eastt8/eastt-if
 Wire Fleece 1072def ETH 2sox eastt6/eastt-gm
@@ -2927,13 +3041,14 @@ Wyrmhide 1008def ETH 4sox eastt11/eastt-bbh
 Wyrmhide 1014def ETH 4sox eastt6/eastt-gh
 2x Wyrmhide 1018def ETH 4sox eastt9/eastt-ja eastt9/eastt-jm
 Wyrmhide 1023def ETH 4sox eastt13/eastt-bdk
-Wyrmhide 1026def ETH 4sox eastt13/eastt-bda
+2x Wyrmhide 1026def ETH 4sox eastt13/eastt-bda eastt13/eastt-bdr
 4x Wyrmhide 1027def ETH 4sox eastt10/eastt-baq eastt5/eastt-fp eastt6/eastt-gg eastt9/eastt-jc
 Wyrmhide 1032def ETH 3sox eastt7/eastt-ha
 2x Wyrmhide 1032def ETH 4sox eastt11/eastt-bbq eastt4/eastt-ec
 2x Wyrmhide 1035def ETH 4sox eastt10/eastt-ban eastt4/eastt-ee
 2x Wyrmhide 1039def ETH 4sox eastt10/eastt-bam eastt4/eastt-ed
 2x Wyrmhide 1041def ETH 3sox eastt13/eastt-bdc eastt2/eastt-cf
+Wyrmhide 1041def ETH 4sox eastt14/eastt-bec
 2x Wyrmhide 1044def ETH 4sox eastt4/eastt-eb eastt7/eastt-hd
 Wyrmhide 1045def ETH 3sox eastt11/eastt-bbh
 Wyrmhide 1045def ETH 4sox eastt11/eastt-bbp
@@ -2945,6 +3060,7 @@ Wyrmhide 1054def ETH 3sox eastt7/eastt-ha
 Wyrmhide 1057def ETH 3sox eastt7/eastt-hf
 Wyrmhide 1057def ETH 4sox eastt4/eastt-ep
 8x Wyrmhide 470def 3sox eastt10/eastt-bag eastt11/eastt-bbf eastt13/eastt-bdi eastt13/eastt-bdi eastt2/eastt-cq eastt6/eastt-gn eastt8/eastt-iq eastt9/eastt-jb
+Wyrmhide 696def ETH eastt14/eastt-bee
 Wyrmhide 874def ETH 2sox eastt12/eastt-bcp
 Wyrmhide 927def ETH 4sox eastt4/eastt-eb
 
@@ -2952,7 +3068,8 @@ Wyrmhide 927def ETH 4sox eastt4/eastt-eb
 Battle Gauntlets 41def 1passivandmagicskills 20ias 10str 8dex 28cr eastt6/eastt-gl
 Battle Gauntlets 42def LLD lvlreq25 eastt6/eastt-gp
 Battle Gauntlets 60def 20ias 27ed(def) 10str 3liferep 25lr 2lightradius eastt1/eastt-bl
-Bloodfist Vampirebone Gloves 71def 10ias 30fhr 5mindmg 10ed(def) 10 def 40life eastt4/eastt-el
+Battle Gauntlets 60def LLD lvlreq25 ETH eastt14/eastt-bed
+2x Bloodfist Vampirebone Gloves 71def 10ias 30fhr 5mindmg 10ed(def) 10 def 40life eastt14/eastt-bec eastt4/eastt-el
 Bloodfist Vampirebone Gloves 73def 10ias 30fhr 5mindmg 11ed(def) 10 def 40life eastt4/eastt-eq
 2x Bloodfist Vampirebone Gloves 73def 10ias 30fhr 5mindmg 13ed(def) 10 def 40life eastt6/eastt-ge eastt9/eastt-jj
 Bloodfist Vampirebone Gloves 74def 10ias 30fhr 5mindmg 11ed(def) 10 def 40life eastt4/eastt-ep
@@ -2966,12 +3083,13 @@ Bloodfist Vampirebone Gloves 78def 10ias 30fhr 5mindmg 14ed(def) 10 def 40life e
 Bloodfist Vampirebone Gloves 78def 10ias 30fhr 5mindmg 16ed(def) 10 def 40life eastt10/eastt-bac
 3x Bloodfist Vampirebone Gloves 78def 10ias 30fhr 5mindmg 20ed(def) 10 def 40life eastt3/eastt-dn eastt5/eastt-fe eastt7/eastt-hl
 Bloodfist Vampirebone Gloves 79def 10ias 30fhr 5mindmg 14ed(def) 10 def 40life eastt5/eastt-fn
-Bloodfist Vampirebone Gloves 80def 10ias 30fhr 5mindmg 12ed(def) 10 def 40life eastt9/eastt-jk
+2x Bloodfist Vampirebone Gloves 80def 10ias 30fhr 5mindmg 12ed(def) 10 def 40life eastt13/eastt-bdp eastt9/eastt-jk
 2x Bloodfist Vampirebone Gloves 80def 10ias 30fhr 5mindmg 15ed(def) 10 def 40life eastt10/eastt-bae eastt4/eastt-ei
 Bloodfist Vampirebone Gloves 80def 10ias 30fhr 5mindmg 16ed(def) 10 def 40life eastt5/eastt-fk
 Bloodfist Vampirebone Gloves 80def 10ias 30fhr 5mindmg 19ed(def) 10 def 40life eastt5/eastt-fo
 2x Bloodfist Vampirebone Gloves 81def 10ias 30fhr 5mindmg 13ed(def) 10 def 40life eastt10/eastt-bab eastt13/eastt-bdh
 Bloodfist Vampirebone Gloves 81def 10ias 30fhr 5mindmg 15ed(def) 10 def 40life eastt9/eastt-je
+Bloodfist Vampirebone Gloves 81def 10ias 30fhr 5mindmg 16ed(def) 10 def 40life eastt14/eastt-bee
 Bloodfist Vampirebone Gloves 82def 10ias 30fhr 5mindmg 11ed(def) 10 def 40life eastt3/eastt-di
 3x Bloodfist Vampirebone Gloves 82def 10ias 30fhr 5mindmg 17ed(def) 10 def 40life eastt13/eastt-bdg eastt5/eastt-fd eastt9/eastt-jn
 Bloodfist Vampirebone Gloves 82def 10ias 30fhr 5mindmg 19ed(def) 10 def 40life eastt13/eastt-bdf
@@ -2979,6 +3097,7 @@ Bloodfist Vampirebone Gloves 82def 10ias 30fhr 5mindmg 20ed(def) 10 def 40life e
 2x Bloodfist Vampirebone Gloves 83def 10ias 30fhr 5mindmg 13ed(def) 10 def 40life eastt12/eastt-bck eastt13/eastt-bdk
 Bloodfist Vampirebone Gloves 83def 10ias 30fhr 5mindmg 15ed(def) 10 def 40life eastt8/eastt-id
 Bloodfist Vampirebone Gloves 83def 10ias 30fhr 5mindmg 17ed(def) 10 def 40life eastt11/eastt-bbo
+Bloodfist Vampirebone Gloves 83def 10ias 30fhr 5mindmg 18ed(def) 10 def 40life eastt14/eastt-bec
 Bloodfist Vampirebone Gloves 83def 10ias 30fhr 5mindmg 20ed(def) 10 def 40life eastt11/eastt-bbn
 2x Bloodfist Vampirebone Gloves 84def 10ias 30fhr 5mindmg 14ed(def) 10 def 40life eastt11/eastt-bbl eastt7/eastt-hm
 Bloodfist Vampirebone Gloves 84def 10ias 30fhr 5mindmg 15ed(def) 10 def 40life eastt5/eastt-fm
@@ -2988,7 +3107,7 @@ Bloodfist Vampirebone Gloves 85def 10ias 30fhr 5mindmg 20ed(def) 10 def 40life e
 Bloodfist Vampirebone Gloves 86def 10ias 30fhr 5mindmg 17ed(def) 10 def 40life eastt10/eastt-bar
 Bloodfist Vampirebone Gloves 86def 10ias 30fhr 5mindmg 19ed(def) 10 def 40life eastt12/eastt-bca
 Bloodfist Vampirebone Gloves 87def 10ias 30fhr 5mindmg 19ed(def) 10 def 40life eastt11/eastt-bbd
-Bloodfist Vampirebone Gloves 88def 10ias 30fhr 5mindmg 20ed(def) 10 def 40life eastt7/eastt-hp
+2x Bloodfist Vampirebone Gloves 88def 10ias 30fhr 5mindmg 20ed(def) 10 def 40life eastt14/eastt-bed eastt7/eastt-hp
 Bramble Mitts 238def 20ias 154ed(def) 25pr hfd selfrep ETH eastt4/eastt-el
 Bramble Mitts 58def 20ias 13str 17cr 10fr eastt8/eastt-id
 Chain Gloves 16def 20ias 3ll 62ed(def) 12str 27lr 9pr eastt8/eastt-ig
@@ -2999,6 +3118,7 @@ chanceguards Chain Gloves 27def LLD lvlreq15 25ar 23ed(def) 15 def 200eg 40mf 2l
 chanceguards Chain Gloves 27def LLD lvlreq15 25ar 28ed(def) 15 def 200eg 40mf 2lightradius eastt10/eastt-bal
 Demonhide Gloves 108def 0 LLD lvlreq27 100ed(def) selfrep ETH eastt6/eastt-gb
 Demonhide Gloves 28def 12 Chance to cast level 4 Bolt when struck 2 tomartialarts 20ias 3ml 38mana 30fr eastt7/eastt-hd
+Demonhide Gloves 40def 2passivandmagicskills 20ias 12ed(def) 12dex 8fr psnlengthreducedby25 eastt13/eastt-bdr
 Gauntlets 12def 2passivandmagicskills 20ias 24cr 6lr hfd eastt11/eastt-bbj
 Gauntlets 15def 20ias 12ar 10str 25cr 63eg eastt2/eastt-cb
 Gauntlets 18def 20ias 18ed(def) 12dex 8cr 25fr eastt8/eastt-in
@@ -3006,6 +3126,7 @@ Leather Gloves 15def 14 Chance to cast level 5 Nova when struck 20ias 156ed(def)
 Leather Gloves 2def 2 tomartialarts 20ias 22cr 26lr 5mf selfrep eastt4/eastt-ec
 Light Gauntlets 13def 2 tomartialarts 20ias 11ed(def) 1dex 28lr lvl3 Power Strike (5/27 Charges) eastt1/eastt-bm
 Light Gauntlets 17def 20ias 15ar 42ed(def) 13dex 30lr 19fr 1lightradius eastt9/eastt-jn
+Light Gauntlets 19def 2 tomartialarts 20ias 60ed(def) 4dex 30cr 75eg eastt13/eastt-bdo
 Light Gauntlets 9def 2bowskills 20ias 1-5firedmg 3ll 0 def (based on clvl) 27fr eastt9/eastt-jo
 Magefist Battle Gauntlets 62def LLD lvlreq30 1fireskills 20fcr 1-6firedmg 21ed(def) 10 def 2manareg5 eastt7/eastt-hk
 Magefist Light Gauntlets 32def dura: 0 of 10 LLD lvlreq23 1fireskills 20fcr 1-6firedmg 27ed(def) 10 def 2manareg5 ETH eastt3/eastt-db
@@ -3013,7 +3134,7 @@ Sharkskin Gloves 38def 2passivandmagicskills 20ias 27cr lvl3 Inner Sight (20/27 
 Sharkskin Gloves 48def 1passivandmagicskills 20ias 20ed(def) 14str 28cr eastt5/eastt-fi
 Sharkskin Gloves 51def dura: 0 of 8 0 38mana 58eg ETH eastt2/eastt-ce
 Sharkskin Gloves 58def 20ias 45ed(def) 12dex 19cr 27lr eastt5/eastt-fn
-15x Trang-Oul's Claws Heavy Bracers 74def 2curseskills 20fcr 25psnskilldmg 30 def 30cr
+16x Trang-Oul's Claws Heavy Bracers 74def 2curseskills 20fcr 25psnskilldmg 30 def 30cr
 Vambraces 61def 12 Chance to cast level 4 Bolt when struck 2passivandmagicskills 20ias 15dex 9maxstamina eastt8/eastt-ic
 Vambraces 64def 3javaskills 20ias eastt13/eastt-bdn
 Vambraces 66def 1bowskills 20ias 14dex 9maxstamina 26fr eastt5/eastt-fh
@@ -3030,7 +3151,7 @@ Demonhide Sash 46def dura: 0 of 7 0 87life ETH eastt5/eastt-fb
 Demonhide Sash 47def LLD lvlreq24 17fhr 35ed(def) 8str 47life 9lr eastt6/eastt-gk
 Demonhide Sash 48def dura: 0 of 7 0 89life ETH eastt2/eastt-cc
 goldwrap Heavy Belt 35def LLD lvlreq27 10ias 44ed(def) 25 def 80eg 30mf 2lightradius eastt11/eastt-bba
-goldwrap Heavy Belt 35def LLD lvlreq27 10ias 50ed(def) 25 def 80eg 30mf 2lightradius eastt3/eastt-dq
+2x goldwrap Heavy Belt 35def LLD lvlreq27 10ias 50ed(def) 25 def 80eg 30mf 2lightradius eastt13/eastt-bdp eastt3/eastt-dq
 goldwrap Heavy Belt 35def LLD lvlreq27 10ias 51ed(def) 25 def 80eg 30mf 2lightradius eastt6/eastt-gd
 goldwrap Heavy Belt 35def LLD lvlreq27 10ias 56ed(def) 25 def 80eg 30mf 2lightradius eastt7/eastt-hk
 goldwrap Heavy Belt 36def LLD lvlreq27 10ias 59ed(def) 25 def 80eg 30mf 2lightradius eastt5/eastt-fj
@@ -3041,6 +3162,7 @@ Light Belt 3def LLD lvlreq22 24fhr 58life 3liferep 15cr eastt8/eastt-ie
 Light Belt 5def LLD lvlreq18 17fhr 29ed(def) 37life 5liferep 5mana 11lr eastt5/eastt-fc
 Light Belt 5def LLD lvlreq18 24fhr 31ed(def) 4str 38life 12cr 28fr eastt4/eastt-ee
 Light Belt 5def LLD lvlreq22 17fhr 41ed(def) 5str 43life 13fr eastt9/eastt-jp
+Light Belt 6def LLD lvlreq22 24fhr 65ed(def) 41life 29cr 18fr eastt14/eastt-bee
 Light Belt 7def LLD lvlreq27 24fhr 90ed(def) 52life 3liferep eastt1/eastt-bm
 Light Belt 7def LLD lvlreq27 24fhr 97ed(def) 49life 5liferep 28cr eastt4/eastt-ee
 Mesh Belt 40def LLD lvlreq25 eastt7/eastt-hq
@@ -3070,6 +3192,7 @@ String of Ears Demonhide Sash 102def LLD lvlreq29 8ll 150ed(def) 15 def 15damred
 String of Ears Demonhide Sash 103def LLD lvlreq29 7ll 154ed(def) 15 def 15damred 12mdr eastt3/eastt-dq
 String of Ears Demonhide Sash 103def LLD lvlreq29 7ll 154ed(def) 15 def 15damred 15mdr eastt3/eastt-dm
 String of Ears Demonhide Sash 105def LLD lvlreq29 7ll 158ed(def) 15 def 15damred 15mdr eastt2/eastt-ck
+String of Ears Demonhide Sash 106def LLD lvlreq29 8ll 161ed(def) 15 def 15damred 15mdr eastt13/eastt-bdp
 String of Ears Demonhide Sash 109def LLD lvlreq29 7ll 170ed(def) 15 def 15damred 13mdr eastt10/eastt-bal
 String of Ears Demonhide Sash 109def LLD lvlreq29 8ll 169ed(def) 15 def 15damred 10mdr eastt13/eastt-bdj
 String of Ears Demonhide Sash 11def0 LLD lvlreq29 8ll 172ed(def) 15 def 15damred 15mdr eastt8/eastt-id
@@ -3148,15 +3271,16 @@ Crown Shield 39def 55chancetoblock Smite Damage: 4 to 12 LLD lvlreq18 45@ 3sox e
 4x Crown Shield 39def 55chancetoblock Smite Damage: 4 to 12 LLD lvlreq18 45@ eastt13/eastt-bdk eastt2/eastt-ca eastt2/eastt-cr eastt7/eastt-hq
 2x Crown Shield 40def 55chancetoblock Smite Damage: 4 to 12 LLD lvlreq18 45@ eastt13/eastt-bdm eastt5/eastt-fj
 Crude Royal Shield 118def 55chancetoblock Smite Damage: 24 to 32 6@ eastt5/eastt-fm
+Gilded Shield 156def 52chancetoblock Smite Damage: 20 to 28 15@ eastt13/eastt-bdp
 Gilded Shield 324def 52chancetoblock Smite Damage: 20 to 28 42@ ETH 4sox eastt2/eastt-cr
 Gilded Shield 325def 52chancetoblock Smite Damage: 20 to 28 44@ ETH 4sox eastt5/eastt-fp
 Gilded Shield 348def 52chancetoblock Smite Damage: 20 to 28 42@ ETH 4sox eastt9/eastt-jl
 Gilded Shield 352def 52chancetoblock Smite Damage: 20 to 28 41@ ETH 4sox eastt7/eastt-hf
 Gilded Shield 369def 52chancetoblock Smite Damage: 20 to 28 44@ ETH 4sox eastt8/eastt-ip
-Herald of Zakarum Gilded Shield 490def 75chancetoblock Smite Damage: 20 to 28 2palacombatskill 2palaskills 30fbr 30incchanceofblocking 20ar 190ed(def) 20str 20vita 50@ eastt7/eastt-hr
+2x Herald of Zakarum Gilded Shield 490def 75chancetoblock Smite Damage: 20 to 28 2palacombatskill 2palaskills 30fbr 30incchanceofblocking 20ar 190ed(def) 20str 20vita 50@ eastt14/eastt-bed eastt7/eastt-hr
 Herald of Zakarum Gilded Shield 491def 75chancetoblock Smite Damage: 20 to 28 2palacombatskill 2palaskills 30fbr 30incchanceofblocking 20ar 191ed(def) 20str 20vita 50@ eastt4/eastt-ep
 3x Herald of Zakarum Gilded Shield 493def 75chancetoblock Smite Damage: 20 to 28 2palacombatskill 2palaskills 30fbr 30incchanceofblocking 20ar 192ed(def) 20str 20vita 50@ eastt12/eastt-bck eastt4/eastt-en eastt6/eastt-gk
-2x Herald of Zakarum Gilded Shield 496def 75chancetoblock Smite Damage: 20 to 28 2palacombatskill 2palaskills 30fbr 30incchanceofblocking 20ar 194ed(def) 20str 20vita 50@ eastt10/eastt-baa eastt5/eastt-fg
+3x Herald of Zakarum Gilded Shield 496def 75chancetoblock Smite Damage: 20 to 28 2palacombatskill 2palaskills 30fbr 30incchanceofblocking 20ar 194ed(def) 20str 20vita 50@ eastt10/eastt-baa eastt14/eastt-bec eastt5/eastt-fg
 Herald of Zakarum Gilded Shield 500def 75chancetoblock Smite Damage: 20 to 28 2palacombatskill 2palaskills 30fbr 30incchanceofblocking 20ar 196ed(def) 20str 20vita 50@ eastt5/eastt-fe
 2x Herald of Zakarum Gilded Shield 507def 75chancetoblock Smite Damage: 20 to 28 2palacombatskill 2palaskills 30fbr 30incchanceofblocking 20ar 200ed(def) 20str 20vita 50@ eastt6/eastt-gm eastt7/eastt-hf
 Jeweler's Kurast Shield 161def 55chancetoblock Smite Damage: 10 to 82 62ed 113ar 1damred 4sox eastt12/eastt-bcf
@@ -3164,6 +3288,7 @@ Jeweler's Kurast Shield 167def 55chancetoblock Smite Damage: 10 to 82 63ed 114ar
 Jeweler's sacredrondache 139def 68chancetoblock Smite Damage: 35 to 58 15fbr 10incchanceofblocking 33@ 4sox eastt9/eastt-jk
 Jeweler's sacredrondache 152def 58chancetoblock Smite Damage: 35 to 58 65ed 103ar 14life 4sox eastt5/eastt-fl
 Jeweler's sacredrondache 153def 58chancetoblock Smite Damage: 35 to 58 63ed 107ar 4sox eastt9/eastt-ja
+Jeweler's sacredrondache 158def 58chancetoblock Smite Damage: 35 to 58 55ed 115ar 4sox eastt14/eastt-beb
 Jeweler's sacredtarge 127def 60chancetoblock Smite Damage: 22 to 70 43@ req-30 4sox eastt2/eastt-co
 Jeweler's sacredtarge 144def 60chancetoblock Smite Damage: 22 to 70 57ed 110ar 4sox eastt11/eastt-bbq
 Jeweler's sacredtarge 144def 60chancetoblock Smite Damage: 22 to 70 60ed 109ar 4sox eastt5/eastt-fh
@@ -3177,14 +3302,15 @@ Kurast Shield 357def 55chancetoblock Smite Damage: 10 to 82 38@ ETH 4sox eastt13
 Kurast Shield 361def 55chancetoblock Smite Damage: 10 to 82 30@ ETH 4sox eastt11/eastt-bbc
 Kurast Shield 364def 55chancetoblock Smite Damage: 10 to 82 62ed 117ar ETH 4sox eastt5/eastt-fg
 Kurast Shield 366def 55chancetoblock Smite Damage: 10 to 82 35@ ETH 4sox eastt2/eastt-cr
-2x Kurast Shield 366def 55chancetoblock Smite Damage: 10 to 82 42@ ETH 4sox eastt2/eastt-cl eastt9/eastt-jh
+2x Kurast Shield 366def 55chancetoblock Smite Damage: 10 to 82 42@ ETH 4sox eastt1/eastt-bg eastt1/eastt-bj
+Kurast Shield 366def 55chancetoblock Smite Damage: 10 to 82 44@ ETH 4sox eastt14/eastt-bef
 Kurast Shield 369def 55chancetoblock Smite Damage: 10 to 82 35@ ETH 4sox eastt2/eastt-cq
 Kurast Shield 369def 55chancetoblock Smite Damage: 10 to 82 38@ ETH 4sox eastt2/eastt-ce
-Kurast Shield 369def 55chancetoblock Smite Damage: 10 to 82 40@ ETH 4sox eastt4/eastt-ei
+Kurast Shield 369def 55chancetoblock Smite Damage: 10 to 82 40@ ETH 4sox eastt1/eastt-bh
 Kurast Shield 373def 55chancetoblock Smite Damage: 10 to 82 39@ ETH 4sox eastt5/eastt-fk
 Kurast Shield 375def 55chancetoblock Smite Damage: 10 to 82 36@ ETH 4sox eastt3/eastt-dp
 Kurast Shield 378def 55chancetoblock Smite Damage: 10 to 82 34@ ETH 4sox eastt1/eastt-bj
-Kurast Shield 382def 55chancetoblock Smite Damage: 10 to 82 41@ ETH 4sox eastt10/eastt-bae
+Kurast Shield 382def 55chancetoblock Smite Damage: 10 to 82 41@ ETH 4sox eastt2/eastt-ca
 Kurast Shield 384def 55chancetoblock Smite Damage: 10 to 82 34@ ETH 4sox eastt11/eastt-bbm
 Kurast Shield 384def 55chancetoblock Smite Damage: 10 to 82 36@ ETH 4sox eastt3/eastt-dh
 Kurast Shield 384def 55chancetoblock Smite Damage: 10 to 82 39@ ETH 4sox eastt12/eastt-bcp
@@ -3204,6 +3330,7 @@ Royal Shield 370def 55chancetoblock Smite Damage: 24 to 32 61ed 111ar ETH 4sox e
 Royal Shield 373def 55chancetoblock Smite Damage: 24 to 32 61ed 115ar ETH 4sox eastt9/eastt-jp
 Royal Shield 378def 55chancetoblock Smite Damage: 24 to 32 36@ ETH 4sox eastt9/eastt-jp
 Royal Shield 379def 55chancetoblock Smite Damage: 24 to 32 60ed 109ar ETH 4sox eastt8/eastt-ie
+Royal Shield 384def 55chancetoblock Smite Damage: 24 to 32 30@ ETH 4sox eastt14/eastt-bea
 Royal Shield 388def 55chancetoblock Smite Damage: 24 to 32 65ed 120ar ETH 4sox eastt3/eastt-dd
 Royal Shield 391def 55chancetoblock Smite Damage: 24 to 32 45@ ETH 4sox eastt6/eastt-gj
 Royal Shield 393def 55chancetoblock Smite Damage: 24 to 32 36@ ETH 4sox eastt6/eastt-gp
@@ -3228,14 +3355,15 @@ sacredrondache 312def 58chancetoblock Smite Damage: 35 to 58 31@ ETH 4sox eastt1
 sacredrondache 319def 58chancetoblock Smite Damage: 35 to 58 30@ ETH 4sox eastt13/eastt-bdl
 sacredrondache 319def 58chancetoblock Smite Damage: 35 to 58 36@ ETH 4sox eastt4/eastt-ei
 sacredrondache 321def 58chancetoblock Smite Damage: 35 to 58 30@ ETH 4sox eastt8/eastt-id
-sacredrondache 321def 58chancetoblock Smite Damage: 35 to 58 40@ ETH 4sox eastt7/eastt-hq
+sacredrondache 321def 58chancetoblock Smite Damage: 35 to 58 40@ ETH 4sox eastt1/eastt-bi
 sacredrondache 324def 58chancetoblock Smite Damage: 35 to 58 36@ ETH 4sox eastt12/eastt-bca
-sacredrondache 324def 58chancetoblock Smite Damage: 35 to 58 44@ ETH 4sox eastt2/eastt-cc
+sacredrondache 324def 58chancetoblock Smite Damage: 35 to 58 44@ ETH 4sox eastt1/eastt-bh
 sacredrondache 325def 58chancetoblock Smite Damage: 35 to 58 31@ ETH 4sox eastt5/eastt-fm
 sacredrondache 328def 58chancetoblock Smite Damage: 35 to 58 32@ ETH 4sox eastt11/eastt-bbm
+sacredrondache 330def 58chancetoblock Smite Damage: 35 to 58 65ed 101ar ETH 4sox eastt13/eastt-bdq
 sacredrondache 333def 58chancetoblock Smite Damage: 35 to 58 63ed 121ar ETH 4sox eastt8/eastt-ie
 sacredrondache 334def 58chancetoblock Smite Damage: 35 to 58 39@ ETH 4sox eastt3/eastt-dh
-sacredrondache 337def 58chancetoblock Smite Damage: 35 to 58 43@ ETH 4sox eastt12/eastt-bcc
+sacredrondache 337def 58chancetoblock Smite Damage: 35 to 58 43@ ETH 4sox eastt1/eastt-bh
 sacredrondache 342def 58chancetoblock Smite Damage: 35 to 58 35@ ETH 4sox eastt7/eastt-hi
 sacredrondache 343def 58chancetoblock Smite Damage: 35 to 58 30@ ETH 4sox eastt9/eastt-jl
 sacredrondache 343def 58chancetoblock Smite Damage: 35 to 58 33@ ETH 4sox eastt10/eastt-baj
@@ -3250,10 +3378,10 @@ sacredrondache 360def 58chancetoblock Smite Damage: 35 to 58 30@ ETH 4sox eastt4
 sacredrondache 361def 58chancetoblock Smite Damage: 35 to 58 61ed 112ar ETH 4sox eastt7/eastt-hr
 sacredrondache 366def 58chancetoblock Smite Damage: 35 to 58 30@ ETH 4sox eastt10/eastt-baf
 sacredrondache 366def 58chancetoblock Smite Damage: 35 to 58 34@ ETH 4sox eastt5/eastt-fo
-sacredrondache 366def 58chancetoblock Smite Damage: 35 to 58 40@ ETH 4sox eastt4/eastt-eh
+sacredrondache 366def 58chancetoblock Smite Damage: 35 to 58 40@ ETH 4sox eastt1/eastt-bh
 sacredtarge 126def 60chancetoblock Smite Damage: 22 to 70 45@ 3sox eastt11/eastt-bbn
 sacredtarge 127def 60chancetoblock Smite Damage: 22 to 70 45@ 3sox eastt3/eastt-dc
-sacredtarge 129def 60chancetoblock Smite Damage: 22 to 70 45@ 3sox eastt11/eastt-bbo
+2x sacredtarge 129def 60chancetoblock Smite Damage: 22 to 70 45@ 3sox eastt11/eastt-bbo eastt14/eastt-bef
 sacredtarge 131def 60chancetoblock Smite Damage: 22 to 70 45@ 3sox eastt3/eastt-dp
 sacredtarge 132def 60chancetoblock Smite Damage: 22 to 70 45@ 3sox eastt2/eastt-ch
 sacredtarge 136def 60chancetoblock Smite Damage: 22 to 70 65ed 114ar 4sox eastt2/eastt-cc
@@ -3275,28 +3403,29 @@ sacredtarge 158def 60chancetoblock Smite Damage: 22 to 70 65ed 118ar 4sox eastt7
 sacredtarge 195def 60chancetoblock Smite Damage: 22 to 70 45@ ETH 4sox eastt5/eastt-fb
 sacredtarge 205def 60chancetoblock Smite Damage: 22 to 70 44@ ETH 4sox eastt6/eastt-ge
 sacredtarge 223def 60chancetoblock Smite Damage: 22 to 70 40@ ETH 4sox eastt6/eastt-gg
-sacredtarge 292def 60chancetoblock Smite Damage: 22 to 70 43@ ETH 4sox eastt1/east-bg
+sacredtarge 292def 60chancetoblock Smite Damage: 22 to 70 43@ ETH 4sox eastt1/eastt-bi
 sacredtarge 301def 60chancetoblock Smite Damage: 22 to 70 37@ ETH 4sox eastt6/eastt-gm
 sacredtarge 303def 60chancetoblock Smite Damage: 22 to 70 31@ ETH 4sox eastt8/eastt-if
 sacredtarge 306def 60chancetoblock Smite Damage: 22 to 70 32@ ETH 4sox eastt8/eastt-iq
 sacredtarge 310def 60chancetoblock Smite Damage: 22 to 70 39@ ETH 4sox eastt9/eastt-jf
-sacredtarge 315def 60chancetoblock Smite Damage: 22 to 70 40@ ETH 4sox eastt12/eastt-bce
+sacredtarge 315def 60chancetoblock Smite Damage: 22 to 70 40@ ETH 4sox eastt1/eastt-bf
 sacredtarge 315def 60chancetoblock Smite Damage: 22 to 70 61ed 111ar ETH 2sox eastt7/eastt-hd
-sacredtarge 316def 60chancetoblock Smite Damage: 22 to 70 40@ ETH 4sox eastt6/eastt-gk
 sacredtarge 316def 60chancetoblock Smite Damage: 22 to 70 62ed 110ar ETH 4sox eastt9/eastt-ja
 sacredtarge 321def 60chancetoblock Smite Damage: 22 to 70 30@ ETH 4sox eastt8/eastt-ir
-sacredtarge 325def 60chancetoblock Smite Damage: 22 to 70 44@ ETH 4sox eastt12/eastt-bca
+sacredtarge 325def 60chancetoblock Smite Damage: 22 to 70 44@ ETH 4sox eastt1/eastt-bf
 sacredtarge 330def 60chancetoblock Smite Damage: 22 to 70 33@ ETH 4sox eastt13/eastt-bdf
 2x sacredtarge 337def 60chancetoblock Smite Damage: 22 to 70 30@ ETH 4sox eastt3/eastt-dl eastt8/eastt-ie
 sacredtarge 342def 60chancetoblock Smite Damage: 22 to 70 35@ ETH 4sox eastt11/eastt-bbf
 sacredtarge 343def 60chancetoblock Smite Damage: 22 to 70 32@ ETH 4sox eastt7/eastt-hl
-sacredtarge 346def 60chancetoblock Smite Damage: 22 to 70 41@ ETH 4sox eastt13/eastt-bdg
+sacredtarge 346def 60chancetoblock Smite Damage: 22 to 70 41@ ETH 4sox eastt1/eastt-bi
 sacredtarge 351def 60chancetoblock Smite Damage: 22 to 70 61ed 101ar ETH 4sox eastt3/eastt-dj
 sacredtarge 351def 60chancetoblock Smite Damage: 22 to 70 65ed 121ar ETH 4sox eastt1/eastt-bk
 Spirit sacredtarge 126def 60chancetoblock Smite Damage: 22 to 70 35fcr 108mana 79cr 79lr 44fr 79pr 5magicabs 4sox eastt9/eastt-jf
 Spirit sacredtarge 126def 60chancetoblock Smite Damage: 22 to 70 35fcr 97mana 79cr 79lr 44fr 79pr 6magicabs 4sox eastt10/eastt-baq
+Spirit sacredtarge 127def 60chancetoblock Smite Damage: 22 to 70 35fcr 104mana 79cr 79lr 44fr 79pr 7magicabs 4sox eastt14/eastt-beb
 Spirit sacredtarge 127def 60chancetoblock Smite Damage: 22 to 70 35fcr 105mana 79cr 79lr 44fr 79pr 6magicabs 4sox eastt12/eastt-bce
 Spirit sacredtarge 127def 60chancetoblock Smite Damage: 22 to 70 35fcr 108mana 79cr 79lr 44fr 79pr 7magicabs 4sox eastt10/eastt-bar
+Spirit sacredtarge 132def 60chancetoblock Smite Damage: 22 to 70 35fcr 112mana 80cr 80lr 45fr 80pr 8magicabs 4sox eastt14/eastt-bed
 Spirit sacredtarge 134def 60chancetoblock Smite Damage: 22 to 70 2allskills 35fcr 55fhr 65ed 116ar 22vita 90mana 5magicabs 4sox eastt4/eastt-er
 Spirit sacredtarge 134def 60chancetoblock Smite Damage: 22 to 70 35fcr 105mana 80cr 80lr 45fr 80pr 4magicabs 4sox eastt12/eastt-bcp
 Spirit sacredtarge 135def 60chancetoblock Smite Damage: 22 to 70 35fcr 106mana 80cr 80lr 45fr 80pr 3magicabs 4sox eastt8/eastt-ia
@@ -3311,8 +3440,10 @@ Spirit sacredtarge 144def 60chancetoblock Smite Damage: 22 to 70 35fcr 105mana 7
 Spirit sacredtarge 145def 60chancetoblock Smite Damage: 22 to 70 35fcr 110mana 80cr 80lr 45fr 80pr 6magicabs 4sox eastt12/eastt-bcg
 Spirit sacredtarge 150def 60chancetoblock Smite Damage: 22 to 70 35fcr 108mana 80cr 80lr 45fr 80pr 7magicabs 4sox eastt4/eastt-en
 Spirit sacredtarge 155def 60chancetoblock Smite Damage: 22 to 70 35fcr 103mana 79cr 79lr 44fr 79pr 6magicabs 4sox eastt5/eastt-fk
+Spirit sacredtarge 155def 60chancetoblock Smite Damage: 22 to 70 35fcr 104mana 80cr 80lr 45fr 80pr 6magicabs 4sox eastt13/eastt-bdr
 Spirit sacredtarge 155def 60chancetoblock Smite Damage: 22 to 70 35fcr 107mana 79cr 79lr 44fr 79pr 4magicabs 4sox eastt8/eastt-ir
 Spirit sacredtarge 157def 60chancetoblock Smite Damage: 22 to 70 35fcr 104mana 79cr 79lr 44fr 79pr 3magicabs 4sox eastt4/eastt-em
+Spirit sacredtarge 158def 60chancetoblock Smite Damage: 22 to 70 35fcr 102mana 79cr 79lr 44fr 79pr 3magicabs 4sox eastt14/eastt-bee
 Superior Aerin Shield 39def 52chancetoblock Smite Damage: 4 to 10 LLD lvlreq15 65ed 121ar 7ed(def) eastt3/eastt-dl
 Superior Aerin Shield 40def 52chancetoblock Smite Damage: 4 to 10 LLD lvlreq15 65ed 121ar 10ed(def) eastt5/eastt-fi
 Superior Aerin Shield 42def 52chancetoblock Smite Damage: 4 to 10 LLD lvlreq15 15ed(def) 45@ 13dura eastt8/eastt-id
@@ -3345,6 +3476,7 @@ Superior sacredtarge 127def 60chancetoblock Smite Damage: 22 to 70 45@ 14dura ea
 Superior sacredtarge 129def 60chancetoblock Smite Damage: 22 to 70 45@ 14dura eastt6/eastt-gg
 Superior sacredtarge 130def 60chancetoblock Smite Damage: 22 to 70 65ed 114ar 10dura eastt7/eastt-hn
 Superior sacredtarge 134def 60chancetoblock Smite Damage: 22 to 70 45@ 14dura eastt7/eastt-hc
+Superior sacredtarge 136def 60chancetoblock Smite Damage: 22 to 70 45@ 15dura eastt14/eastt-beb
 Superior sacredtarge 156def 60chancetoblock Smite Damage: 22 to 70 45@ 14dura eastt10/eastt-baj
 Superior sacredtarge 171def 60chancetoblock Smite Damage: 22 to 70 8ed(def) 45@ 10dura eastt8/eastt-ip
 Superior sacredtarge 173def 60chancetoblock Smite Damage: 22 to 70 9ed(def) 45@ 14dura eastt5/eastt-fa
@@ -3371,6 +3503,7 @@ Superior Fetish Trophy 57def 35chancetoblock LLD lvlreq30 2-7psndmg(over 3s) 3bo
 Superior Preserved Head 5def 33chancetoblock LLD lvlreq30 5-14psndmg(over 3s) 3bonespirit 3bonespear 1life Tap 11dura eastt9/eastt-jf
 Superior Preserved Head 6def 33chancetoblock LLD lvlreq30 5-14psndmg(over 3s) 2bonespirit 1 to Poison Nova 3bonespear 6ed(def) 13dura eastt10/eastt-bad
 Unraveller Head 10def 38chancetoblock 2necskills 13-28psndmg(over 4s) 3bonespear 1life Tap 3liferep eastt2/eastt-ck
+Unraveller Head 16def 58chancetoblock LLD lvlreq18 30fbr 20incchanceofblocking 2-7psndmg(over 3s) 3bonespear 1 to Poison Explosion 49ed(def) eastt13/eastt-bdq
 Unraveller Head 6def 58chancetoblock LLD lvlreq18 30fbr 20incchanceofblocking 2-7psndmg(over 3s) 3bonespear eastt7/eastt-hb
 Zombie Head 8def 35chancetoblock LLD lvlreq30 2pnbskills 2-7psndmg(over 3s) 3bonespirit 1 to Confuse eastt4/eastt-el
 
@@ -3398,6 +3531,7 @@ War Hammer dmg19-29 3warcries 27str 50damagetoundead eastt11/eastt-bbh
 [B]Throwing Weapons[/B]
 Balanced Axe throwdmg84-106 dmg32-73 quantity:51 10ias 371ed 3maxdmg 123ar 48-82firedmg 1-10light dmg ETH eastt9/eastt-je
 Cracked Flying Axe throwdmg11-49 dmg12-48 quantity:122 eastt6/eastt-gh
+Crude Flying Knife throwdmg17-40 dmg17 to 40 quantity:171 eastt14/eastt-bed
 Lacerator Winged Axe throwdmg30-270 dmg48-252 quantity:180 33AmpOnStriking 30ias 200ed 33openwounds PreventMonsterHeal HitCausesMonsterFlee50 ReplenishesQuantity ETH eastt12/eastt-bch
 Plague Hew Battle Dart throwdmg22-45 dmg16-30 quantity:155 LLD lvlreq30 2warcries 91ed 1mindmg 86ar 5str req-20 eastt13/eastt-bdl
 Superior Balanced Knife throwdmg6-11 dmg1-8 quantity:117 3ar eastt4/eastt-ef
@@ -3414,6 +3548,7 @@ Reflex Bow dmg41-88 5AmpOnStriking 1bowskills 2amaskills 361ed 1maxdmg 184ar eas
 Stag Bow dmg32-55 5AmpOnStriking 1bowskills 365ed 104ar 15-34 colddmg eastt10/eastt-bai
 2x Superior Stag Bow dmg8-13 LLD lvlreq14 3bowskills 15ed 2ar eastt10/eastt-bak eastt3/eastt-dh
 Superior Stag Bow dmg8-13 LLD lvlreq14 3bowskills 15ed 3ar eastt8/eastt-id
+Superior Stag Bow dmg8-13 LLD lvlreq14 3bowskills 15ed 5sox eastt13/eastt-bdo
 
 [B]Amazon Spears[/B]
 Cracked Maiden Spear dmg13-18 LLD lvlreq14 3javaskills eastt4/eastt-ef
@@ -3428,6 +3563,7 @@ Crude Short War Bow dmg4-10 eastt12/eastt-bcr
 Double Bow dmg48-114 20ias 340ed 154ar 21psndmg(over 4s) 7dex eastt4/eastt-em
 Edge Bow dmg29-78 256ed 0maxdmg (based on clvl) 8-11dmg 90ar 16ar (based on clvl) 1-5firedmg eastt4/eastt-eq
 Fiend Loom Blade Bow dmg101-198 382ed 1maxdmg 170ar 6psndmg(over 2s) 2dex eastt13/eastt-bdn
+Great Bow dmg12-52 unid eastt14/eastt-bed
 Great Bow dmg47-210 5AmpOnStriking 299ed 0maxdmg (based on clvl) 3maxdmg 19ar 16ar (based on clvl) eastt10/eastt-bap
 Great Bow dmg55-238 359ed 103ar 30damagetodemons 87ar againstdemons 1-2firedmg 1-10light dmg eastt9/eastt-jc
 Great Bow dmg55-239 361ed 214ar 1-29light dmg 7psndmg(over 3s) eastt10/eastt-bao
@@ -3440,22 +3576,28 @@ Short War Bow dmg34-68 381ed 6mindmg 155ar 17mana eastt13/eastt-bdh
 
 [B]Crossbows[/B]
 Cracked Light Crossbow dmg4-6 eastt2/eastt-cm
+Siege Crossbow dmg20-42 unid eastt14/eastt-bed
 Superior Crossbow dmg10-18 15ed 1ar 4sox eastt8/eastt-ii
 3x Superior Crossbow dmg10-18 15ed 4sox eastt11/eastt-bbj eastt5/eastt-fr eastt8/eastt-id
 
 [B]Javelins[/B]
 Balrog Spear throwdmg40-62 dmg33-63 quantity:21 eastt7/eastt-hq
 Cracked Spiculum throwdmg24-45 dmg9-28 quantity:13 LLD lvlreq25 eastt4/eastt-ef
+Low Quality Throwing Spear throwdmg9-22 dmg3-11 quantity:36 eastt13/eastt-bdp
 Raven Picket Harpoon throwdmg23-71 dmg17-46 quantity:56 LLD lvlreq26 5AmpOnStriking 30ias 33ed 38ar 18cr eastt13/eastt-bdm
 Throwing Spear throwdmg28-82 dmg11-45 quantity:121 LLD lvlreq18 20ias 61ed 10maxdmg 8cr IncreasedStackSize ReplenishesQuantity ETH eastt12/eastt-bch
 War Javelin throwdmg14-34 dmg6-21 quantity:33 LLD lvlreq18 5AmpOnStriking 1warcries 10ias 2maxdmg 4manaaftereachkill eastt10/eastt-bal
 War Javelin throwdmg23-52 dmg9-31 quantity:31 LLD lvlreq18 20ias 65ed 15ar 4-8firedmg 8-23 colddmg eastt4/eastt-ea
 War Javelin throwdmg26-60 dmg11-35 quantity:60 LLD lvlreq18 5 Chance to cast level 3 Fire Bolt on attack 20ias 88ed 24ar ReplenishesQuantity eastt13/eastt-bdj
 
+[B]Wands[/B]
+Petrified Wand dmg8-24 LLD lvlreq30 1 to Poison Nova 3bonespear 1 to Wall 50damagetoundead eastt14/eastt-beb
+
 [B]Staves[/B]
 Battle Staff dmg6-13 LLD lvlreq24 1chillingarmor 2blizzard 3energy Shield 50damagetoundead 1sox eastt10/eastt-bag
 Battle Staff dmg6-13 LLD lvlreq24 3chillingarmor 3energy Shield 50damagetoundead eastt5/eastt-fh
 Battle Staff dmg6-13 LLD lvlreq24 3energy Shield 50damagetoundead 4sox eastt13/eastt-bdm
+Battle Staff dmg6-13 unid eastt13/eastt-bdp
 Brimstone Bludgeon Gnarled Staff dmg4-12 LLD lvlreq26 20fcr 8-16firedmg 54mana 15cr lvl5 Teleport (15/48 Charges) 50damagetoundead eastt9/eastt-jk
 Gnarled Staff dmg6-18 LLD lvlreq24 3energy Shield 2 to Meteor 1 to Lightning 50damagetoundead ETH 4sox eastt12/eastt-bcn
 Superior Cedar Staff dmg16-48 LLD lvlreq25 2ar 2chillingarmor 3energy Shield 1 to Shiver Armor 50damagetoundead ETH eastt8/eastt-ip
@@ -3480,6 +3622,7 @@ Superior Phase Blade dmg34-39 12ed 5sox eastt8/eastt-il
 [B]Swords (2H)[/B]
 Claymore dmg13-30 unid eastt6/eastt-gp
 Claymore dmg38-104 LLD lvlreq26 30ias 105ed 12maxdmg 59ar selfrep ETH eastt2/eastt-ca
+Flamberge dmg13-26 eastt13/eastt-bdp
 Gothic Sword dmg39-60 unid eastt6/eastt-gh
 2x Superior Executioner Sword dmg54-92 LLD lvlreq25 15ed 3ar eastt5/eastt-fa eastt7/eastt-hh
 Superior Zweihander dmg33-62 LLD lvlreq25 15ed 3ar 5sox eastt8/eastt-id
@@ -3523,6 +3666,7 @@ FeralClaws dmg33-79 3ls 2 to Cloak of Shadows ETH eastt5/eastt-fj
 FeralClaws dmg33-79 3ls ETH eastt7/eastt-hc
 FeralClaws dmg33-79 3wof 3ls ETH eastt2/eastt-cf
 Greater Talons dmg21-35 1bladeshield 1dragonflight 3ls eastt6/eastt-gq
+Greater Talons dmg21-35 1bladesofice 1mb 3ls eastt14/eastt-bed
 Greater Talons dmg21-35 1bladesofice 2mb 3ls 3sox eastt7/eastt-hr
 Greater Talons dmg21-35 1mb 3ls 1bladefury eastt6/eastt-gj
 Greater Talons dmg21-35 1mb 3ls 1cobrastrike eastt5/eastt-fo
@@ -3533,6 +3677,7 @@ Greater Talons dmg21-35 3ls 1fade 1weaponblock 3sox eastt8/eastt-ih
 Greater Talons dmg21-35 3ls 1weaponblock 3sox eastt8/eastt-if
 Greater Talons dmg21-35 3mb 3ls eastt7/eastt-he
 Greater Talons dmg21-35 3sm 1wof 3ls eastt11/eastt-bbk
+Greater Talons dmg21-35 3venom 2dragonflight 3ls 3sox eastt14/eastt-beb
 Greater Talons dmg31-52 3ls 2 to Wake ETH eastt12/eastt-bce
 Greater Talons dmg81-138 289ed 2maxdmg 0maxdmg (based on clvl) 20ar 16ar (based on clvl) 7psndmg(over 3s) 2mb eastt10/eastt-bap
 Hand Scythe dmg16-37 LLD lvlreq30 10 Chance to cast level 3 Nova on striking 1assaskills 3ls eastt6/eastt-gc
@@ -3548,6 +3693,7 @@ Hand Scythe dmg16-37 LLD lvlreq30 2deathsentry 3ls 2 to Warrior eastt6/eastt-gm
 Hand Scythe dmg16-37 LLD lvlreq30 2dragonflight 3ls 1 to Bolt Sentry eastt10/eastt-bal
 Hand Scythe dmg16-37 LLD lvlreq30 2dragonflight 3ls 2sox eastt13/eastt-bdj
 Hand Scythe dmg16-37 LLD lvlreq30 2mb 1bladefury 3 to Wake eastt8/eastt-ii
+Hand Scythe dmg16-37 LLD lvlreq30 2shadowdisciplines 3mb 3wof eastt13/eastt-bdp
 Hand Scythe dmg16-37 LLD lvlreq30 2venom 1mb 3ls eastt6/eastt-gm
 Hand Scythe dmg16-37 LLD lvlreq30 2venom 2dragonflight 3ls eastt3/eastt-dr
 Hand Scythe dmg16-37 LLD lvlreq30 3dragonflight 1wof 3ls eastt10/eastt-bab
@@ -3559,6 +3705,7 @@ Scissors Quhab dmg19-40 1bladesofice 2mb 3ls 3sox eastt13/eastt-bdm
 Scissors Quhab dmg19-40 1mb 3ls 1cobrastrike eastt6/eastt-gq
 Scissors Quhab dmg19-40 1sm 2wof 3ls 3sox eastt3/eastt-do
 Scissors Quhab dmg19-40 1sm 3ls 3bladefury eastt3/eastt-de
+Scissors Quhab dmg19-40 1sm 3ls eastt14/eastt-bed
 Scissors Quhab dmg19-40 1venom 2mb 3ls eastt4/eastt-eh
 3x Scissors Quhab dmg19-40 1venom 3ls eastt10/eastt-bag eastt13/eastt-bdc eastt8/eastt-ir
 Scissors Quhab dmg19-40 2mb 3ls eastt5/eastt-fn
@@ -3571,12 +3718,14 @@ Scissors Quhab dmg19-40 3mb 3ls eastt6/eastt-go
 Scissors Quhab dmg68-144 40ias 258ed 1maxdmg 0maxdmg (based on clvl) 16ar (based on clvl) 211damagetoundead 286ar against Undead eastt10/eastt-bap
 Superior FeralClaws dmg25-60 14ed 3ls 1 to Bolt Sentry eastt8/eastt-in
 Superior Greater Talons dmg22-38 9ed 1bladesofice 1mb 3ls eastt4/eastt-eo
+Superior Greater Talons dmg33-55 7ed 1venom 3ls 13dura ETH eastt13/eastt-bdo
 Superior Hand Scythe dmg16-37 LLD lvlreq30 1ar 1dragonflight 1mb 2ls eastt5/eastt-fh
 Superior Hand Scythe dmg16-37 LLD lvlreq30 2ar 2mb 3ls 1clawsofthundr 12dura eastt5/eastt-ff
 Superior Hand Scythe dmg17-41 LLD lvlreq30 11ed 1bladeshield 1dragonflight 3ls 12dura 2sox eastt12/eastt-bce
 Superior Hand Scythe dmg18-42 LLD lvlreq30 14ed 1mb 3ls 2sox eastt8/eastt-iq
 Superior Hand Scythe dmg18-42 LLD lvlreq30 15ed 2dragonflight 3ls eastt6/eastt-ge
 Superior Hand Scythe dmg25-59 LLD lvlreq30 8ed 3mb 1wof 3ls 14dura ETH 2sox eastt12/eastt-bcn
+Superior Scissors Quhab dmg19-40 1ar 1sm 3ls 3 to Cloak of Shadows eastt13/eastt-bdq
 Superior Scissors Quhab dmg20-42 6ed 3ar 2mb 3ls eastt12/eastt-bci
 Superior Suwayyah dmg39-52 3ar 1mb 3ls 2cobrastrike 10dura eastt13/eastt-bdm
 Superior Suwayyah dmg39-52 3ar 1mb 3ls eastt11/eastt-bba
@@ -3593,9 +3742,11 @@ Superior War Fist dmg44-53 3ar 2mb 3ls eastt7/eastt-hn
 Superior War Fist dmg47-57 8ed 1mb 3ls 15dura eastt1/eastt-bs
 Superior War Fist dmg50-60 15ed 2phoenixstrike 3ls 13dura eastt7/eastt-hl
 Superior War Fist dmg69-83 6ed 3ls ETH eastt9/eastt-jr
+Suwayyah dmg143-204 30ias 268ed 13maxdmg 0maxdmg (based on clvl) 59ar 16ar (based on clvl) 2ls eastt14/eastt-bea
 Suwayyah dmg39-52 1mb 3ls 2 to Dragon Tail 3sox eastt12/eastt-bcf
 Suwayyah dmg39-52 1mb 3ls eastt9/eastt-jk
 Suwayyah dmg39-52 2dragonflight 1mb 3ls eastt1/eastt-bt
+Suwayyah dmg39-52 2dragonflight 2mb 3ls eastt13/eastt-bdr
 Suwayyah dmg39-52 2dragonflight 3ls 3weaponblock eastt13/eastt-bdi
 Suwayyah dmg39-52 2mb 3ls 1 to Warrior eastt2/eastt-cr
 Suwayyah dmg39-52 2sm 1wof 3ls eastt9/eastt-je
@@ -3644,7 +3795,6 @@ sacredglobe dmg3-8 2sorcskills 20fcr 1-178light dmg 3 to Fire Ball 40mana 33lr e
 2x The Oculus Swirling Crystal dmg18-42 25 Chance to cast level 1 Teleport when struck 3sorcskills 30fcr 20 Enhanced def 20vita 20energy 20@ 5manaaftereachkill 50mf eastt3/eastt-df eastt5/eastt-fc
 
 [B]Axes (1H)[/B]
-Axe dmg4-11 unid eastt1/eastt-bj
 Balanced Axe throwdmg84-106 dmg32-73 quantity:51 10ias 371ed 3maxdmg 123ar 48-82firedmg 1-10light dmg ETH eastt9/eastt-je
 Cracked Flying Axe throwdmg11-49 dmg12-48 quantity:122 eastt6/eastt-gh
 Lacerator Winged Axe throwdmg30-270 dmg48-252 quantity:180 33AmpOnStriking 30ias 200ed 33openwounds PreventMonsterHeal HitCausesMonsterFlee50 ReplenishesQuantity ETH eastt12/eastt-bch
@@ -3653,6 +3803,7 @@ Low Quality Silver-edged Axe dmg46-82 eastt6/eastt-gp
 Military Pick dmg10-16 3warcries 9str ETH eastt8/eastt-im
 Naga dmg35-100 LLD lvlreq26 30ias 123ed 76ar 1-3firedmg 1-173light dmg eastt9/eastt-jd
 Naga dmg39-93 LLD lvlreq26 30ias 100ed 7mindmg 3maxdmg 91ar eastt10/eastt-baj
+Naga dmg48-134 LLD lvlreq25 100ed selfrep ETH eastt13/eastt-bdq
 Superior Ettin Axe dmg37-75 15ed 12dura 5sox eastt4/eastt-ek
 Superior Ettin Axe dmg37-75 15ed 13dura 5sox eastt4/eastt-er
 Superior Hatchet dmg16-34 LLD lvlreq19 11ed ETH 2sox eastt7/eastt-hq
@@ -3660,7 +3811,6 @@ Superior Naga dmg18-51 LLD lvlreq25 15ed 1ar 5sox eastt2/eastt-co
 2x Superior Naga dmg18-51 LLD lvlreq25 15ed 5sox eastt2/eastt-ch eastt6/eastt-gd
 Superior Small Crescent dmg62-99 10ed 1ar ETH 4sox eastt5/eastt-ff
 4x Superior War Axe dmg11-20 15ed 3ar eastt10/eastt-bao eastt13/eastt-bdd eastt6/eastt-gp eastt8/eastt-ia
-Tomahawk dmg33-58 unid eastt1/eastt-bj
 Wraith Hew Throwing Axe throwdmg11-17 dmg5-9 quantity:28 LLD lvlreq30 2warcries 42ed 27ar 1-3firedmg 5ml 1str eastt5/eastt-fe
 
 [B]Axes (2H)[/B]
@@ -3668,6 +3818,7 @@ Bearded Axe dmg21-49 LLD lvlreq25 eastt7/eastt-hp
 Crude Battle Axe dmg9-24 eastt6/eastt-gp
 Decapitator dmg49-137 unid eastt1/eastt-bj
 Gothic Axe dmg18-70 unid eastt12/eastt-bcr
+Low Quality Gothic Axe dmg13-52 LLD lvlreq25 eastt13/eastt-bdp
 Military Axe dmg14-34 unid eastt2/eastt-cm
 Tabar dmg24-77 LLD lvlreq25 4sox eastt6/eastt-gh
 
@@ -3675,14 +3826,14 @@ Tabar dmg24-77 LLD lvlreq25 4sox eastt6/eastt-gh
 8x Battle Scythe dmg18-45 LLD lvlreq25 4sox eastt13/eastt-bdn eastt2/eastt-ci eastt4/eastt-en eastt4/eastt-ep eastt6/eastt-ga eastt7/eastt-ha eastt8/eastt-ih eastt8/eastt-ih
 10x Bill dmg14-53 LLD lvlreq25 4sox eastt1/east-bg eastt12/eastt-bcl eastt13/eastt-bdi eastt2/eastt-cc eastt5/eastt-fl eastt6/eastt-ge eastt6/eastt-gm eastt8/eastt-id eastt8/eastt-ig eastt9/eastt-jg
 Bonehew Ogre Axe dmg172-889 50 Chance to cast level 16 Spear on striking 30ias 310ed PreventMonsterHeal lvl14 Corpse Explosion (27/30 Charges) ETH 2sox eastt1/eastt-bj
-84x Colossus Voulge dmg25-247 ETH 4sox
+88x Colossus Voulge dmg25-247 ETH 4sox
 3x Colossus Voulge dmg25-247 ETH eastt10/eastt-baj eastt6/eastt-gj eastt7/eastt-hl
 Cracked Poleaxe dmg13-29 eastt3/eastt-de
 Crude Poleaxe dmg13-29 eastt6/eastt-gp
 Cryptic Axe dmg49-225 ETH 1sox eastt9/eastt-jd
 Cryptic Axe dmg49-225 ETH 2sox eastt3/eastt-dh
 Cryptic Axe dmg49-225 ETH 3sox eastt4/eastt-eo
-30x Cryptic Axe dmg49-225 ETH 4sox
+32x Cryptic Axe dmg49-225 ETH 4sox
 Cryptic Axe dmg49-225 ETH 5sox eastt3/eastt-dc
 Cryptic Axe dmg49-225 ETH eastt5/eastt-fd
 Great Poleaxe dmg69-190 ETH 4sox eastt9/eastt-jg
@@ -3714,6 +3865,7 @@ Superior Poleaxe dmg18-39 15dura 4sox eastt5/eastt-fc
 Superior Poleaxe dmg18-39 1ar 11dura 4sox eastt7/eastt-ho
 Superior Poleaxe dmg18-39 1ar 14dura 4sox eastt9/eastt-jm
 Superior Poleaxe dmg18-39 1ar 15dura 4sox eastt3/eastt-dd
+Superior Poleaxe dmg18-40 5ed 11dura 4sox eastt14/eastt-bee
 Superior Poleaxe dmg19-41 7ed 14dura 4sox eastt11/eastt-bbm
 Superior Poleaxe dmg20-44 15ed 4sox eastt2/eastt-co
 Superior Poleaxe dmg31-66 15ed 15dura ETH 4sox eastt4/eastt-eh
@@ -3731,11 +3883,11 @@ Superior War Scythe dmg15-36 3ar 15dura 4sox eastt5/eastt-fq
 Superior War Scythe dmg17-41 14ed 4sox eastt11/eastt-bbi
 Thresher dmg18-211 ETH 1sox eastt7/eastt-hm
 2x Thresher dmg18-211 ETH 2sox eastt3/eastt-dr eastt6/eastt-gp
-35x Thresher dmg18-211 ETH 4sox
+38x Thresher dmg18-211 ETH 4sox
 2x Thresher dmg18-211 ETH eastt4/eastt-ed eastt9/eastt-jp
-10x Voulge dmg6-21 4sox eastt10/eastt-bag eastt10/eastt-bak eastt11/eastt-bbk eastt11/eastt-bbo eastt12/eastt-bca eastt12/eastt-bcd eastt12/eastt-bcf eastt2/eastt-cq eastt8/eastt-ie eastt8/eastt-ii
+12x Voulge dmg6-21 4sox
 Voulge dmg9-31 ETH 4sox eastt2/eastt-ch
-11x War Scythe dmg15-36 4sox
+12x War Scythe dmg15-36 4sox
 War Scythe dmg85-210 40ias 289ed 0maxdmg (based on clvl) 113ar 16ar (based on clvl) 4ml ETH eastt12/eastt-bcn
 
 [B]Scepters[/B]
@@ -3745,9 +3897,11 @@ Superior War Scepter dmg10-18 LLD lvlreq12 6ed 3 to Charge 1 to Zeal 50damagetou
 Superior War Scepter dmg11-18 LLD lvlreq30 11ed 2ar 2conviction 2foh 50damagetoundead eastt10/eastt-bab
 Superior War Scepter dmg11-19 LLD lvlreq24 12ed 1 to Sanctuary 3 to Zeal 11dura 50damagetoundead eastt3/eastt-dr
 Superior War Scepter dmg16-26 LLD lvlreq24 7ed 1conversion 3 to Zeal 12dura 50damagetoundead ETH eastt7/eastt-hg
+War Scepter dmg10-17 LLD lvlreq12 3 to Zeal 50damagetoundead eastt13/eastt-bdr
 War Scepter dmg10-17 LLD lvlreq24 1 to Sanctuary 1holyfreeze 3 to Zeal 50damagetoundead eastt8/eastt-in
 War Scepter dmg10-17 LLD lvlreq24 1meditation 3 to Zeal 50damagetoundead eastt2/eastt-ca
 War Scepter dmg10-17 LLD lvlreq24 1meditation 3holyshield 50damagetoundead eastt6/eastt-gr
+War Scepter dmg10-17 LLD lvlreq24 2meditation 1 to Sanctuary 3 to Zeal 50damagetoundead eastt14/eastt-bed
 War Scepter dmg10-17 LLD lvlreq30 1conviction 1 to Sanctuary 3 to Zeal 50damagetoundead eastt11/eastt-bbl
 War Scepter dmg10-17 LLD lvlreq30 1redemption 3 to Fanaticism 2concentration 50damagetoundead eastt8/eastt-ir
 War Scepter dmg10-17 LLD lvlreq30 2conviction 2foh 50damagetoundead eastt12/eastt-bco
@@ -3768,9 +3922,10 @@ Corpse Stake Maiden Javelin throwdmg6-22 dmg8-14 quantity:77 2javaskills 2amaski
 Maiden Javelin throwdmg6-22 dmg8-14 quantity:73 3javaskills 1amaskills 40ias eastt4/eastt-ef
 Titan's Revenge Ceremonial Javelin throwdmg79-212 dmg79 to 155 30frw 200ed 25-50dmg 7ll eastt11/eastt-bbg
 Titan's Revenge Ceremonial Javelin throwdmg79-212 dmg79 to 155 30frw 200ed 25-50dmg 9ll eastt7/eastt-hj
-7x Titans unid ETH eastt10/eastt-bar eastt11/eastt-bbj eastt12/eastt-bcd eastt12/eastt-bcr eastt2/eastt-cg eastt2/eastt-co eastt3/eastt-db
+8x Titans unid ETH eastt10/eastt-bar eastt11/eastt-bbj eastt12/eastt-bcd eastt12/eastt-bcr eastt13/eastt-bdq eastt2/eastt-cg eastt2/eastt-co eastt3/eastt-db
 
 [B]Gems & Keys[/B]
 flawedruby eastt4/eastt-ef
+flawlessamethyst eastt13/eastt-bdp
 3x flawlessdiamond eastt3/eastt-dg eastt3/eastt-dg eastt3/eastt-di
 normalsapphire eastt2/eastt-cm
